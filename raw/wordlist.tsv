@@ -1,0 +1,2333 @@
+ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	CHINESE	VALUE	FORM	COGID
+968	PBz	Chinese		 漢	*pʰɑ¹ᴴ	*pʰɑ¹ᴴ	1015
+969	FX	Chinese		 漢	pʰa⁵⁵	pʰa⁵⁵	1015
+970	XR	Chinese		 漢	pʰa⁵⁵ kʰa³³	pʰa⁵⁵ kʰa³³	1015
+971	CB	Chinese	汉族 (Han people)	 漢	pʰa⁵⁵ lie²¹ ʕei⁵⁵ wu²¹ '汉族 (Han people)'	pʰa⁵⁵ lie²¹ ʕei⁵⁵ wu²¹	1015
+319	PBz	Hmongic		 苗族	*b[e/ɤ]@?	*b@?	56
+320	FX	Hmongic		 苗族	pe³⁵ kʰa²¹	pe³⁵ kʰa²¹	56
+321	XR	Hmongic		 苗族	pɯə³⁵ kʰa⁵⁴	pɯə³⁵ kʰa⁵⁴	56
+322	CB	Hmongic		 苗族	bie³³	bie³³	56
+323	CJ	Hmongic		 苗族	bie³¹ ʕɯ³¹ ȵia²¹	bie³¹ ʕɯ³¹ ȵia²¹	56
+105	PBz	I		 我	*ŋɑ¹ᴹ	*ŋɑ¹ᴹ	19
+106	TS	I		 我	ŋa²⁴	ŋa²⁴	19
+107	FX	I		 我	ŋa³⁵ (nom.)	ŋa³⁵	19
+108	FX	I		 我	ŋa⁵³ (acc.)	ŋa⁵³	19
+109	XR	I		 我	ŋa³³	ŋa³³	19
+110	XL	I		 我	ŋa³⁵	ŋa³⁵	19
+111	CB	I		 我	ŋo³³	ŋo³³	19
+2212	PBz	Tujia		 土家	*Øm̩⁴	*Øm̩⁴	2113
+2213	TS	Tujia		 土家	pi²⁴ ʦɿ⁵⁵ kʰa²¹	pi²⁴ ʦɿ⁵⁵ kʰa²¹	2113
+2214	FX	Tujia		 土家	pi³⁵ ʦi⁵³ kʰa²¹	pi³⁵ ʦi⁵³ kʰa²¹	2113
+2215	XR	Tujia		 土家	mi³⁵ ʨi⁵⁵ kʰa³³-⁵⁵	mi³⁵ ʨi⁵⁵ kʰa³³-⁵⁵	2113
+2216	XL	Tujia		 土家	pi³⁵ ʨi⁵⁵ kʰa²¹	pi³⁵ ʨi⁵⁵ kʰa²¹	2113
+2217	CB	Tujia		 土家	m̩²¹ ǳɿ²¹	m̩²¹ ǳɿ²¹	2113
+2218	CJ	Tujia		 土家	m̩²¹ ǳɿ²¹	m̩²¹ ǳɿ²¹	2113
+2219	PBz	Tujia		 土家	*ǳi⁴	*ǳi⁴	2114
+2220	TS	Tujia		 土家	pi²⁴ ʦɿ⁵⁵ kʰa²¹	pi²⁴ ʦɿ⁵⁵ kʰa²¹	2114
+2221	FX	Tujia		 土家	pi³⁵ ʦi⁵³ kʰa²¹	pi³⁵ ʦi⁵³ kʰa²¹	2114
+2222	XR	Tujia		 土家	mi³⁵ ʨi⁵⁵ kʰa³³-⁵⁵	mi³⁵ ʨi⁵⁵ kʰa³³-⁵⁵	2114
+2223	XL	Tujia		 土家	pi³⁵ ʨi⁵⁵ kʰa²¹	pi³⁵ ʨi⁵⁵ kʰa²¹	2114
+2224	CB	Tujia		 土家	m̩²¹ ǳɿ²¹	m̩²¹ ǳɿ²¹	2114
+2225	CJ	Tujia		 土家	m̩²¹ ǳɿ²¹	m̩²¹ ǳɿ²¹	2114
+1277	PBz	all		 全部	*ni¹ᴴ	*ni¹ᴴ	1069
+1278	FX	all		 全部	xu³⁵ ȵi⁵³	xu³⁵ ȵi⁵³	1069
+1279	XR	all		 全部	kʰɯ³⁵-³³ li⁵⁵	kʰɯ³⁵-³³ li⁵⁵	1069
+1280	CB	all	都	 全部	bu¹³ li⁵⁵ '都'	bu¹³ li⁵⁵	1069
+1281	CJ	all	都	 全部	bu¹³ li⁵³	bu¹³ li⁵³	1069
+1546	PBz	almost		 快要	*gɯ@?	*gɯ@?	1120
+1547	TS	almost		 快要	-ku²⁴ (现在)	-ku²⁴	1120
+1548	CB	almost		 快要	ǳɯ²¹ gɯ¹³	ǳɯ²¹ gɯ¹³	1120
+1579	PBz	ant		 螞蟻	*s[V]@?	*s@?	2005
+1580	TS	ant		 螞蟻	sɿ⁵⁵ ȵi²¹ ka²¹	sɿ⁵⁵ ȵi²¹ ka²¹	2005
+1581	XR	ant		 螞蟻	ɕi⁵⁴ ni³³ ka⁵⁴ pa⁵⁴	ɕi⁵⁴ ni³³ ka⁵⁴ pa⁵⁴	2005
+1582	CB	ant		 螞蟻	sa²¹ ȵi³⁵	sa²¹ ȵi³⁵	2005
+1583	CJ	ant		 螞蟻	sa²¹ ȵi³⁵	sa²¹ ȵi³⁵	2005
+1584	PBz	ant		 螞蟻	*ȵi²	*ȵi²	2006
+1585	TS	ant		 螞蟻	sɿ⁵⁵ ȵi²¹ ka²¹	sɿ⁵⁵ ȵi²¹ ka²¹	2006
+1586	FX	ant		 螞蟻	si⁵³ ȵi²¹ ka²¹	si⁵³ ȵi²¹ ka²¹	2006
+1587	XR	ant		 螞蟻	ɕi⁵⁴ ni³³ ka⁵⁴ pa⁵⁵	ɕi⁵⁴ ni³³ ka⁵⁴ pa⁵⁵	2006
+1588	CB	ant		 螞蟻	sa²¹ ȵi³⁵	sa²¹ ȵi³⁵	2006
+1589	CJ	ant		 螞蟻	sa²¹ ȵi³⁵	sa²¹ ȵi³⁵	2006
+1423	PBz	ashes		 灰	*ʦʰɿ⁴	*ʦʰɿ⁴	1096
+1424	FX	ashes		 灰	pu²¹ ʦʰi⁵³	pu²¹ ʦʰi⁵³	1096
+1425	XR	ashes		 灰	pu³³ ʦʰɿ³⁵	pu³³ ʦʰɿ³⁵	1096
+1426	XL	ashes		 灰	pu²¹ ʦʰi³⁵	pu²¹ ʦʰi³⁵	1096
+1427	CB	ashes		 灰	m¹³ ʦʰi⁵⁵	m¹³ ʦʰi⁵⁵	1096
+1051	PBz	at first		 先	*be²	*be²	1030
+1052	TS	at first		 先	ta²¹ pʰiɛ⁵⁵	ta²¹ pʰiɛ⁵⁵	1030
+1053	FX	at first		 先	ta³⁵ pie²¹	ta³⁵ pie²¹	1030
+1054	XR	at first		 先	na³³ pie⁵⁴	na³³ pie⁵⁴	1030
+1055	CB	at first		 先	bie³⁵	bie³⁵	1030
+955	PBz	bad		 壞	*ȵɑ⁴	*ȵɑ⁴	1012
+956	TS	bad		 壞	ɕi²⁴ lã⁵⁵	ɕi²⁴ lã⁵⁵	1012
+957	FX	bad		 壞	nã³³	nã³³	1012
+958	XR	bad		 壞	ȵi³³ nã³³	ȵi³³ nã³³	1012
+959	XL	bad		 壞	ɕi³⁵ la³⁵	ɕi³⁵ la³⁵	1012
+960	CB	bad		 壞	ki⁴⁴ ȵo²¹	ki⁴⁴ ȵo²¹	1012
+1456	PBz	bamboo		 竹子	*mu²	*mu²	1102
+1457	TS	bamboo		 竹子	mu⁵¹ ȵiɛ²¹	mu⁵¹ ȵiɛ²¹	1102
+1458	FX	bamboo		 竹子	mu⁵³ ȵie²¹	mu⁵³ ȵie²¹	1102
+1459	XR	bamboo		 竹子	mu⁵⁴	mu⁵⁴	1102
+1460	XL	bamboo		 竹子	mu⁵³	mu⁵³	1102
+1461	CB	bamboo		 竹子	mu⁵⁵ tu³⁵	mu⁵⁵ tu³⁵	1102
+2202	PBz	bamboo mat		 竹蓆	*Øm̩¹ᴸ	*Øm̩¹ᴸ	2111
+2203	TS	bamboo mat		 竹蓆	pu⁵⁵ sɤ⁵⁵	pu⁵⁵ sɤ⁵⁵	2111
+2204	XR	bamboo mat		 竹蓆	mu³³ se³³	mu³³ se³³	2111
+2205	CB	bamboo mat		 竹蓆	m̩²¹ ɕie²¹	m̩²¹ ɕie²¹	2111
+2206	CJ	bamboo mat		 竹蓆	m²¹ se⁵³	m²¹ se⁵³	2111
+2207	PBz	bamboo mat		 竹蓆	*sɤ¹ᴴ	*sɤ¹ᴴ	2112
+2208	TS	bamboo mat		 竹蓆	pu⁵⁵ sɤ⁵⁵	pu⁵⁵ sɤ⁵⁵	2112
+2209	XR	bamboo mat		 竹蓆	mu³³ se³³	mu³³ se³³	2112
+2210	CB	bamboo mat		 竹蓆	m̩²¹ ɕie²¹	m̩²¹ ɕie²¹	2112
+2211	CJ	bamboo mat		 竹蓆	m²¹ se⁵³	m²¹ se⁵³	2112
+1408	PBz	beast		 獸	*sɿ²	*sɿ²	1093
+1409	TS	beast		 獸	sɿ²¹	sɿ²¹	1093
+1410	FX	beast		 獸	si²¹	si²¹	1093
+1411	CJ	beast		 獸	ǳa²¹ sɿ³⁵	ǳa²¹ sɿ³⁵	1093
+1387	PBz	bed		 牀	*dɑ[C]@?	*dɑ@?	1089
+1388	XL	bed		 牀	nie³⁵ do⁵⁵	nie³⁵ do⁵⁵	1089
+1389	CB	bed		 牀	nie²¹ do³⁵	nie²¹ do³⁵	1089
+1159	PBz	belly		 肚子	*mɤ@?	*mɤ@?	1049
+1160	TS	belly		 肚子	mɤ²¹	mɤ²¹	1049
+1161	FX	belly		 肚子	me²¹	me²¹	1049
+1162	XR	belly		 肚子	mɯə³³ tie³³	mɯə³³ tie³³	1049
+1163	XR	belly		 肚子	mo³³ ti³³	mo³³ ti³³	1049
+1164	CB	belly		 肚子	mai¹³ ʨi⁵⁵	mai¹³ ʨi⁵⁵	1049
+1590	PBz	belt		 腰帶	*pu²	*pu²	2007
+1591	TS	belt		 腰帶	mɤ²¹ pʰu²¹ la⁵⁵	mɤ²¹ pʰu²¹ la⁵⁵	2007
+1592	FX	belt		 腰帶	me²¹ pʰu²¹ la⁵³	me²¹ pʰu²¹ la⁵³	2007
+1593	XR	belt		 腰帶	kʰɯu³³ pi³³ la³⁵	kʰɯu³³ pi³³ la³⁵	2007
+1594	CB	belt		 腰帶	kʰu⁵⁵ bu¹³ lo⁵⁵	kʰu⁵⁵ bu¹³ lo⁵⁵	2007
+1595	CJ	belt		 腰帶	kʰu⁵⁵ pu³⁵ lo⁵³	kʰu⁵⁵ pu³⁵ lo⁵³	2007
+1596	PBz	belt		 腰帶	*lɑ¹ᴴ	*lɑ¹ᴴ	2008
+1597	TS	belt		 腰帶	mɤ²¹ pʰu²¹ la⁵⁵	mɤ²¹ pʰu²¹ la⁵⁵	2008
+1598	FX	belt		 腰帶	me²¹ pʰu²¹ la⁵³	me²¹ pʰu²¹ la⁵³	2008
+1599	XR	belt		 腰帶	kʰɯu³³ pi³³ la³⁵	kʰɯu³³ pi³³ la³⁵	2008
+1600	CB	belt		 腰帶	kʰu⁵⁵ bu¹³ lo⁵⁵	kʰu⁵⁵ bu¹³ lo⁵⁵	2008
+1601	CJ	belt		 腰帶	kʰu⁵⁵ pu³⁵ lo⁵⁴	kʰu⁵⁵ pu³⁵ lo⁵⁴	2008
+1373	PBz	big		 大	*ʦʰiC¹ᴹ	*ʦʰiC¹ᴹ	1087
+1374	TS	big		 大	ʦʰɿ⁵¹	ʦʰɿ⁵¹	1087
+1375	FX	big		 大	ʦʰi⁵³	ʦʰi⁵³	1087
+1376	XR	big		 大	ʨʰi⁵⁴	ʨʰi⁵⁴	1087
+1377	CB	big		 大	ʨʰi³³	ʨʰi³³	1087
+1248	PBz	bitter		 苦	*kʰi³	*kʰi³	1065
+1249	TS	bitter		 苦	kʰɨ²⁴ ʦɿ⁵⁵	kʰɨ²⁴ ʦɿ⁵⁵	1065
+1250	FX	bitter		 苦	kʰi³⁵ ʦi⁵³ ʦi⁵³	kʰi³⁵ ʦi⁵³ ʦi⁵³	1065
+1251	XR	bitter		 苦	kʰɯ³³ ʨe³³ ʨe³³	kʰɯ³³ ʨe³³ ʨe³³	1065
+1252	XR	bitter		 苦	kʰɯ³³ ʨe³³ ʨe³⁵	kʰɯ³³ ʨe³³ ʨe³⁵	1065
+1253	XL	bitter		 苦	kʰɯ³⁵ ʥi⁵⁵ ʥi³⁵	kʰɯ³⁵ ʥi⁵⁵ ʥi³⁵	1065
+1254	CB	bitter		 苦	kʰi⁵⁵	kʰi⁵⁵	1065
+1255	CJ	bitter		 苦	kʰi⁵³	kʰi⁵³	1065
+938	PBz	black		 黑	*nɑ⁴	*nɑ⁴	1009
+939	TS	black		 黑	lã²⁴ ka⁵⁵	lã²⁴ ka⁵⁵	1009
+940	FX	black		 黑	lan³⁵ ka²¹	lan³⁵ ka²¹	1009
+941	XR	black		 黑	nõ³⁵ ka³³	nõ³⁵ ka³³	1009
+942	XL	black		 黑	lã³⁵ ka⁵³	lã³⁵ ka⁵³	1009
+943	CB	black		 黑	lo²¹	lo²¹	1009
+944	CJ	black		 黑	lo²¹	lo²¹	1009
+1102	PBz	blood		 血	*m[e/eC]¹ᴸ	*m¹ᴸ	1039
+1103	TS	blood		 血	miɛ⁵¹	miɛ⁵¹	1039
+1104	FX	blood		 血	mie⁵³	mie⁵³	1039
+1105	XR	blood		 血	miɛ⁵⁴ miɛ³³-³¹	miɛ⁵⁴ miɛ³³-³¹	1039
+1106	XL	blood		 血	mie⁵³	mie⁵³	1039
+1107	CB	blood		 血	mi²¹ mi²¹	mi²¹ mi²¹	1039
+1108	CJ	blood		 血	mie²¹ mie²¹	mie²¹ mie²¹	1039
+707	PBz	boat		 船	*bu¹ᴸ	*bu¹ᴸ	125
+708	TS	boat		 船	pu⁵¹	pu⁵¹	125
+709	FX	boat		 船	pu⁵³	pu⁵³	125
+710	XR	boat		 船	pu⁵⁴	pu⁵⁴	125
+711	XL	boat		 船	pei⁵³	pei⁵³	125
+712	CB	boat		 船	bu¹³	bu¹³	125
+1175	PBz	boiling water		 開（水）	*pʰɤ¹ᴹ	*pʰɤ¹ᴹ	1052
+1176	TS	boiling water		 開（水）	pʰɤ⁵⁵ ʦʰɤ²¹	pʰɤ⁵⁵ ʦʰɤ²¹	1052
+1177	FX	boiling water		 開（水）	pʰe⁵³ ʦʰe²¹	pʰe⁵³ ʦʰe²¹	1052
+1178	XR	boiling water		 開（水）	pʰɯə⁵⁴ ʦʰə⁵⁴	pʰɯə⁵⁴ ʦʰə⁵⁴	1052
+1179	XR	boiling water		 開（水）	pʰɯɛ⁵⁴	pʰɯɛ⁵⁴	1052
+1180	XL	boiling water		 開（水）	pʰɯe⁵⁵	pʰɯe⁵⁵	1052
+1181	CB	boiling water		 開（水）	pʰe³³	pʰe³³	1052
+1315	PBz	bottom		 底下	*ti²	*ti²	1077
+1316	TS	bottom		 底下	pa²¹ tʰi²¹	pa²¹ tʰi²¹	1077
+1317	FX	bottom		 底下	pa²¹ ti²¹	pa²¹ ti²¹	1077
+1318	XR	bottom		 底下	pa³³ tʰi³³	pa³³ tʰi³³	1077
+1319	XL	bottom		 底下	ba²¹ tʰi³⁵	ba²¹ tʰi³⁵	1077
+1320	CB	bottom		 底下	a³³ di³⁵	a³³ di³⁵	1077
+1321	CJ	bottom		 底下	ʔɯ⁵⁵ ti³⁵	ʔɯ⁵⁵ ti³⁵	1077
+243	PBz	bovine		 牛	*ʔɑw⁴	*ʔɑw⁴	43
+244	FX	bovine		 牛	au³⁵	au³⁵	43
+245	XL	bovine		 牛	au³⁵	au³⁵	43
+246	CB	bovine		 牛	o²¹	o²¹	43
+1187	PBz	bowl		 碗	*ʨʰɤ²	*ʨʰɤ²	1054
+1188	TS	bowl		 碗	ʨʰiɛ²¹ pi²⁴	ʨʰiɛ²¹ pi²⁴	1054
+1189	FX	bowl		 碗	ʨʰi⁵³ pi⁵³	ʨʰi⁵³ pi⁵³	1054
+1190	XR	bowl		 碗	ʨʰe³³ pi³⁵	ʨʰe³³ pi³⁵	1054
+1191	XL	bowl		 碗	ʨʰe²¹ bi³⁵	ʨʰe²¹ bi³⁵	1054
+1192	CB	bowl		 碗	ʔa⁵⁵ tʰie¹³	ʔa⁵⁵ tʰie¹³	1054
+1193	CJ	bowl		 碗	ʔa⁵⁵ tʰie³⁵	ʔa⁵⁵ tʰie³⁵	1054
+1555	PBz	bowl		 碗	*sɯ¹ᴴ	*sɯ¹ᴴ	1122
+1556	TS	bowl		 碗	su⁵⁵	su⁵⁵	1122
+1557	FX	bowl	一碗 (a bowl of)	 碗	la⁵³ su⁵³ '一碗 (a bowl of)'	la⁵³ su⁵³	1122
+1558	XR	bowl	一碗 (a bowl of)	 碗	su³³ (cl.)	su³³	1122
+1559	XL	bowl	一碗 (a bowl of)	 碗	su⁵⁵	su⁵⁵	1122
+1560	CB	bowl	一碗 (a bowl of)	 碗	sɯ⁵⁵	sɯ⁵⁵	1122
+1202	PBz	bran		 糠	*bi¹ᴸ	*bi¹ᴸ	1056
+1203	TS	bran		 糠	ʦʰɿ²⁴ pʰi⁵⁵	ʦʰɿ²⁴ pʰi⁵⁵	1056
+1204	CB	bran		 糠	bi²¹ be⁵⁵	bi²¹ be⁵⁵	1056
+1602	PBz	bright		 亮	*ku¹ᴸ	*ku¹ᴸ	2009
+1603	TS	bright		 亮	kʰu⁵⁵ su²¹ ka²⁴	kʰu⁵⁵ su²¹ ka²⁴	2009
+1604	FX	bright		 亮	su²¹	su²¹	2009
+1605	XR	bright	(天)亮	 亮	su³³ '(天)亮'	su³³	2009
+1606	XL	bright	(天)亮	 亮	kʰu⁵⁵ su²¹	kʰu⁵⁵ su²¹	2009
+1607	CB	bright	灯	 亮	ku²¹ su³⁵ '灯'	ku²¹ su³⁵	2009
+1608	PBz	bright		 亮	*su²	*su²	2010
+1609	TS	bright		 亮	kʰu⁵⁵ su²¹ ka²⁴	kʰu⁵⁵ su²¹ ka²⁴	2010
+1610	FX	bright		 亮	su²¹	su²¹	2010
+1611	XR	bright	(天)亮	 亮	su³³ '(天)亮'	su³³	2010
+1612	XL	bright	(天)亮	 亮	kʰu⁵⁵ su²¹	kʰu⁵⁵ su²¹	2010
+1613	CB	bright	(天)亮	 亮	ku²¹ su³⁵	ku²¹ su³⁵	2010
+1614	PBz	bug		 蟲	*tɤC¹ᴹ	*tɤC¹ᴹ	2011
+1615	TS	bug		 蟲	tʰiɛ⁵⁵ pʰɤ²¹	tʰiɛ⁵⁵ pʰɤ²¹	2011
+1616	FX	bug		 蟲	tʰe⁵³ pʰe²¹	tʰe⁵³ pʰe²¹	2011
+1617	XR	bug		 蟲	tʰe⁵⁴ pʰɯɛ⁵⁴	tʰe⁵⁴ pʰɯɛ⁵⁴	2011
+1618	CB	bug		 蟲	tei³³ pʰe³⁵	tei³³ pʰe³⁵	2011
+1619	CB	bug		 蟲	tɨ³³ pʰe³⁵	tɨ³³ pʰe³⁵	2011
+1620	CJ	bug		 蟲	ti⁵⁵ pʰei³⁵ bie²¹	ti⁵⁵ pʰei³⁵ bie²¹	2011
+1621	PBz	bug		 蟲	*pʰɤ²	*pʰɤ²	2012
+1622	TS	bug		 蟲	tʰiɛ⁵⁵ pʰɤ²¹	tʰiɛ⁵⁵ pʰɤ²¹	2012
+1623	FX	bug		 蟲	tʰe⁵³ pʰe²¹	tʰe⁵³ pʰe²¹	2012
+1624	XR	bug		 蟲	tʰe⁵⁴ pʰɯɛ⁵⁴	tʰe⁵⁴ pʰɯɛ⁵⁴	2012
+1625	CB	bug	蛇 (snake)	 蟲	tei³³ pʰe³⁵ '蛇 (snake)'	tei³³ pʰe³⁵	2012
+1626	CJ	bug	蛇 (snake)	 蟲	ti⁵⁵ pʰei³⁵ bie²¹	ti⁵⁵ pʰei³⁵ bie²¹	2012
+737	PBz	buy		 買	*pʰu¹ᴴ	*pʰu¹ᴴ	131
+738	TS	buy		 買	pʰu⁵⁵	pʰu⁵⁵	131
+739	FX	buy		 買	pʰei⁵³	pʰei⁵³	131
+740	XR	buy		 買	pʰu⁵⁴	pʰu⁵⁴	131
+741	XL	buy		 買	pʰu⁵⁵	pʰu⁵⁵	131
+742	CB	buy		 買	pʰu⁵⁵	pʰu⁵⁵	131
+1036	PBz	cat		 貓	*mɑC²	*mɑC²	1027
+1037	TS	cat		 貓	mɔ²¹	mɔ²¹	1027
+1038	FX	cat		 貓	mo²¹	mo²¹	1027
+1039	XR	cat		 貓	mo³³	mo³³	1027
+1040	CB	cat		 貓	ma²¹ ʨi³⁵	ma²¹ ʨi³⁵	1027
+1512	PBz	cave		 洞	*duŋ²	*duŋ²	1113
+1513	TS	cave		 洞	tɔ̃²⁴	tɔ̃²⁴	1113
+1514	FX	cave	小洞 (small cave)	 洞	toŋ³⁵ pi²¹ '小洞 (small cave)'	toŋ³⁵ pi²¹	1113
+1515	XR	cave	小洞 (small cave)	 洞	tõ³⁵	tõ³⁵	1113
+1516	XL	cave	小洞 (small cave)	 洞	duŋ³⁵	duŋ³⁵	1113
+1517	CB	cave	小洞 (small cave)	 洞	ʔa³³ dɯ³⁵	ʔa³³ dɯ³⁵	1113
+978	PBz	cedar tree		 杉樹	*sɑ⁴	*sɑ⁴	1017
+979	TS	cedar tree		 杉樹	sa²⁴ kʰa²¹ mɔ̃²¹	sa²⁴ kʰa²¹ mɔ̃²¹	1017
+980	FX	cedar tree		 杉樹	sa³⁵ kʰa²¹ kʰa²¹ moŋ²¹	sa³⁵ kʰa²¹ kʰa²¹ moŋ²¹	1017
+981	XR	cedar tree		 杉樹	sa⁵⁴ kʰa⁵⁴ mu³³	sa⁵⁴ kʰa⁵⁴ mu³³	1017
+982	CB	cedar tree		 杉樹	so²¹	so²¹	1017
+1499	PBz	chilly		 涼	*ʔu³	*ʔu³	1110
+1500	TS	chilly		 涼	wu²⁴ ʨʰi⁵⁵	wu²⁴ ʨʰi⁵⁵	1110
+1501	FX	chilly		 涼	u³⁵ ʨʰi⁵³ ʨʰi⁵³	u³⁵ ʨʰi⁵³ ʨʰi⁵³	1110
+1502	XR	chilly		 涼	u⁵⁵	u⁵⁵	1110
+1503	XR	chilly		 涼	wu³³ ʨʰi⁵⁴ ʨʰi⁵⁴	wu³³ ʨʰi⁵⁴ ʨʰi⁵⁴	1110
+1504	CB	chilly		 涼	ʔu⁵⁵ ʔɯ⁵⁵	ʔu⁵⁵ ʔɯ⁵⁵	1110
+2160	PBz	chopsticks		 筷子	*Øm̩¹ᴸ	*Øm̩¹ᴸ	2105
+2161	TS	chopsticks		 筷子	pu⁵⁵ ʦɿ⁵⁵	pu⁵⁵ ʦɿ⁵⁵	2105
+2162	FX	chopsticks		 筷子	pu⁵³ ʦi⁵³	pu⁵³ ʦi⁵³	2105
+2163	XR	chopsticks		 筷子	mu⁵⁵ ʦɿ³³	mu⁵⁵ ʦɿ³³	2105
+2164	XL	chopsticks		 筷子	pu⁵⁵ ʦɿ⁵⁵	pu⁵⁵ ʦɿ⁵⁵	2105
+2165	CB	chopsticks		 筷子	m²¹ ǳɿ²¹	m²¹ ǳɿ²¹	2105
+2166	CJ	chopsticks		 筷子	m̩²¹ ǳɿ²¹	m̩²¹ ǳɿ²¹	2105
+2167	PBz	chopsticks		 筷子	*ǳɿ¹ᴸ	*ǳɿ¹ᴸ	2106
+2168	TS	chopsticks		 筷子	pu⁵⁵ ʦɿ⁵⁵	pu⁵⁵ ʦɿ⁵⁵	2106
+2169	FX	chopsticks		 筷子	pu⁵³ ʦi⁵³	pu⁵³ ʦi⁵³	2106
+2170	XR	chopsticks		 筷子	mu⁵⁵ ʦɿ³³	mu⁵⁵ ʦɿ³³	2106
+2171	XL	chopsticks		 筷子	pu⁵⁵ ʦɿ⁵⁵	pu⁵⁵ ʦɿ⁵⁵	2106
+2172	CB	chopsticks		 筷子	m²¹ ǳɿ²¹	m²¹ ǳɿ²¹	2106
+2173	CJ	chopsticks		 筷子	m̩²¹ ǳɿ²¹	m̩²¹ ǳɿ²¹	2106
+1523	PBz	cl. for animals		 （一）頭（牛）	*luŋ@?	*luŋ@?	1115
+1524	TS	cl. for animals		 （一）頭（牛）	lɔ̃²¹	lɔ̃²¹	1115
+1525	FX	cl. for animals		 （一）頭（牛）	loŋ⁵³	loŋ⁵³	1115
+1526	XR	cl. for animals		 （一）頭（牛）	nõ³⁵ (for fisʰ)	nõ³⁵	1115
+1527	XL	cl. for animals		 （一）頭（牛）	luŋ⁵⁵	luŋ⁵⁵	1115
+1528	CB	cl. for animals		 （一）頭（牛）	nũ²¹	nũ²¹	1115
+1529	CB	cl. for animals		 （一）頭（牛）	nõ²¹	nõ²¹	1115
+1286	PBz	clf. for clothes		 件	*pi²	*pi²	1071
+1287	FX	clf. for clothes		 件	pʰi⁵³	pʰi⁵³	1071
+1288	XR	clf. for clothes		 件	pʰi³³	pʰi³³	1071
+1289	XL	clf. for clothes		 件	pʰi⁵³	pʰi⁵³	1071
+1290	CB	clf. for clothes		 件	pi³⁵	pi³⁵	1071
+1291	CB	clf. for clothes		 件	pi¹³	pi¹³	1071
+1428	PBz	clf. for general objects		 個	*bu⁴	*bu⁴	1097
+1429	TS	clf. for general objects		 個	pu²⁴	pu²⁴	1097
+1430	FX	clf. for general objects	一个 (one)	 個	la³⁵ pu⁵³ '一个 (one)'	la³⁵ pu⁵³	1097
+1431	XR	clf. for general objects	一个 (one)	 個	pu³³	pu³³	1097
+1432	CB	clf. for general objects	一个 (one)	 個	bu²¹	bu²¹	1097
+932	PBz	cloth		 布	*nɑ¹ᴹ	*nɑ¹ᴹ	1008
+933	TS	cloth		 布	sɿ⁵⁵ lã⁵⁵	sɿ⁵⁵ lã⁵⁵	1008
+934	FX	cloth	土家织锦	 布	ɕi⁵⁵ lan⁵³ kʰa⁵³ pʰu⁵³ '土家织锦'	ɕi⁵⁵ lan⁵³ kʰa⁵³ pʰu⁵³	1008
+935	XR	cloth	被子 (quilt)	 布	ĩ⁵⁴ na³³ '被子 (quilt)'	ĩ⁵⁴ na³³	1008
+936	XL	cloth	被子 (quilt)	 布	ɕin⁵⁵ nã⁵⁵ '被子 (quilt)'	ɕin⁵⁵ nã⁵⁵	1008
+937	CB	cloth	被子 (quilt)	 布	lo³³	lo³³	1008
+1311	PBz	clothes		 衣服	*ti@?	*ti@?	1076
+1312	TS	clothes		 衣服	*tʰi ja 體亞	*tʰi ja 體亞	1076
+1313	CB	clothes		 衣服	ɕi³³ ti³⁵	ɕi³³ ti³⁵	1076
+1314	CJ	clothes		 衣服	ɕi³³ ti³⁵	ɕi³³ ti³⁵	1076
+1366	PBz	clothes		 衣服	*siC¹ᴹ	*siC¹ᴹ	1086
+1367	TS	clothes		 衣服	sɿ⁵⁵ pa⁵⁵	sɿ⁵⁵ pa⁵⁵	1086
+1368	FX	clothes		 衣服	ɕi⁵⁵ pa⁵⁵	ɕi⁵⁵ pa⁵⁵	1086
+1369	XR	clothes		 衣服	ɕi⁵⁴ pa³³	ɕi⁵⁴ pa³³	1086
+1370	XL	clothes		 衣服	ɕi³³ pa²¹	ɕi³³ pa²¹	1086
+1371	CB	clothes		 衣服	ɕi³³ ti³⁵	ɕi³³ ti³⁵	1086
+1372	CJ	clothes		 衣服	ɕi³³ ti³⁵	ɕi³³ ti³⁵	1086
+1627	PBz	cold		 冷	*s[ɿ/i/iC]¹ᴹ	*s¹ᴹ	2013
+1628	TS	cold		 冷	sa⁵¹	sa⁵¹	2013
+1629	FX	cold		 冷	sa⁵³	sa⁵³	2013
+1630	XR	cold		 冷	sa⁵⁴	sa⁵⁴	2013
+1631	XL	cold		 冷	sa⁵⁵	sa⁵⁵	2013
+1632	CJ	cold		 冷	sɿ³³ ǳa³³	sɿ³³ ǳa³³	2013
+1633	PBz	cold		 冷	*ǳæ¹ᴹ	*ǳæ¹ᴹ	2014
+1634	TS	cold		 冷	sa⁵¹	sa⁵¹	2014
+1635	FX	cold		 冷	sa⁵³	sa⁵³	2014
+1636	XR	cold		 冷	sa⁵⁴	sa⁵⁴	2014
+1637	XL	cold		 冷	sa⁵⁵	sa⁵⁵	2014
+1638	CJ	cold		 冷	sɿ³³ ǳa³³	sɿ³³ ǳa³³	2014
+1056	PBz	comb		 梳子	*ɕe@?	*ɕe@?	1031
+1057	TS	comb		 梳子	kʰa²¹ ɕiɛ²¹	kʰa²¹ ɕiɛ²¹	1031
+1058	XR	comb		 梳子	kʰa⁵⁴ ɕe³³-³¹	kʰa⁵⁴ ɕe³³-³¹	1031
+1059	CB	comb		 梳子	ɕie²¹ bie³³	ɕie²¹ bie³³	1031
+44	PBz	crow		 烏鴉	*gɑ²	*gɑ²	9
+45	TS	crow		 烏鴉	ka²¹	ka²¹	9
+46	FX	crow		 烏鴉	ka²¹	ka²¹	9
+47	XR	crow		 烏鴉	a³³-³¹ kã³³	a³³-³¹ kã³³	9
+48	XR	crow		 烏鴉	a³³ ka⁵⁴	a³³ ka⁵⁴	9
+49	CJ	crow		 烏鴉	go³⁵	go³⁵	9
+743	PBz	daughter-in-law		 兒媳	*pʰu⁴	*pʰu⁴	132
+744	TS	daughter-in-law		 兒媳	pʰu²⁴	pʰu²⁴	132
+745	FX	daughter-in-law		 兒媳	pʰu³⁵	pʰu³⁵	132
+746	XR	daughter-in-law		 兒媳	pʰu³⁵	pʰu³⁵	132
+747	CB	daughter-in-law		 兒媳	pʰu²¹ ŋɨ²¹	pʰu²¹ ŋɨ²¹	132
+1114	PBz	day		 （一）天	*ȵ[e/ɤ]¹ᴹ	*ȵ¹ᴹ	1041
+1115	TS	day		 （一）天	ȵiɛ⁵⁵	ȵiɛ⁵⁵	1041
+1116	FX	day		 （一）天	la⁵³ ȵie⁵³	la⁵³ ȵie⁵³	1041
+1117	XR	day		 （一）天	ȵe³³	ȵe³³	1041
+1118	XL	day		 （一）天	ȵe²¹	ȵe²¹	1041
+1119	CB	day		 （一）天	ȵe³³	ȵe³³	1041
+1538	PBz	deaf		 聾	*tuŋ¹ᴹ	*tuŋ¹ᴹ	1118
+1539	FX	deaf		 聾	loŋ⁵³ tʰoŋ⁵³	loŋ⁵³ tʰoŋ⁵³	1118
+1540	CB	deaf		 聾	tɯ³³	tɯ³³	1118
+1047	PBz	dew		 露水	*sɑC¹ᴴ	*sɑC¹ᴴ	1029
+1048	TS	dew		 露水	suɔ⁵⁵ ʦʰɤ²¹	suɔ⁵⁵ ʦʰɤ²¹	1029
+1049	FX	dew		 露水	so⁵³ ʦʰe²¹	so⁵³ ʦʰe²¹	1029
+1050	CJ	dew		 露水	ʔa²¹ sa²¹ ʦʰe³⁵	ʔa²¹ sa²¹ ʦʰe³⁵	1029
+488	PBz	diluted		 稀	*bi¹ᴴ	*bi¹ᴴ	86
+489	TS	diluted	wet	 稀	kʰa⁵⁵ piɛ⁵⁵ 'wet'	kʰa⁵⁵ piɛ⁵⁵	86
+490	XR	diluted	wet	 稀	kʰa⁵⁴ pi³³ lie³³	kʰa⁵⁴ pi³³ lie³³	86
+491	XL	diluted	wet	 稀	pie⁵⁵	pie⁵⁵	86
+492	CB	diluted	wet	 稀	bi⁵⁵	bi⁵⁵	86
+1066	PBz	direction		 方向	*kʰe@?	*kʰe@?	1033
+1067	XR	direction		 方向	kʰe²¹ le⁵⁵	kʰe²¹ le⁵⁵	1033
+1068	CB	direction		 方向	mɨe⁵⁵ kʰɨe²¹	mɨe⁵⁵ kʰɨe²¹	1033
+1292	PBz	divide		 分	*pʰi²	*pʰi²	1072
+1293	TS	divide		 分	pʰi²¹	pʰi²¹	1072
+1294	FX	divide		 分	ʔa³³ pʰi¹³	ʔa³³ pʰi¹³	1072
+1295	XR	divide		 分	a³³ pʰi³³	a³³ pʰi³³	1072
+1296	XL	divide		 分	pʰi²¹	pʰi²¹	1072
+1297	CB	divide		 分	da⁴pi³	da⁴pi³	1072
+748	PBz	dragon		 龍	*pʰu⁴	*pʰu⁴	133
+749	TS	dragon		 龍	pʰu²⁴	pʰu²⁴	133
+750	FX	dragon		 龍	pʰu³⁵	pʰu³⁵	133
+751	XR	dragon		 龍	pʰu³³	pʰu³³	133
+752	CB	dragon		 龍	pʰo²¹	pʰo²¹	133
+753	CJ	dragon		 龍	pʰ̬o²¹ nũ²¹	pʰ̬o²¹ nũ²¹	133
+790	PBz	drill		 鑽子	*ʔu¹ᴴ	*ʔu¹ᴴ	141
+791	XR	drill		 鑽子	wu⁵⁵ ʦuã³³	wu⁵⁵ ʦuã³³	141
+792	CB	drill		 鑽子	wu⁵⁵	wu⁵⁵	141
+879	PBz	drink		 喝	*xɯ²	*xɯ²	158
+880	TS	drink		 喝	xu²¹	xu²¹	158
+881	FX	drink		 喝	xu²¹	xu²¹	158
+882	XR	drink		 喝	xu³³	xu³³	158
+883	XL	drink		 喝	xu⁵⁵	xu⁵⁵	158
+884	CB	drink		 喝	ħɯ³⁵	ħɯ³⁵	158
+1090	PBz	drum		 鼓	*xe²	*xe²	1037
+1091	FX	drum		 鼓	xe²¹	xe²¹	1037
+1092	XR	drum		 鼓	xɯə⁵⁴	xɯə⁵⁴	1037
+1093	XL	drum		 鼓	xɯe²¹	xɯe²¹	1037
+1094	CB	drum		 鼓	ʕe³⁵ bu²¹	ʕe³⁵ bu²¹	1037
+383	PBz	drunk		 醉	*ʥɤ²	*ʥɤ²	67
+384	TS	drunk		 醉	ʨiɛ²¹	ʨiɛ²¹	67
+385	FX	drunk		 醉	ʨe²¹	ʨe²¹	67
+386	XR	drunk		 醉	ʨe³³	ʨe³³	67
+387	CJ	drunk		 醉	die³⁵	die³⁵	67
+913	PBz	dry		 乾	*gɑ²	*gɑ²	1005
+914	TS	dry		 乾	a⁵⁵ ka²¹	a⁵⁵ ka²¹	1005
+915	FX	dry		 乾	a⁵⁵ ka²¹	a⁵⁵ ka²¹	1005
+916	XR	dry		 乾	a⁵⁴ ka³³	a⁵⁴ ka³³	1005
+917	XL	dry		 乾	ka²¹	ka²¹	1005
+918	XL	dry		 乾	a⁵⁵ ka²¹	a⁵⁵ ka²¹	1005
+919	CB	dry		 乾	go³⁵	go³⁵	1005
+1653	PBz	dustpan		 簸箕	*tɑ@?	*tɑ@?	2017
+1654	TS	dustpan		 簸箕	tʰa²⁴ kʰɨ⁵⁵	tʰa²⁴ kʰɨ⁵⁵	2017
+1655	TS	dustpan		 簸箕	tʰa²⁴ kʰɤ⁵⁵	tʰa²⁴ kʰɤ⁵⁵	2017
+1656	FX	dustpan		 簸箕	tʰa³⁵ kʰei⁵³	tʰa³⁵ kʰei⁵³	2017
+1657	XR	dustpan		 簸箕	tʰa³⁵ kʰə⁵⁴	tʰa³⁵ kʰə⁵⁴	2017
+1658	XL	dustpan		 簸箕	tʰa³⁵ kʰɯ⁵⁵	tʰa³⁵ kʰɯ⁵⁵	2017
+1659	CB	dustpan		 簸箕	ti²¹ kɨ²¹	ti²¹ kɨ²¹	2017
+1660	PBz	dustpan		 簸箕	*k[i/ɤ]⁴	*k⁴	2018
+1661	TS	dustpan		 簸箕	tʰa²⁴ kʰɨ⁵⁵	tʰa²⁴ kʰɨ⁵⁵	2018
+1662	TS	dustpan		 簸箕	tʰa²⁴ kʰɤ⁵⁵	tʰa²⁴ kʰɤ⁵⁵	2018
+1663	FX	dustpan		 簸箕	tʰa³⁵ kʰei⁵³	tʰa³⁵ kʰei⁵³	2018
+1664	XR	dustpan		 簸箕	tʰa³⁵ kʰə⁵⁴	tʰa³⁵ kʰə⁵⁴	2018
+1665	XL	dustpan		 簸箕	tʰa³⁵ kʰɯ⁵⁵	tʰa³⁵ kʰɯ⁵⁵	2018
+1666	CB	dustpan		 簸箕	ti²¹ kɨ²¹	ti²¹ kɨ²¹	2018
+1667	PBz	eagle		 老鷹	*bɑC⁴	*bɑC⁴	2019
+1668	TS	eagle		 老鷹	pã²⁴	pã²⁴	2019
+1669	FX	eagle		 老鷹	pan³⁵	pan³⁵	2019
+1670	XR	eagle		 老鷹	pã³⁵	pã³⁵	2019
+1671	CB	eagle		 老鷹	ba²¹ ŋɨ³³	ba²¹ ŋɨ³³	2019
+1672	PBz	eagle		 老鷹	*ŋi¹ᴹ	*ŋi¹ᴹ	2020
+1673	TS	eagle		 老鷹	pã²⁴	pã²⁴	2020
+1674	FX	eagle		 老鷹	pan³⁵	pan³⁵	2020
+1675	XR	eagle		 老鷹	pã³⁵	pã³⁵	2020
+1676	CB	eagle		 老鷹	ba²¹ ŋɨ³³	ba²¹ ŋɨ³³	2020
+1677	PBz	ear of grain		 穗子	*ʔæ	*ʔæ	2021
+1678	TS	ear of grain		 穗子	a⁵⁵ pʰɤ²¹	a⁵⁵ pʰɤ²¹	2021
+1679	FX	ear of grain		 穗子	a⁵⁵ pʰe²¹	a⁵⁵ pʰe²¹	2021
+1680	XR	ear of grain		 穗子	a⁵⁵ pʰɯe³³	a⁵⁵ pʰɯe³³	2021
+1681	CB	ear of grain		 穗子	a³³ pʰe³⁵	a³³ pʰe³⁵	2021
+1682	PBz	ear of grain		 穗子	*pʰɤ²	*pʰɤ²	2022
+1683	TS	ear of grain		 穗子	a⁵⁵ pʰɤ²¹	a⁵⁵ pʰɤ²¹	2022
+1684	FX	ear of grain		 穗子	a⁵⁵ pʰe²¹	a⁵⁵ pʰe²¹	2022
+1685	XR	ear of grain		 穗子	a⁵⁵ pʰɯe³³	a⁵⁵ pʰɯe³³	2022
+1686	CB	ear of grain		 穗子	a³³ pʰe³⁵	a³³ pʰe³⁵	2022
+218	PBz	earth		 地	*ɹɑC¹ᴴ	*ɹɑC¹ᴴ	39
+219	TS	earth		 地	zuɔ⁵¹	zuɔ⁵¹	39
+220	FX	earth	土	 地	zo⁵³ '土'	zo⁵³	39
+221	XR	earth	土	 地	zo³⁵	zo³⁵	39
+222	XL	earth	土	 地	zo⁵⁵	zo⁵⁵	39
+223	CB	earth	土	 地	za⁵⁵	za⁵⁵	39
+2250	PBz	egg		 蛋	*ʔæ	*ʔæ	2119
+2251	TS	egg		 蛋	a⁵⁵ liɛ⁵⁵	a⁵⁵ liɛ⁵⁵	2119
+2252	FX	egg	chicken egg (鸡蛋)	 蛋	za²¹ le²¹ 'chicken egg (鸡蛋)'	za²¹ le²¹	2119
+2253	XR	egg	chicken egg (鸡蛋)	 蛋	a⁵⁴ lie³³	a⁵⁴ lie³³	2119
+2254	XL	egg	chicken egg (鸡蛋)	 蛋	za⁵⁵ lie⁵⁵	za⁵⁵ lie⁵⁵	2119
+2255	CB	egg	chicken egg (鸡蛋)	 蛋	ʔa¹³ lie⁵⁵	ʔa¹³ lie⁵⁵	2119
+2256	PBz	egg		 蛋	*lɤ¹ᴴ	*lɤ¹ᴴ	2120
+2257	TS	egg		 蛋	a⁵⁵ liɛ⁵⁵	a⁵⁵ liɛ⁵⁵	2120
+2258	FX	egg	chicken egg (鸡蛋)	 蛋	za²¹ le²¹ 'chicken egg (鸡蛋)'	za²¹ le²¹	2120
+2259	XR	egg	chicken egg (鸡蛋)	 蛋	a⁵⁴ lie³³	a⁵⁴ lie³³	2120
+2260	XL	egg	chicken egg (鸡蛋)	 蛋	za⁵⁵ lie⁵⁵	za⁵⁵ lie⁵⁵	2120
+2261	CB	egg	chicken egg (鸡蛋)	 蛋	ʔa¹³ lie⁵⁵	ʔa¹³ lie⁵⁵	2120
+2262	CB	egg	鸡蛋 (chicken egg)	 蛋	tɕʰi⁵⁵ lie²¹ '鸡蛋 (chicken egg)'	tɕʰi⁵⁵ lie²¹	2120
+2263	CJ	egg	鸡蛋 (chicken egg)	 蛋	ʨʰi⁵³ lie²¹	ʨʰi⁵³ lie²¹	2120
+1029	PBz	eye, blind		 眼睛、盲	*lɑC³	*lɑC³	1026
+1030	TS	eye, blind		 眼睛、盲	luɔ²⁴ pu⁵⁵	luɔ²⁴ pu⁵⁵	1026
+1031	FX	eye, blind		 眼睛、盲	lo³⁵ pu⁵³	lo³⁵ pu⁵³	1026
+1032	XR	eye, blind		 眼睛、盲	lo³⁵ pu³³-⁵⁴	lo³⁵ pu³³-⁵⁴	1026
+1033	XL	eye, blind		 眼睛、盲	lo³⁵ pu³⁵	lo³⁵ pu³⁵	1026
+1034	CB	eye, blind		 眼睛、盲	a¹³ la⁵⁵	a¹³ la⁵⁵	1026
+1035	CJ	eye, blind		 眼睛、盲	a²¹ la²¹ ʥi²¹	a²¹ la²¹ ʥi²¹	1026
+1445	PBz	face		 臉	*gu⁴	*gu⁴	1100
+1446	TS	face		 臉	ku²⁴	ku²⁴	1100
+1447	FX	face		 臉	ku³⁵	ku³⁵	1100
+1448	XR	face		 臉	a³³-⁵⁴ ku³³-⁵⁴	a³³-⁵⁴ ku³³-⁵⁴	1100
+1449	XL	face		 臉	ku³⁵	ku³⁵	1100
+1450	CB	face		 臉	a²¹ gu²¹	a²¹ gu²¹	1100
+945	PBz	fan		 扇子	*nɑ@?	*nɑ@?	1010
+946	TS	fan		 扇子	lã²¹ ʨʰiɛ²¹	lã²¹ ʨʰiɛ²¹	1010
+947	FX	fan		 扇子	lan²¹ ʨʰe⁵³	lan²¹ ʨʰe⁵³	1010
+948	XR	fan		 扇子	lã³³ ʦʰɛ³⁵	lã³³ ʦʰɛ³⁵	1010
+949	CB	fan		 扇子	no²¹ zo²¹	no²¹ zo²¹	1010
+693	PBz	fat (adj.)		 肥	*sɿ⁴	*sɿ⁴	122
+694	FX	fat (adj.)		 肥	si³⁵	si³⁵	122
+695	XR	fat (adj.)		 肥	sɿ³³	sɿ³³	122
+696	XR	fat (adj.)		 肥	sɿ³⁵	sɿ³⁵	122
+697	XL	fat (adj.)		 肥	se²¹ sɿ³⁵	se²¹ sɿ³⁵	122
+698	CB	fat (adj.)		 肥	si²¹	si²¹	122
+436	PBz	feces		 屎	*sɤ²	*sɤ²	77
+437	TS	feces		 屎	sɤ²¹	sɤ²¹	77
+438	FX	feces		 屎	se²¹	se²¹	77
+439	XR	feces		 屎	sə³³	sə³³	77
+440	XL	feces		 屎	sə²¹	sə²¹	77
+441	CB	feces		 屎	se³⁵	se³⁵	77
+1235	PBz	feet		 腳	*ʥi²	*ʥi²	1063
+1236	TS	feet		 腳	ʨi²¹	ʨi²¹	1063
+1237	FX	feet		 腳	a²¹ ʨi²¹	a²¹ ʨi²¹	1063
+1238	XR	feet		 腳	ʨi³³ pʰa³³	ʨi³³ pʰa³³	1063
+1239	XL	feet		 腳	ʨi²¹ pʰa³⁵	ʨi²¹ pʰa³⁵	1063
+1240	CB	feet		 腳	a³³ ʥi³⁵	a³³ ʥi³⁵	1063
+1282	PBz	female		 雌性	*ȵi²	*ȵi²	1070
+1283	FX	female		 雌性	ȵɨ²¹ ka²¹	ȵɨ²¹ ka²¹	1070
+1284	XR	female		 雌性	ȵi³³ ka³³	ȵi³³ ka³³	1070
+1285	CB	female		 雌性	ȵi³⁵	ȵi³⁵	1070
+448	PBz	female genital		 女陰	*tʰɤ²	*tʰɤ²	79
+449	TS	female genital		 女陰	tʰiɛ²¹	tʰiɛ²¹	79
+450	FX	female genital		 女陰	tʰe²¹	tʰe²¹	79
+451	XR	female genital		 女陰	tʰie⁵⁴	tʰie⁵⁴	79
+452	CB	female genital		 女陰	tʰe³⁵ (Xu 2020)	tʰe³⁵	79
+453	CJ	female genital		 女陰	tʰe³⁵ bu²¹	tʰe³⁵ bu²¹	79
+1474	PBz	few		 少	*pʰu¹ᴹ	*pʰu¹ᴹ	1105
+1475	TS	few		 少	pʰu⁵⁵ ʦʰɿ²¹	pʰu⁵⁵ ʦʰɿ²¹	1105
+1476	FX	few		 少	pʰu⁵³ ʦʰi⁵³	pʰu⁵³ ʦʰi⁵³	1105
+1477	XR	few		 少	pʰu³³ ʦʰɿ³³	pʰu³³ ʦʰɿ³³	1105
+1478	CB	few		 少	pʰu³³	pʰu³³	1105
+1699	PBz	field		 田地	*si@?	*si@?	2025
+1700	TS	field		 田地	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹	2025
+1701	FX	field		 田地	si²¹ te⁵³	si²¹ te⁵³	2025
+1702	XR	field		 田地	ɕi³³ kʰə⁵⁵	ɕi³³ kʰə⁵⁵	2025
+1703	XR	field		 田地	ɕe³³ kʰe⁵⁵	ɕe³³ kʰe⁵⁵	2025
+1704	XR	field		 田地	ɕɛ³³-³¹ kʰe⁵⁵	ɕɛ³³-³¹ kʰe⁵⁵	2025
+1705	XL	field	块 (a piece of land, cl.)	 田地	tʰie⁵³ '块 (a piece of land, cl.)'	tʰie⁵³	2025
+1706	CB	field	块 (a piece of land, cl.)	 田地	si¹³ die⁵⁵	si¹³ die⁵⁵	2025
+1707	CJ	field	块 (a piece of land, cl.)	 田地	sɿ²¹ tie⁵³	sɿ²¹ tie⁵³	2025
+1708	CJ	field	块 (a piece of land, cl.)	 田地	ɕie²¹ tie⁵³	ɕie²¹ tie⁵³	2025
+1709	PBz	field		 田地	*tɤ¹ᴴ	*tɤ¹ᴴ	2026
+1710	TS	field		 田地	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹	2026
+1711	FX	field		 田地	si²¹ te⁵³	si²¹ te⁵³	2026
+1712	XR	field		 田地	ɕi³³ kʰə⁵⁵	ɕi³³ kʰə⁵⁵	2026
+1713	XR	field		 田地	ɕe³³ kʰe⁵⁵	ɕe³³ kʰe⁵⁵	2026
+1714	XR	field		 田地	ɕɛ³³-³¹ kʰe⁵⁵	ɕɛ³³-³¹ kʰe⁵⁵	2026
+1715	XL	field	块 (a piece of land, cl.)	 田地	tʰie⁵³ '块 (a piece of land, cl.)'	tʰie⁵³	2026
+1716	CB	field	块 (a piece of land, cl.)	 田地	si¹³ die⁵⁵	si¹³ die⁵⁵	2026
+1717	CJ	field	块 (a piece of land, cl.)	 田地	sɿ²¹ tie⁵³	sɿ²¹ tie⁵³	2026
+1718	CJ	field	块 (a piece of land, cl.)	 田地	ɕie²¹ tie⁵³	ɕie²¹ tie⁵³	2026
+2150	PBz	finger		 指頭	*Øm̩¹ᴸ	*Øm̩¹ᴸ	2103
+2151	TS	finger		 指頭	ʨiɛ²⁴ mi⁵⁵ tʰi²¹	ʨiɛ²⁴ mi⁵⁵ tʰi²¹	2103
+2152	FX	finger		 指頭	ʨe³⁵ mi⁵³ tʰi²¹	ʨe³⁵ mi⁵³ tʰi²¹	2103
+2153	XR	finger		 指頭	ʨe³⁵ mi⁵⁵ tʰi³³-³¹	ʨe³⁵ mi⁵⁵ tʰi³³-³¹	2103
+2154	CJ	finger		 指頭	ʨie⁵³ m̩²¹ te²¹	ʨie⁵³ m̩²¹ te²¹	2103
+2155	PBz	finger		 指頭	*tʰie@?	*tʰie@?	2104
+2156	TS	finger		 指頭	ʨiɛ²⁴ mi⁵⁵ tʰi²¹	ʨiɛ²⁴ mi⁵⁵ tʰi²¹	2104
+2157	FX	finger		 指頭	ʨe³⁵ mi⁵³ tʰi²¹	ʨe³⁵ mi⁵³ tʰi²¹	2104
+2158	XR	finger		 指頭	ʨe³⁵ mi⁵⁵ tʰi³³-³¹	ʨe³⁵ mi⁵⁵ tʰi³³-³¹	2104
+2159	CJ	finger		 指頭	ʨie⁵³ m̩²¹ te²¹	ʨie⁵³ m̩²¹ te²¹	2104
+545	PBz	fire		 火	*mi¹ᴴ	*mi¹ᴴ	96
+546	TS	fire		 火	mi⁵¹	mi⁵¹	96
+547	FX	fire		 火	mi⁵⁵	mi⁵⁵	96
+548	XR	fire		 火	mi⁵⁴	mi⁵⁴	96
+549	XL	fire		 火	mi⁵⁵	mi⁵⁵	96
+550	CB	fire		 火	mi⁵⁵	mi⁵⁵	96
+75	PBz	firewood		 柴	*kʰɑ²	*kʰɑ²	14
+76	FX	firewood		 柴	kʰa²¹	kʰa²¹	14
+77	XR	firewood		 柴	kʰa⁵⁴	kʰa⁵⁴	14
+78	XR	firewood	木头 (wood)	 柴	kʰa³³ tʰõ³³ '木头 (wood)'	kʰa³³ tʰõ³³	14
+79	XL	firewood	木头 (wood)	 柴	kʰa²¹	kʰa²¹	14
+80	XL	firewood	树	 柴	kʰa⁵⁵ muŋ⁵⁵ '树'	kʰa⁵⁵ muŋ⁵⁵	14
+81	CB	firewood	树	 柴	kʰo³⁵	kʰo³⁵	14
+1719	PBz	fish		 魚	*sɿ¹ᴹ	*sɿ¹ᴹ	2027
+1720	TS	fish		 魚	sɔ̃²⁴	sɔ̃²⁴	2027
+1721	FX	fish		 魚	soŋ³⁵	soŋ³⁵	2027
+1722	XR	fish		 魚	sũ³⁵	sũ³⁵	2027
+1723	XR	fish		 魚	sõ³⁵	sõ³⁵	2027
+1724	XL	fish		 魚	suŋ³⁵	suŋ³⁵	2027
+1725	CB	fish		 魚	si³³ ŋɨ²¹	si³³ ŋɨ²¹	2027
+1726	PBz	fish		 魚	*ŋi²	*ŋi²	2028
+1727	TS	fish		 魚	sɔ̃²⁴	sɔ̃²⁴	2028
+1728	FX	fish		 魚	soŋ³⁵	soŋ³⁵	2028
+1729	XR	fish		 魚	sũ³⁵	sũ³⁵	2028
+1730	XR	fish		 魚	sõ³⁵	sõ³⁵	2028
+1731	XL	fish		 魚	suŋ³⁵	suŋ³⁵	2028
+1732	CB	fish		 魚	si³³ ŋɨ²¹	si³³ ŋɨ²¹	2028
+567	PBz	five		 五	*ŋi¹ᴹ	*ŋi¹ᴹ	100
+568	TS	five		 五	ɔ̃⁵⁵	ɔ̃⁵⁵	100
+569	FX	five		 五	oŋ³⁵ pu⁵³	oŋ³⁵ pu⁵³	100
+570	XR	five		 五	õ⁵⁴ na⁵⁴ xu³³	õ⁵⁴ na⁵⁴ xu³³	100
+571	XL	five		 五	uŋ⁵⁵	uŋ⁵⁵	100
+572	CB	five		 五	ŋi³³	ŋi³³	100
+493	PBz	flat		 平	*bi¹ᴹ	*bi¹ᴹ	87
+494	TS	flat		 平	pi²¹	pi²¹	87
+495	FX	flat		 平	pi²¹ tʰa²¹  tʰa²¹	pi²¹ tʰa²¹  tʰa²¹	87
+496	CJ	flat		 平	bi³¹	bi³¹	87
+497	CJ	flat		 平	bi³³	bi³³	87
+1395	PBz	flea		 蝨子	*sɿ¹ᴴ	*sɿ¹ᴴ	1091
+1396	TS	flea		 蝨子	sɿ⁵⁵ sɿ⁵⁵	sɿ⁵⁵ sɿ⁵⁵	1091
+1397	FX	flea		 蝨子	si⁵³ si⁵³	si⁵³ si⁵³	1091
+1398	XR	flea		 蝨子	sɿ⁵⁴ sɿ³³	sɿ⁵⁴ sɿ³³	1091
+1399	XL	flea		 蝨子	sɿ⁵⁵ sɿ⁵⁵	sɿ⁵⁵ sɿ⁵⁵	1091
+1400	CB	flea		 蝨子	si⁵⁵	si⁵⁵	1091
+1467	PBz	flower/blossom		 花	*pu¹ᴸ	*pu¹ᴸ	1104
+1468	TS	flower/blossom		 花	kʰa⁵⁵ pʰu⁵⁵	kʰa⁵⁵ pʰu⁵⁵	1104
+1469	FX	flower/blossom		 花	kʰa⁵³ pʰu⁵³	kʰa⁵³ pʰu⁵³	1104
+1470	XR	flower/blossom		 花	kʰa³³ pʰu³³	kʰa³³ pʰu³³	1104
+1471	XR	flower/blossom		 花	kʰa⁵⁴ pʰu³³-³¹	kʰa⁵⁴ pʰu³³-³¹	1104
+1472	XL	flower/blossom		 花	kʰa⁵⁵ pʰei⁵³	kʰa⁵⁵ pʰei⁵³	1104
+1473	CB	flower/blossom		 花	ʦu⁵⁵ pu¹³	ʦu⁵⁵ pu¹³	1104
+1069	PBz	four		 四	*ɹe¹ᴹ	*ɹe¹ᴹ	1034
+1070	TS	four		 四	zɤ⁵⁵	zɤ⁵⁵	1034
+1071	FX	four		 四	ze⁵³ pu⁵³	ze⁵³ pu⁵³	1034
+1072	XR	four		 四	zə⁵⁴ pu³³	zə⁵⁴ pu³³	1034
+1073	XL	four		 四	ze⁵⁵	ze⁵⁵	1034
+1074	CB	four		 四	zɨe³⁵ bu²¹	zɨe³⁵ bu²¹	1034
+1733	PBz	front		 前面	*di¹ᴴ	*di¹ᴴ	2029
+1734	TS	front		 前面	ti⁵⁵ ka²¹	ti⁵⁵ ka²¹	2029
+1735	FX	front	以前 (before)	 前面	ti⁵³ ka⁵³ '以前 (before)'	ti⁵³ ka⁵³	2029
+1736	CB	front	以前 (before)	 前面	di⁵⁵ go³⁵	di⁵⁵ go³⁵	2029
+1737	PBz	front		 前面	*gɑ²	*gɑ²	2030
+1738	TS	front		 前面	ti⁵⁵ ka²¹	ti⁵⁵ ka²¹	2030
+1739	FX	front	以前 (before)	 前面	ti⁵³ ka⁵³ '以前 (before)'	ti⁵³ ka⁵³	2030
+1740	CB	front	以前 (before)	 前面	di⁵⁵ go³⁵	di⁵⁵ go³⁵	2030
+1485	PBz	fruit		 果子	*su¹ᴸ	*su¹ᴸ	1107
+1486	FX	fruit		 果子	kʰu³⁵ su⁵³	kʰu³⁵ su⁵³	1107
+1487	CB	fruit		 果子	su²¹ bu²¹	su²¹ bu²¹	1107
+1741	PBz	god, ghost		 神、鬼	*ʔæ	*ʔæ	2031
+1742	TS	god, ghost		 神、鬼	a⁵⁵ je²¹	a⁵⁵ je²¹	2031
+1743	FX	god, ghost		 神、鬼	a⁵⁵ ze²¹	a⁵⁵ ze²¹	2031
+1744	XR	god, ghost		 神、鬼	a³³ ʨe⁵⁵	a³³ ʨe⁵⁵	2031
+1745	CB	god, ghost		 神、鬼	a³³ ze¹³	a³³ ze¹³	2031
+1746	CJ	god, ghost		 神、鬼	ʔa⁵⁵ ʥie³⁵	ʔa⁵⁵ ʥie³⁵	2031
+1747	CJ	god, ghost		 神、鬼	ʔa⁵⁵ je³⁵	ʔa⁵⁵ je³⁵	2031
+1748	CJ	god, ghost		 神、鬼	ʔa⁵⁵ ze³⁵	ʔa⁵⁵ ze³⁵	2031
+1749	PBz	god, ghost		 神、鬼	*ʑe²	*ʑe²	2032
+1750	TS	god, ghost		 神、鬼	a⁵⁵ je²¹	a⁵⁵ je²¹	2032
+1751	FX	god, ghost		 神、鬼	a⁵⁵ ze²¹	a⁵⁵ ze²¹	2032
+1752	XR	god, ghost		 神、鬼	a³³ ʨe⁵⁵	a³³ ʨe⁵⁵	2032
+1753	XL	god, ghost		 神、鬼	a⁵⁵ je²¹	a⁵⁵ je²¹	2032
+1754	CB	god, ghost		 神、鬼	a³³ ze¹³	a³³ ze¹³	2032
+1755	CJ	god, ghost		 神、鬼	ʔa⁵⁵ ʥie³⁵	ʔa⁵⁵ ʥie³⁵	2032
+1756	CJ	god, ghost		 神、鬼	ʔa⁵⁵ je³⁵	ʔa⁵⁵ je³⁵	2032
+1757	CJ	god, ghost		 神、鬼	ʔa⁵⁵ ze³⁵	ʔa⁵⁵ ze³⁵	2032
+140	PBz	good		 好	*ʦʰɑ⁴	*ʦʰɑ⁴	25
+141	TS	good		 好	ʦʰa²⁴	ʦʰa²⁴	25
+142	FX	good		 好	ʦʰa³⁵	ʦʰa³⁵	25
+143	XR	good		 好	ʦʰa³³-³⁵	ʦʰa³³-³⁵	25
+144	XL	good		 好	ʦʰai³⁵	ʦʰai³⁵	25
+145	CB	good		 好	ʦʰo²¹	ʦʰo²¹	25
+1573	PBz	gourd		 葫蘆	*lɑ¹ᴸ	*lɑ¹ᴸ	2003
+1574	FX	gourd		 葫蘆	la⁵³ tʰu⁵³	la⁵³ tʰu⁵³	2003
+1575	CB	gourd		 葫蘆	ko²¹ lo²¹ tɯ⁵⁵	ko²¹ lo²¹ tɯ⁵⁵	2003
+1576	PBz	gourd		 葫蘆	*tʰɯ¹ᴴ	*tʰɯ¹ᴴ	2004
+1577	FX	gourd		 葫蘆	la⁵³ tʰu⁵³	la⁵³ tʰu⁵³	2004
+1578	CB	gourd		 葫蘆	ko²¹ lo²¹ tɯ⁵⁵	ko²¹ lo²¹ tɯ⁵⁵	2004
+1758	PBz	granary		 倉庫	*ʔu⁴	*ʔu⁴	2033
+1759	FX	granary		 倉庫	u³⁵ ʨi⁵³	u³⁵ ʨi⁵³	2033
+1760	XR	granary		 倉庫	wu³⁵ ʨi⁵⁵	wu³⁵ ʨi⁵⁵	2033
+1761	CB	granary		 倉庫	ʔu²¹ ʥi²¹	ʔu²¹ ʥi²¹	2033
+1762	PBz	granary		 倉庫	*ʥi¹ᴹ/@?	*ʥi¹ᴹ/@?	2034
+1763	FX	granary		 倉庫	u³⁵ ʨi⁵³	u³⁵ ʨi⁵³	2034
+1764	XR	granary		 倉庫	wu³⁵ ʨi⁵⁵	wu³⁵ ʨi⁵⁵	2034
+1765	CB	granary		 倉庫	ʔu²¹ ʥi²¹	ʔu²¹ ʥi²¹	2034
+429	PBz	grandson		 孫子	*ɹɤ¹ᴹ	*ɹɤ¹ᴹ	76
+430	TS	grandson		 孫子	zɤ⁵¹	zɤ⁵¹	76
+431	FX	grandson		 孫子	ze⁵³	ze⁵³	76
+432	XR	grandson		 孫子	zə³⁵ pi³⁵-³³	zə³⁵ pi³⁵-³³	76
+433	XR	grandson		 孫子	zə³⁵-⁵⁴	zə³⁵-⁵⁴	76
+434	XL	grandson		 孫子	zə⁵³ pi³⁵	zə⁵³ pi³⁵	76
+435	CB	grandson		 孫子	ze³³	ze³³	76
+1217	PBz	green		 青	*ɕi⁴	*ɕi⁴	1059
+1218	FX	green		 青	ɕin³⁵ ka⁵³ te²¹	ɕin³⁵ ka⁵³ te²¹	1059
+1219	XR	green		 青	ɕĩ³⁵ ka⁵⁴ tõ³³ tõ³³	ɕĩ³⁵ ka⁵⁴ tõ³³ tõ³³	1059
+1220	XL	green		 青	ɕin³⁵ ka⁵³ bo²¹ bo²¹	ɕin³⁵ ka⁵³ bo²¹ bo²¹	1059
+1221	CB	green		 青	ɕi²¹ ɕi²¹	ɕi²¹ ɕi²¹	1059
+2186	PBz	guest		 客人	*Øm̩¹ᴴ	*Øm̩¹ᴴ	2109
+2187	TS	guest		 客人	pu⁵⁵ ʦʰuɔ²¹	pu⁵⁵ ʦʰuɔ²¹	2109
+2188	FX	guest		 客人	pu⁵³ ʦʰo²¹	pu⁵³ ʦʰo²¹	2109
+2189	XR	guest		 客人	mo³³ ʦʰo⁵⁴-⁵⁵	mo³³ ʦʰo⁵⁴-⁵⁵	2109
+2190	XR	guest		 客人	mo⁵⁵-³⁵ ʦʰo⁵⁵	mo⁵⁵-³⁵ ʦʰo⁵⁵	2109
+2191	XL	guest		 客人	pu⁵⁵ ʦʰo²¹	pu⁵⁵ ʦʰo²¹	2109
+2192	CB	guest		 客人	m̩⁵⁵ ʦʰa¹³ ŋi²¹	m̩⁵⁵ ʦʰa¹³ ŋi²¹	2109
+2193	CJ	guest		 客人	m̩⁵⁵ ʦʰa³⁵	m̩⁵⁵ ʦʰa³⁵	2109
+2194	PBz	guest		 客人	*ʦʰɑC²	*ʦʰɑC²	2110
+2195	TS	guest		 客人	pu⁵⁵ ʦʰuɔ²¹	pu⁵⁵ ʦʰuɔ²¹	2110
+2196	FX	guest		 客人	pu⁵³ ʦʰo²¹	pu⁵³ ʦʰo²¹	2110
+2197	XR	guest		 客人	mo³³ ʦʰo⁵⁴-⁵⁵	mo³³ ʦʰo⁵⁴-⁵⁵	2110
+2198	XR	guest		 客人	mo⁵⁵-³⁵ ʦʰo⁵⁵	mo⁵⁵-³⁵ ʦʰo⁵⁵	2110
+2199	XL	guest		 客人	pu⁵⁵ ʦʰo²¹	pu⁵⁵ ʦʰo²¹	2110
+2200	CB	guest		 客人	m̩⁵⁵ ʦʰa¹³ ŋi²¹	m̩⁵⁵ ʦʰa¹³ ŋi²¹	2110
+2201	CJ	guest		 客人	m̩⁵⁵ ʦʰa³⁵	m̩⁵⁵ ʦʰa³⁵	2110
+972	PBz	hairs		 頭髮	*sɑ⁴	*sɑ⁴	1016
+973	TS	hairs		 頭髮	sa²⁴ ʨʰi⁵⁵	sa²⁴ ʨʰi⁵⁵	1016
+974	FX	hairs		 頭髮	sa³⁵ ʨʰi⁵³	sa³⁵ ʨʰi⁵³	1016
+975	XR	hairs		 頭髮	sa³⁵ ʨʰi³³	sa³⁵ ʨʰi³³	1016
+976	XL	hairs		 頭髮	sa³⁵ ʨʰi⁵⁵	sa³⁵ ʨʰi⁵⁵	1016
+977	CB	hairs		 頭髮	ʔa²¹ so²¹	ʔa²¹ so²¹	1016
+256	PBz	hand		 手	*ʥe³	*ʥe³	46
+257	TS	hand		 手	ʨiɛ²⁴	ʨiɛ²⁴	46
+258	FX	hand		 手	ʨe³⁵	ʨe³⁵	46
+259	XR	hand		 手	ʨe³⁵	ʨe³⁵	46
+260	XL	hand		 手	ʨe³⁵	ʨe³⁵	46
+261	CB	hand		 手	a³⁵ ʥie⁵⁵	a³⁵ ʥie⁵⁵	46
+262	CJ	hand		 手	ʔa³⁵ ʨe⁵³	ʔa³⁵ ʨe⁵³	46
+540	PBz	hard		 堅硬	*kʰi¹ᴸ	*kʰi¹ᴸ	95
+541	FX	hard		 堅硬	kʰi⁵³	kʰi⁵³	95
+542	XL	hard		 堅硬	kʰɯ⁵³	kʰɯ⁵³	95
+543	CB	hard		 堅硬	kʰi¹³	kʰi¹³	95
+544	CJ	hard	浓稠	 堅硬	kʰɨ¹³ '浓稠' (1986S)	kʰɨ¹³	95
+618	PBz	have		 有	*ʔi@?	*ʔi@?	109
+619	TS	have	tɔ nɔt have	 有	tʰai²⁴ 'tɔ nɔt have'	tʰai²⁴	109
+620	FX	have	to not have	 有	tʰai³⁵ 'to not have'	tʰai³⁵	109
+621	XR	have	to not have	 有	tʰɛ³⁵	tʰɛ³⁵	109
+622	XL	have	to not have	 有	ɕe³⁵	ɕe³⁵	109
+623	CB	have	to not have	 有	ji³⁵	ji³⁵	109
+902	PBz	head		 頭	*bɑ¹ᴴ	*bɑ¹ᴴ	1003
+903	FX	head		 頭	kʰo⁵³ pa⁵³	kʰo⁵³ pa⁵³	1003
+904	XR	head		 頭	kʰu⁵⁵ pa³³-³¹	kʰu⁵⁵ pa³³-³¹	1003
+905	XR	head		 頭	kʰo⁵⁵ pa⁵⁵	kʰo⁵⁵ pa⁵⁵	1003
+906	XL	head		 頭	kʰo⁵⁵ pa⁵⁵	kʰo⁵⁵ pa⁵⁵	1003
+907	CB	head		 頭	a¹³ bo⁵⁵	a¹³ bo⁵⁵	1003
+1263	PBz	heart		 心	*li¹ᴸ	*li¹ᴸ	1067
+1264	TS	heart		 心	li⁵⁵ kʰuɔ⁵⁵ luɔ⁵⁵	li⁵⁵ kʰuɔ⁵⁵ luɔ⁵⁵	1067
+1265	FX	heart		 心	li⁵³ kʰo⁵³ li²¹	li⁵³ kʰo⁵³ li²¹	1067
+1266	XR	heart		 心	li⁵⁵ tʰo³³	li⁵⁵ tʰo³³	1067
+1267	XL	heart		 心	li⁵⁵ kʰo⁵⁵ lo³⁵	li⁵⁵ kʰo⁵⁵ lo³⁵	1067
+1268	CB	heart	高兴 (happy)	 心	li²¹ sɿ¹³ '高兴 (happy)'	li²¹ sɿ¹³	1067
+1269	CJ	heart	高兴 (happy)	 心	li²¹ ŋa²¹ (1986S)	li²¹ ŋa²¹	1067
+863	PBz	heavy		 重	*dɯ¹ᴸ	*dɯ¹ᴸ	155
+864	TS	heavy		 重	ʦɔ̃²⁴	ʦɔ̃²⁴	155
+865	FX	heavy		 重	tu⁵²	tu⁵²	155
+866	XR	heavy		 重	tu⁵⁴	tu⁵⁴	155
+867	XL	heavy		 重	tu⁵³	tu⁵³	155
+868	CB	heavy		 重	dɯ¹³	dɯ¹³	155
+1212	PBz	help		 幫	*ɕi¹ᴸ	*ɕi¹ᴸ	1058
+1213	TS	help		 幫	ta⁵¹ ɕi⁵¹	ta⁵¹ ɕi⁵¹	1058
+1214	FX	help		 幫	ta⁵³ ɕi⁵⁵	ta⁵³ ɕi⁵⁵	1058
+1215	XR	help		 幫	ta⁵⁴ ɕi³³-³¹	ta⁵⁴ ɕi³³-³¹	1058
+1216	CB	help		 幫	ʔa²¹ ɕi²¹	ʔa²¹ ɕi²¹	1058
+1153	PBz	horn (of an animial)		 角	*kʰɤ¹ᴹ	*kʰɤ¹ᴹ	1048
+1154	TS	horn (of an animial)		 角	kʰɤ⁵¹	kʰɤ⁵¹	1048
+1155	FX	horn (of an animial)		 角	kʰe⁵³	kʰe⁵³	1048
+1156	XR	horn (of an animial)		 角	a⁵⁴ kʰɯə³³	a⁵⁴ kʰɯə³³	1048
+1157	XL	horn (of an animial)		 角	kʰəu⁵³	kʰəu⁵³	1048
+1158	CB	horn (of an animial)		 角	kʰe³³	kʰe³³	1048
+231	PBz	house		 房子	*ʦʰɑC¹ᴹ	*ʦʰɑC¹ᴹ	41
+232	TS	house		 房子	ʦʰuɔ⁵¹	ʦʰuɔ⁵¹	41
+233	FX	house		 房子	ʦʰo⁵³	ʦʰo⁵³	41
+234	XR	house		 房子	ʦʰo⁵⁴	ʦʰo⁵⁴	41
+235	XL	house		 房子	ʦʰu⁵⁵	ʦʰu⁵⁵	41
+236	XL	house	ʰome	 房子	ʦʰu⁵⁵ 'ʰome'	ʦʰu⁵⁵	41
+237	CB	house	ʰome	 房子	ʦʰo³³	ʦʰo³³	41
+2236	PBz	hungry		 餓	*li@?	*li@?	2117
+2237	TS	hungry		 餓	li²⁴ a⁵¹	li²⁴ a⁵¹	2117
+2238	FX	hungry		 餓	a⁵³	a⁵³	2117
+2239	XR	hungry		 餓	lie⁵⁴ a³³	lie⁵⁴ a³³	2117
+2240	XR	hungry		 餓	lia⁵⁴	lia⁵⁴	2117
+2241	XL	hungry		 餓	ɣa⁵³	ɣa⁵³	2117
+2242	CB	hungry		 餓	no⁵⁵	no⁵⁵	2117
+2243	PBz	hungry		 餓	*ɣɑ¹ᴴ	*ɣɑ¹ᴴ	2118
+2244	TS	hungry		 餓	li²⁴ a⁵¹	li²⁴ a⁵¹	2118
+2245	FX	hungry		 餓	a⁵³	a⁵³	2118
+2246	XR	hungry		 餓	lie⁵⁴ a³³	lie⁵⁴ a³³	2118
+2247	XR	hungry		 餓	lia⁵⁴	lia⁵⁴	2118
+2248	XL	hungry		 餓	ɣa⁵³	ɣa⁵³	2118
+2249	CB	hungry		 餓	no⁵⁵	no⁵⁵	2118
+1687	PBz	in-law		 親家	*ʔæ	*ʔæ	2023
+1688	TS	in-law	elder-brother-in-law	 親家	a²¹ ʦʰuɔ⁵¹ 'elder-brother-in-law'	a²¹ ʦʰuɔ⁵¹	2023
+1689	FX	in-law	elder-brother-in-law	 親家	a⁵³ ʦo²¹ 'elder-brother-in-law'	a⁵³ ʦo²¹	2023
+1690	XR	in-law	relatives	 親家	ʦo⁵⁴ ʑi³³-³¹ 'relatives'	ʦo⁵⁴ ʑi³³-³¹	2023
+1691	CB	in-law	relatives	 親家	a³³ ǳa³³	a³³ ǳa³³	2023
+1692	CJ	in-law	relatives	 親家	ʔa²¹ ʦa²¹ mo²¹	ʔa²¹ ʦa²¹ mo²¹	2023
+1693	PBz	in-law		 親家	*[ʦ/ǳ]ɑC¹ᴹ	*ɑC¹ᴹ	2024
+1694	TS	in-law	elder-brother-in-law	 親家	a²¹ ʦʰuɔ⁵¹ 'elder-brother-in-law'	a²¹ ʦʰuɔ⁵¹	2024
+1695	FX	in-law	elder-brother-in-law	 親家	a⁵³ ʦo²¹ 'elder-brother-in-law'	a⁵³ ʦo²¹	2024
+1696	XR	in-law	relatives	 親家	ʦo⁵⁴ ʑi³³-³¹ 'relatives'	ʦo⁵⁴ ʑi³³-³¹	2024
+1697	CB	in-law	relatives	 親家	a³³ ǳa³³	a³³ ǳa³³	2024
+1698	CJ	in-law	relatives	 親家	ʔa²¹ ʦa²¹ mo²¹	ʔa²¹ ʦa²¹ mo²¹	2024
+1766	PBz	intestine		 腸子	*lɑ¹ᴴ	*lɑ¹ᴴ	2035
+1767	TS	intestine		 腸子	pi²⁴ la⁵⁵	pi²⁴ la⁵⁵	2035
+1768	FX	intestine		 腸子	pi³⁵ la⁵³	pi³⁵ la⁵³	2035
+1769	XR	intestine		 腸子	pi³⁵ la⁵⁴	pi³⁵ la⁵⁴	2035
+1770	XR	intestine		 腸子	pi³⁵ la³³	pi³⁵ la³³	2035
+1771	XL	intestine		 腸子	pi³⁵ la³⁵	pi³⁵ la³⁵	2035
+1772	CB	intestine		 腸子	ka²¹ po³⁵ lo⁵⁵	ka²¹ po³⁵ lo⁵⁵	2035
+1773	CJ	intestine		 腸子	ka²¹ pu³¹ lu⁵³	ka²¹ pu³¹ lu⁵³	2035
+1774	PBz	intestine		 腸子	*bi@?	*bi@?	2036
+1775	TS	intestine		 腸子	pi²⁴ la⁵⁵	pi²⁴ la⁵⁵	2036
+1776	FX	intestine		 腸子	pi³⁵ la⁵³	pi³⁵ la⁵³	2036
+1777	XR	intestine		 腸子	pi³⁵ la⁵⁴	pi³⁵ la⁵⁴	2036
+1778	XR	intestine		 腸子	pi³⁵ la³³	pi³⁵ la³³	2036
+1779	XL	intestine		 腸子	pi³⁵ la³⁵	pi³⁵ la³⁵	2036
+1780	CB	intestine		 腸子	ka²¹ po³⁵ lo⁵⁵	ka²¹ po³⁵ lo⁵⁵	2036
+1781	CJ	intestine		 腸子	ka²¹ pu³¹ lu⁵³	ka²¹ pu³¹ lu⁵³	2036
+247	PBz	iron		 鐵	*ɕe¹ᴹ	*ɕe¹ᴹ	44
+248	TS	iron		 鐵	ɕiɛ⁵¹	ɕiɛ⁵¹	44
+249	FX	iron		 鐵	ɕe⁵⁴	ɕe⁵⁴	44
+250	XR	iron		 鐵	ɕe⁵⁴	ɕe⁵⁴	44
+251	XL	iron		 鐵	ɕe⁵³	ɕe⁵³	44
+252	CB	iron		 鐵	ɕe³³	ɕe³³	44
+591	PBz	jin		 斤	*ʨʰi¹ᴹ	*ʨʰi¹ᴹ	104
+592	TS	jin		 斤	ʨʰi⁵⁵	ʨʰi⁵⁵	104
+593	FX	jin		 斤	ʨʰi⁵³	ʨʰi⁵³	104
+594	XR	jin		 斤	ʨʰi³³	ʨʰi³³	104
+595	CB	jin		 斤	ʨʰi³³	ʨʰi³³	104
+596	CJ	jin		 斤	ʨʰi²¹	ʨʰi²¹	104
+1782	PBz	kudzu		 葛	*ʔæ	*ʔæ	2037
+1783	TS	kudzu		 葛	a²¹ pu²¹	a²¹ pu²¹	2037
+1784	FX	kudzu		 葛	a²¹ pʰoŋ²¹	a²¹ pʰoŋ²¹	2037
+1785	CJ	kudzu		 葛	a¹³ pɯ⁵¹ (2006S)	a¹³ pɯ⁵¹	2037
+1786	PBz	kudzu		 葛	*puŋ@?	*puŋ@?	2038
+1787	TS	kudzu		 葛	a²¹ pu²¹	a²¹ pu²¹	2038
+1788	FX	kudzu		 葛	a²¹ pʰoŋ²¹	a²¹ pʰoŋ²¹	2038
+1789	CJ	kudzu		 葛	a¹³ pɯ⁵¹ (2006S)	a¹³ pɯ⁵¹	2038
+1136	PBz	leaf		 葉子	*ɣɤ¹ᴸ	*ɣɤ¹ᴸ	1045
+1137	TS	leaf		 葉子	ɣɤ⁵⁵ tʰa⁵⁵	ɣɤ⁵⁵ tʰa⁵⁵	1045
+1138	XR	leaf		 葉子	ɣə⁵⁵ tʰa³³-³¹	ɣə⁵⁵ tʰa³³-³¹	1045
+1139	XL	leaf		 葉子	ɣəu³⁵ la³⁵	ɣəu³⁵ la³⁵	1045
+1140	CB	leaf		 葉子	ʔa⁵³ ɣɯe³⁵	ʔa⁵³ ɣɯe³⁵	1045
+1141	CB	leaf		 葉子	ʔa⁵³ ɣɯe¹³	ʔa⁵³ ɣɯe¹³	1045
+1505	PBz	left over		 剩的	*ʔu¹ᴴ	*ʔu¹ᴴ	1111
+1506	TS	left over		 剩的	a⁵⁵ wu⁵⁵	a⁵⁵ wu⁵⁵	1111
+1507	CB	left over		 剩的	wu⁵⁵	wu⁵⁵	1111
+754	PBz	light-weighted		 輕	*ɹu¹ᴸ	*ɹu¹ᴸ	134
+755	TS	light-weighted		 輕	ʨʰĩ⁵⁵	ʨʰĩ⁵⁵	134
+756	FX	light-weighted		 輕	zu⁵³	zu⁵³	134
+757	XR	light-weighted		 輕	zu⁵⁴	zu⁵⁴	134
+758	XL	light-weighted		 輕	zu⁵³	zu⁵³	134
+759	CB	light-weighted		 輕	zu¹³	zu¹³	134
+393	PBz	long		 長	*ɣɤ²	*ɣɤ²	69
+394	TS	long		 長	ɣɤ²¹	ɣɤ²¹	69
+395	FX	long		 長	e²¹	e²¹	69
+396	XR	long		 長	ɣə³³-³¹	ɣə³³-³¹	69
+397	XL	long		 長	ɣəu²¹	ɣəu²¹	69
+398	CB	long		 長	ɣe³⁵	ɣe³⁵	69
+1	PBz	look		 看	*bɑ¹ᴸ	*bɑ¹ᴸ	1
+2	TS	look		 看	pa⁵¹	pa⁵¹	1
+3	FX	look		 看	pa⁵³	pa⁵³	1
+4	XR	look		 看	pa⁵⁴	pa⁵⁴	1
+5	XL	look		 看	pa⁵³	pa⁵³	1
+6	CB	look		 看	bo³⁵	bo³⁵	1
+7	CB	look		 看	bo¹³	bo¹³	1
+908	PBz	male		 公	*bɑ¹ᴹ	*bɑ¹ᴹ	1004
+909	TS	male		 公	-a⁵⁵ pa⁵⁵	-a⁵⁵ pa⁵⁵	1004
+910	FX	male		 公	a⁵³ pa²¹	a⁵³ pa²¹	1004
+911	XR	male	公鸡 (cock)	 公	za³³ pa³³ '公鸡 (cock)'	za³³ pa³³	1004
+912	CB	male	公鸡 (cock)	 公	bo³³	bo³³	1004
+891	PBz	male genital		 男生殖器	*ɹiC²	*ɹiC²	1001
+892	TS	male genital		 男生殖器	zɿ²¹	zɿ²¹	1001
+893	FX	male genital	男根	 男生殖器	zi²¹ '男根'	zi²¹	1001
+894	XR	male genital	男根	 男生殖器	ʑi⁵⁴	ʑi⁵⁴	1001
+895	CJ	male genital	男根	 男生殖器	ji¹³ doŋ²¹	ji¹³ doŋ²¹	1001
+681	PBz	many		 多	*ɹɿ²	*ɹɿ²	120
+682	TS	many		 多	zɿ²¹	zɿ²¹	120
+683	FX	many		 多	zi²¹	zi²¹	120
+684	XR	many		 多	zɿ³³	zɿ³³	120
+685	XL	many		 多	zɿ²¹	zɿ²¹	120
+686	CB	many		 多	zi³⁵	zi³⁵	120
+687	PBz	meat		 肉	*sɿ²	*sɿ²	121
+688	TS	meat		 肉	sɿ²⁴ ⁵⁵	sɿ²⁴ ⁵⁵	121
+689	XR	meat		 肉	sɿ⁵⁴	sɿ⁵⁴	121
+690	XL	meat		 肉	si²¹	si²¹	121
+691	XL	meat		 肉	sɿ²¹	sɿ²¹	121
+692	CB	meat		 肉	si³⁵	si³⁵	121
+293	PBz	medicine		 藥	*se²	*se²	52
+294	FX	medicine	医生 (doctor)	 藥	se⁵³ ʦo⁵³ '医生 (doctor)'	se⁵³ ʦo⁵³	52
+295	XR	medicine	医生 (doctor)	 藥	sə⁵⁴	sə⁵⁴	52
+296	XL	medicine	医生 (doctor)	 藥	se²¹	se²¹	52
+297	CB	medicine	医生 (doctor)	 藥	se³⁵	se³⁵	52
+1790	PBz	middle		 中間	*li¹ᴸ	*li¹ᴸ	2039
+1791	TS	middle		 中間	luɔ²⁴ liu⁵⁵	luɔ²⁴ liu⁵⁵	2039
+1792	FX	middle		 中間	lo²¹li⁵³	lo²¹li⁵³	2039
+1793	PBz	middle		 中間	*lɑC³	*lɑC³	2040
+1794	TS	middle		 中間	luɔ²⁴ liu⁵⁵	luɔ²⁴ liu⁵⁵	2040
+1795	FX	middle		 中間	lo²¹li⁵³	lo²¹li⁵³	2040
+1493	PBz	millet		 小米	*ʔu¹ᴸ	*ʔu¹ᴸ	1109
+1494	TS	millet		 小米	wu⁵⁵ suɔ⁵⁵ (wu²¹ )	wu⁵⁵ suɔ⁵⁵	1109
+1495	FX	millet		 小米	u⁵³ so⁵³	u⁵³ so⁵³	1109
+1496	XR	millet		 小米	wo⁵⁴ so³³ ʦɿ³³ ɣə³³	wo⁵⁴ so³³ ʦɿ³³ ɣə³³	1109
+1497	CB	millet		 小米	ʔu²¹ ǳi⁵⁵	ʔu²¹ ǳi⁵⁵	1109
+1498	CJ	millet		 小米	wu²¹ ʥi⁵³	wu²¹ ʥi⁵³	1109
+1796	PBz	money		 錢	*ku⁴	*ku⁴	2041
+1797	CB	money		 錢	ku²¹ lu²¹	ku²¹ lu²¹	2041
+1798	PBz	money		 錢	*lɑC@?	*lɑC@?	2042
+1799	CB	money		 錢	ku²¹ lu²¹	ku²¹ lu²¹	2042
+1142	PBz	monkey		 猴	*ɣɤ²	*ɣɤ²	1046
+1143	FX	monkey		 猴	e⁵³	e⁵³	1046
+1144	XR	monkey		 猴	ɣə⁵⁴	ɣə⁵⁴	1046
+1145	XL	monkey		 猴	ɣəu⁵³	ɣəu⁵³	1046
+1146	CB	monkey		 猴	ɣe³⁵ bie²¹	ɣe³⁵ bie²¹	1046
+926	PBz	mosquito		 蚊子	*mɑ¹ᴹ	*mɑ¹ᴹ	1007
+927	TS	mosquito		 蚊子	ma⁵⁵ kʰu²¹ li²¹	ma⁵⁵ kʰu²¹ li²¹	1007
+928	FX	mosquito		 蚊子	ma⁵³ kʰo⁵³ li²¹	ma⁵³ kʰo⁵³ li²¹	1007
+929	CB	mosquito		 蚊子	dzɨ³³ mo³³	dzɨ³³ mo³³	1007
+930	CJ	mosquito		 蚊子	dzɿ²¹ mo²¹	dzɿ²¹ mo²¹	1007
+931	CJ	mosquito		 蚊子	dzɿ²¹ mao²¹	dzɿ²¹ mao²¹	1007
+272	PBz	mouse		 鼠	*ɹe²	*ɹe²	49
+273	TS	mouse		 鼠	zɤ²¹	zɤ²¹	49
+274	FX	mouse		 鼠	ze²¹	ze²¹	49
+275	XR	mouse		 鼠	zə³³	zə³³	49
+276	XL	mouse		 鼠	ze²¹	ze²¹	49
+277	CB	mouse		 鼠	ze³⁵	ze³⁵	49
+1194	PBz	mouth		 嘴	*zɤ⁴	*zɤ⁴	1055
+1195	TS	mouth		 嘴	ʦɤ²⁴	ʦɤ²⁴	1055
+1196	FX	mouth		 嘴	ʦe³⁵	ʦe³⁵	1055
+1197	XR	mouth		 嘴	ʦə³³	ʦə³³	1055
+1198	XL	mouth	嘴 (mouth)	 嘴	ʦə³⁵ '嘴 (mouth)'	ʦə³⁵	1055
+1199	XL	mouth	句 (sentence, cl.)	 嘴	ǳə³⁵ '句 (sentence, cl.)'	ǳə³⁵	1055
+1200	XL	mouth	口 (bite, cl.)	 嘴	ʦe⁵⁵ '口 (bite, cl.)'	ʦe⁵⁵	1055
+1201	CB	mouth	口 (bite, cl.)	 嘴	ze²¹	ze²¹	1055
+153	PBz	negative imperative		 禁止	*tæ¹ᴴ	*tæ¹ᴴ	27
+154	TS	negative imperative		 禁止	tʰa⁵¹	tʰa⁵¹	27
+155	FX	negative imperative		 禁止	tʰa⁵³	tʰa⁵³	27
+156	XR	negative imperative		 禁止	tʰa³³	tʰa³³	27
+157	CB	negative imperative		 禁止	ta³³	ta³³	27
+158	CB	negative imperative		 禁止	ta²¹	ta²¹	27
+159	CB	negative imperative		 禁止	ta¹³	ta¹³	27
+1541	PBz	nest		 窩	*tuŋ¹ᴹ	*tuŋ¹ᴹ	1119
+1542	TS	nest		 窩	tʰɔ̃⁵¹	tʰɔ̃⁵¹	1119
+1543	FX	nest	蜘蛛网 (spider net)	 窩	pu⁵³ ʦʰi⁵³ tʰoŋ⁵³ '蜘蛛网 (spider net)'	pu⁵³ ʦʰi⁵³ tʰoŋ⁵³	1119
+1544	XR	nest	鸡窝 (chicken coop)	 窩	za³³ tʰõ³³ '鸡窝 (chicken coop)'	za³³ tʰõ³³	1119
+1545	CB	nest	鸡窝 (chicken coop)	 窩	tɯ³³	tɯ³³	1119
+671	PBz	net		 網	*ɹɿ¹ᴴ	*ɹɿ¹ᴴ	118
+672	FX	net		 網	zi²¹	zi²¹	118
+673	XR	net		 網	zɿ⁵⁴	zɿ⁵⁴	118
+674	CJ	net		 網	zi⁵⁵ (Xu 2020)	zi⁵⁵	118
+1800	PBz	new		 新	*ʔæ	*ʔæ	2043
+1801	TS	new		 新	a²⁴ ɕi⁵⁵	a²⁴ ɕi⁵⁵	2043
+1802	FX	new		 新	a³⁵ ɕi⁵³	a³⁵ ɕi⁵³	2043
+1803	XR	new		 新	a³³ ɕi³³	a³³ ɕi³³	2043
+1804	XL	new		 新	a³⁵ ɕi³⁵	a³⁵ ɕi³⁵	2043
+1805	CB	new		 新	ʔa²¹ ɕi²¹	ʔa²¹ ɕi²¹	2043
+1806	PBz	new		 新	*siC⁴	*siC⁴	2044
+1807	TS	new		 新	a²⁴ ɕi⁵⁵	a²⁴ ɕi⁵⁵	2044
+1808	FX	new		 新	a³⁵ ɕi⁵³	a³⁵ ɕi⁵³	2044
+1809	XR	new		 新	a³³ ɕi³³	a³³ ɕi³³	2044
+1810	CB	new		 新	ʔa²¹ ɕi²¹	ʔa²¹ ɕi²¹	2044
+1007	PBz	night		 夜晚	*næ@?	*næ@?	1022
+1008	TS	night		 夜晚	la²¹ jɛ²⁴	la²¹ jɛ²⁴	1022
+1009	FX	night		 夜晚	la²¹ ie³⁵	la²¹ ie³⁵	1022
+1010	XR	night		 夜晚	na³³ ʑɔ³⁵	na³³ ʑɔ³⁵	1022
+1011	XL	night		 夜晚	la³⁵ jo⁵⁵	la³⁵ jo⁵⁵	1022
+1012	CB	night		 夜晚	ǳa¹³ la²¹	ǳa¹³ la²¹	1022
+1013	CB	night		 夜晚	la²¹ pʰe²¹ tei⁵⁵	la²¹ pʰe²¹ tei⁵⁵	1022
+1014	CJ	night		 夜晚	la²¹ pʰɯe³⁵ te²¹	la²¹ pʰɯe³⁵ te²¹	1022
+1182	PBz	night		 夜	*pʰɤ⁴	*pʰɤ⁴	1053
+1183	TS	night		 夜	pʰɤ⁵⁵	pʰɤ⁵⁵	1053
+1184	FX	night		 夜	pʰai⁵³	pʰai⁵³	1053
+1185	XR	night		 夜	nɔ³³ ʨi³³ pʰɛ³⁵-⁵⁵	nɔ³³ ʨi³³ pʰɛ³⁵-⁵⁵	1053
+1186	CB	night		 夜	ǳa³⁵ pʰe²¹	ǳa³⁵ pʰe²¹	1053
+1322	PBz	nose		 鼻子	*ʨi¹ᴴ	*ʨi¹ᴴ	1078
+1323	TS	nose		 鼻子	ɤŋ²⁴ ʨʰi⁵¹	ɤŋ²⁴ ʨʰi⁵¹	1078
+1324	FX	nose		 鼻子	en³⁵ ʨʰi⁵³	en³⁵ ʨʰi⁵³	1078
+1325	XR	nose		 鼻子	ĩ⁵⁵ ʨʰi³³	ĩ⁵⁵ ʨʰi³³	1078
+1326	CB	nose		 鼻子	kɯ¹³ ʨi⁵⁵ dɯ¹³	kɯ¹³ ʨi⁵⁵ dɯ¹³	1078
+1419	PBz	not		 不	*ʦɿ¹ᴸ	*ʦɿ¹ᴸ	1095
+1420	FX	not		 不	ʦi²¹ e⁵³	ʦi²¹ e⁵³	1095
+1421	XR	not		 不	ʦʰɿ⁵⁴ ɣə³³ 不会	ʦʰɿ⁵⁴ ɣə³³ 不会	1095
+1422	CB	not		 不	ʦi²¹	ʦi²¹	1095
+1451	PBz	now		 現在	*mu@?	*mu@?	1101
+1452	TS	now		 現在	mu²⁴ la⁵⁵	mu²⁴ la⁵⁵	1101
+1453	FX	now		 現在	mu³⁵ lan⁵³	mu³⁵ lan⁵³	1101
+1454	XR	now		 現在	a⁵⁴ mu³³	a⁵⁴ mu³³	1101
+1455	CB	now	today	 現在	mu³³ ȵie³³ 'today'	mu³³ ȵie³³	1101
+964	PBz	old lady		 老太太	*pʰɑ⁴	*pʰɑ⁴	1014
+965	TS	old lady		 老太太	pʰa²⁴ ȵi⁵⁵	pʰa²⁴ ȵi⁵⁵	1014
+966	XR	old lady	曾祖母 (grandma)	 老太太	pʰa³³ pʰa³⁵ '曾祖母 (grandma)'	pʰa³³ pʰa³⁵	1014
+967	CB	old lady	曾祖母 (grandma)	 老太太	pʰo³³	pʰo³³	1014
+1001	PBz	one		 一	*næ⁴	*næ⁴	1021
+1002	TS	one		 一	la²⁴	la²⁴	1021
+1003	FX	one		 一	la³⁵ bu⁵³	la³⁵ bu⁵³	1021
+1004	XR	one		 一	na⁵⁴ pu³³-⁵⁵	na⁵⁴ pu³³-⁵⁵	1021
+1005	XL	one		 一	la³⁵	la³⁵	1021
+1006	CB	one		 一	la²¹	la²¹	1021
+2325	PBz	orange		 柑子	*kʰe@?	*kʰe@?	?15
+2326	TS	orange		 柑子	ʨʰiɛ²⁴ sɿ⁵⁵ (ʨʰiɛ²⁴ ɕi⁵⁵ , ʦʰɤ²⁴ sɿ⁵⁵ )	ʨʰiɛ²⁴ sɿ⁵⁵	?15
+2327	FX	orange		 柑子	ʨʰe³⁵ si²¹	ʨʰe³⁵ si²¹	?15
+2328	CJ	orange		 柑子	kʰe³⁵ ɕi²¹	kʰe³⁵ ɕi²¹	?15
+2329	PBz	orange		 柑子	*siC¹ᴴ	*siC¹ᴴ	?16
+2330	TS	orange		 柑子	ʨʰiɛ²⁴ sɿ⁵⁵	ʨʰiɛ²⁴ sɿ⁵⁵	?16
+2331	FX	orange		 柑子	ʨʰe³⁵ si²¹	ʨʰe³⁵ si²¹	?16
+2332	CJ	orange		 柑子	kʰe³⁵ ɕi²¹	kʰe³⁵ ɕi²¹	?16
+2313	PBz	oxbow		 牛軛	*nɑ⁴	*nɑ⁴	?12
+2314	FX	oxbow		 牛軛	lan³⁵ kʰu⁵³	lan³⁵ kʰu⁵³	?12
+2315	XR	oxbow		 牛軛	lã⁵⁴ kʰo³³	lã⁵⁴ kʰo³³	?12
+2316	CJ	oxbow		 牛軛	lo²¹ zo²¹ (2006S)	lo²¹ zo²¹	?12
+597	PBz	paint		 漆	*ʨʰi⁴	*ʨʰi⁴	105
+598	XL	paint		 漆	ʨʰi³⁵	ʨʰi³⁵	105
+599	CJ	paint		 漆	ʨʰi²¹ (Yang 2011)	ʨʰi²¹	105
+194	PBz	person		 人	*ȵɑC¹ᴹ	*ȵɑC¹ᴹ	35
+195	TS	person		 人	luɔ⁵¹	luɔ⁵¹	35
+196	FX	person		 人	lo⁵³	lo⁵³	35
+197	XR	person		 人	no⁵⁴	no⁵⁴	35
+198	XL	person		 人	lo⁵³	lo⁵³	35
+199	XL	person		 人	lo⁵⁵	lo⁵⁵	35
+200	CB	person		 人	ȵa³³	ȵa³³	35
+1334	PBz	pheasant		 野雞	*ʨʰi¹ᴴ	*ʨʰi¹ᴴ	1080
+1335	TS	pheasant		 野雞	pau²⁴ ʨʰi⁵⁵	pau²⁴ ʨʰi⁵⁵	1080
+1336	FX	pheasant		 野雞	pau³⁵ ʨʰi²¹	pau³⁵ ʨʰi²¹	1080
+1337	XR	pheasant		 野雞	pɔ³⁵ ʨʰi⁵⁴-⁵⁵	pɔ³⁵ ʨʰi⁵⁴-⁵⁵	1080
+1338	CB	pheasant		 野雞	ʨʰi⁵⁵ (chicken)	ʨʰi⁵⁵	1080
+654	PBz	pig		 豬	*ǳɿ¹ᴸ	*ǳɿ¹ᴸ	115
+655	TS	pig		 豬	ʦɿ⁵¹	ʦɿ⁵¹	115
+656	FX	pig		 豬	ʦi⁵³	ʦi⁵³	115
+657	XR	pig		 豬	ʦɿ⁵⁴	ʦɿ⁵⁴	115
+658	XL	pig		 豬	ʦɿ⁵³	ʦɿ⁵³	115
+659	CB	pig		 豬	ǳi¹³	ǳi¹³	115
+179	PBz	pro-3rd-sg		 他	*kɑC¹ᴹ	*kɑC¹ᴹ	32
+180	TS	pro-3rd-sg		 他	kuɔ²⁴	kuɔ²⁴	32
+181	FX	pro-3rd-sg		 他	ko³⁵ (nom.)	ko³⁵	32
+182	FX	pro-3rd-sg		 他	ko⁵³ (acc.)	ko⁵³	32
+183	XR	pro-3rd-sg		 他	ko³³	ko³³	32
+184	XL	pro-3rd-sg		 他	ko³⁵	ko³⁵	32
+185	CB	pro-3rd-sg		 他	ka³³	ka³³	32
+1811	PBz	radish		 蘿蔔	*læ¹ᴹ	*læ¹ᴹ	2045
+1812	TS	radish		 蘿蔔	la⁵⁵ pɤ⁵⁵	la⁵⁵ pɤ⁵⁵	2045
+1813	FX	radish		 蘿蔔	la⁵³ pe⁵³	la⁵³ pe⁵³	2045
+1814	XR	radish		 蘿蔔	la³³ pɯɛ³³	la³³ pɯɛ³³	2045
+1815	CB	radish		 蘿蔔	la³³ be³³	la³³ be³³	2045
+1816	PBz	radish		 蘿蔔	*bɤ¹ᴹ	*bɤ¹ᴹ	2046
+1817	TS	radish		 蘿蔔	la⁵⁵ pɤ⁵⁵	la⁵⁵ pɤ⁵⁵	2046
+1818	FX	radish		 蘿蔔	la⁵³ pe⁵³	la⁵³ pe⁵³	2046
+1819	XR	radish		 蘿蔔	la³³ pɯɛ³³	la³³ pɯɛ³³	2046
+1820	CB	radish		 蘿蔔	la³³ be³³	la³³ be³³	2046
+459	PBz	rain		 雨	*ʦɤ²	*ʦɤ²	81
+460	TS	rain		 雨	mɤ²⁴ ʦɤ²¹	mɤ²⁴ ʦɤ²¹	81
+461	FX	rain		 雨	me³⁵ ʦe²¹	me³⁵ ʦe²¹	81
+462	XR	rain		 雨	mɯe³⁵	mɯe³⁵	81
+463	XL	rain		 雨	ǳə²¹	ǳə²¹	81
+464	CB	rain		 雨	ze²¹	ze²¹	81
+1821	PBz	raw		 生	*ʔæ	*ʔæ	2047
+1822	TS	raw		 生	a⁵⁵ xɔ̃⁵⁵	a⁵⁵ xɔ̃⁵⁵	2047
+1823	FX	raw		 生	a⁵⁵ xoŋ⁵³	a⁵⁵ xoŋ⁵³	2047
+1824	XR	raw		 生	a⁵⁴ xũ³³	a⁵⁴ xũ³³	2047
+1825	CB	raw		 生	a³³ ħɯ⁵⁵	a³³ ħɯ⁵⁵	2047
+1826	CB	raw		 生	a³³ ħɯ³³	a³³ ħɯ³³	2047
+1827	PBz	raw		 生	*xuŋ¹ᴴ	*xuŋ¹ᴴ	2048
+1828	TS	raw		 生	a⁵⁵ xɔ̃⁵⁵	a⁵⁵ xɔ̃⁵⁵	2048
+1829	FX	raw		 生	a⁵⁵ xoŋ⁵³	a⁵⁵ xoŋ⁵³	2048
+1830	XR	raw		 生	a⁵⁴ xũ³³	a⁵⁴ xũ³³	2048
+1831	CB	raw		 生	a³³ ħɯ⁵⁵	a³³ ħɯ⁵⁵	2048
+1832	CB	raw		 生	a³³ ħɯ³³	a³³ ħɯ³³	2048
+1833	PBz	rice		 穀子	*lie³	*lie³	2049
+1834	TS	rice		 穀子	li²⁴ pu²⁴	li²⁴ pu²⁴	2049
+1835	FX	rice		 穀子	li³⁵ pu⁵³	li³⁵ pu⁵³	2049
+1836	XR	rice		 穀子	li³⁵ pu³⁵	li³⁵ pu³⁵	2049
+1837	XL	rice		 穀子	li³⁵ pu³⁵	li³⁵ pu³⁵	2049
+1838	CB	rice		 穀子	bu²¹ le²¹	bu²¹ le²¹	2049
+1839	PBz	rice		 穀子	*bu³	*bu³	2050
+1840	TS	rice		 穀子	li²⁴ pu²⁴	li²⁴ pu²⁴	2050
+1841	FX	rice		 穀子	li³⁵ pu⁵³	li³⁵ pu⁵³	2050
+1842	XR	rice		 穀子	li³⁵ pu³⁵	li³⁵ pu³⁵	2050
+1843	XL	rice		 穀子	li³⁵ pu³⁵	li³⁵ pu³⁵	2050
+1844	CB	rice		 穀子	bu²¹ le²¹	bu²¹ le²¹	2050
+1390	PBz	rice (uncooked)		 秧	*sɿ¹ᴸ	*sɿ¹ᴸ	1090
+1391	TS	rice (uncooked)	rice	 秧	sɿ⁵⁵ li⁵⁵ 'rice'	sɿ⁵⁵ li⁵⁵	1090
+1392	FX	rice (uncooked)	稻谷	 秧	si⁵³ li⁵³ '稻谷'	si⁵³ li⁵³	1090
+1393	XR	rice (uncooked)	青苗	 秧	sɹ̩⁵⁴ li³³ '青苗'	sɹ̩⁵⁴ li³³	1090
+1394	CB	rice (uncooked)	青苗	 秧	si¹³ ɣe⁵⁵	si¹³ ɣe⁵⁵	1090
+800	PBz	rice steamer		 甑子	*buŋ¹ᴹ	*buŋ¹ᴹ	143
+801	TS	rice steamer		 甑子	pɔ̃⁵¹	pɔ̃⁵¹	143
+802	XR	rice steamer		 甑子	põ⁵⁴	põ⁵⁴	143
+803	CB	rice steamer		 甑子	bɯ³³	bɯ³³	143
+660	PBz	rice, meal		 飯	*ǳɿ²	*ǳɿ²	116
+661	TS	rice, meal		 飯	ʦɿ²¹	ʦɿ²¹	116
+662	FX	rice, meal		 飯	ʦi²¹	ʦi²¹	116
+663	XR	rice, meal		 飯	ʦɿ³³	ʦɿ³³	116
+664	XL	rice, meal		 飯	ǳɿ²¹	ǳɿ²¹	116
+665	CB	rice, meal		 飯	ǳi³⁵	ǳi³⁵	116
+1015	PBz	right side		 右	*tæ⁴	*tæ⁴	1023
+1016	TS	right side		 右	tʰa²⁴ pu⁵⁵ ʨiɛ²¹	tʰa²⁴ pu⁵⁵ ʨiɛ²¹	1023
+1017	FX	right side	left side (左边)	 右	tʰa³⁵ pu⁵³ ʨe²¹ 'left side (左边)'	tʰa³⁵ pu⁵³ ʨe²¹	1023
+1018	XL	right side	左	 右	tʰa³⁵ pu⁵⁵ ʥe⁵⁵ '左'	tʰa³⁵ pu⁵⁵ ʥe⁵⁵	1023
+1019	CB	right side	左	 右	ta²¹ ze³⁵	ta²¹ ze³⁵	1023
+335	PBz	riped		 熟	*beC[¹ᴹ/¹ᴴ]	*beC	59
+336	TS	riped		 熟	pɤ²¹ pɤi⁵⁵	pɤ²¹ pɤi⁵⁵	59
+337	XR	riped		 熟	pɯe³³	pɯe³³	59
+338	CB	riped		 熟	bɯ³³	bɯ³³	59
+339	CJ	riped		 熟	bɯ⁵³ bɯu⁵³	bɯ⁵³ bɯu⁵³	59
+94	PBz	road		 路	*lɑ¹ᴹ	*lɑ¹ᴹ	17
+95	TS	road		 路	la⁵¹	la⁵¹	17
+96	FX	road		 路	la⁵³	la⁵³	17
+97	XR	road		 路	la⁵⁴	la⁵⁴	17
+98	CB	road		 路	lo³³	lo³³	17
+808	PBz	rotten		 腐爛	*[l/n]uŋ¹ᴴ	*uŋ¹ᴴ	145
+809	TS	rotten		 腐爛	lɔ̃⁵⁵	lɔ̃⁵⁵	145
+810	FX	rotten	朽	 腐爛	loŋ⁵⁵ '朽'	loŋ⁵⁵	145
+811	XL	rotten	朽	 腐爛	luŋ⁵⁵ ɕe²¹	luŋ⁵⁵ ɕe²¹	145
+812	CB	rotten	朽	 腐爛	nẽ⁵⁵	nẽ⁵⁵	145
+1025	PBz	round		 圓	*bɑC¹ᴴ	*bɑC¹ᴴ	1025
+1026	TS	round		 圓	pɔ²¹ luɔ⁵⁵ luɔ⁵⁵	pɔ²¹ luɔ⁵⁵ luɔ⁵⁵	1025
+1027	FX	round		 圓	po⁵³ lo⁵³ lo²¹	po⁵³ lo⁵³ lo²¹	1025
+1028	CB	round	螺 (snail)	 圓	ba⁵⁵ kʰo²¹ '螺 (snail)'	ba⁵⁵ kʰo²¹	1025
+1301	PBz	saliva		 涎水	*si@?	*si@?	1074
+1302	TS	saliva		 涎水	ʦʰɤ²¹ sɿ²¹	ʦʰɤ²¹ sɿ²¹	1074
+1303	CB	saliva		 涎水	ʦʰe¹³ si⁵⁵	ʦʰe¹³ si⁵⁵	1074
+1298	PBz	salt		 鹽	*si¹ᴴ	*si¹ᴴ	1073
+1299	FX	salt		 鹽	ɕi⁵³ la⁵³	ɕi⁵³ la⁵³	1073
+1300	CB	salt		 鹽	ʔa¹³ sɿ⁵⁵	ʔa¹³ sɿ⁵⁵	1073
+585	PBz	scale		 秤	*ʨʰi¹ᴹ	*ʨʰi¹ᴹ	103
+586	TS	scale		 秤	ʨʰi⁵¹	ʨʰi⁵¹	103
+587	FX	scale		 秤	ʨʰi⁵³	ʨʰi⁵³	103
+588	XR	scale		 秤	ʨʰi⁵⁴	ʨʰi⁵⁴	103
+589	XL	scale	to measure the weight of	 秤	ʨʰi⁵³ 'to measure the weight of'	ʨʰi⁵³	103
+590	CB	scale	to measure the weight of	 秤	ʨʰi³³	ʨʰi³³	103
+1170	TS	seed		 種子	ȵiɛ⁵⁵ lã⁵⁵	ȵiɛ⁵⁵ lã⁵⁵	1051
+1171	FX	seed		 種子	ȵie⁵³ lan⁵³	ȵie⁵³ lan⁵³	1051
+1172	XR	seed		 種子	ȵɛ⁵⁴ na³³	ȵɛ⁵⁴ na³³	1051
+1173	XL	seed		 種子	ȵɛ⁵⁵ nã⁵⁵	ȵɛ⁵⁵ nã⁵⁵	1051
+1174	CB	seed		 種子	ʔa³³ lie³³	ʔa³³ lie³³	1051
+728	PBz	sell		 賣	*lu²	*lu²	129
+729	TS	sell		 賣	lu²¹	lu²¹	129
+730	FX	sell		 賣	lu²¹	lu²¹	129
+731	XR	sell		 賣	lu³³	lu³³	129
+732	XL	sell		 賣	lu²¹	lu²¹	129
+733	CB	sell		 賣	lu¹³	lu¹³	129
+498	PBz	sharp		 鋒利	*ɕi¹ᴸ	*ɕi¹ᴸ	88
+499	TS	sharp		 鋒利	ɕi⁵¹	ɕi⁵¹	88
+500	FX	sharp		 鋒利	ɕi⁵³	ɕi⁵³	88
+501	XR	sharp		 鋒利	ɕi⁵⁴	ɕi⁵⁴	88
+502	XL	sharp		 鋒利	ɣa³⁵	ɣa³⁵	88
+503	CB	sharp	使锐利	 鋒利	kau⁵⁵ ɕi¹³ ʨie '使锐利'	kau⁵⁵ ɕi¹³ ʨie	88
+224	PBz	sheep, goat		 羊	*ɹɑC⁴	*ɹɑC⁴	40
+225	TS	sheep, goat		 羊	zuɔ²⁴	zuɔ²⁴	40
+226	FX	sheep, goat		 羊	zo³⁵	zo³⁵	40
+227	XR	sheep, goat		 羊	zo³⁵	zo³⁵	40
+228	CB	sheep, goat		 羊	zo²¹	zo²¹	40
+229	CJ	sheep, goat		 羊	zo²¹ nũ²¹	zo²¹ nũ²¹	40
+230	CJ	sheep, goat		 羊	zo²¹ loŋ²¹	zo²¹ loŋ²¹	40
+1304	PBz	sheng		 升	*si@?	*si@?	1075
+1305	TS	sheng		 升	sɿ²¹	sɿ²¹	1075
+1306	FX	sheng		 升	si²¹ kʰo²¹	si²¹ kʰo²¹	1075
+1307	XR	sheng		 升	ɕi³³	ɕi³³	1075
+1308	XR	sheng		 升	⁵⁵	⁵⁵	1075
+1309	XL	sheng		 升	ɕi²¹ kʰo²¹	ɕi²¹ kʰo²¹	1075
+1310	CB	sheng		 升	sɿ⁵⁵ ʦɨ²¹	sɿ⁵⁵ ʦɨ²¹	1075
+1060	PBz	shoe		 鞋	*ɕe³	*ɕe³	1032
+1061	TS	shoe		 鞋	ʦʰuɔ²¹ ɕiɛ²⁴	ʦʰuɔ²¹ ɕiɛ²⁴	1032
+1062	XR	shoe		 鞋	ʦʰo³³ ɕe³⁵	ʦʰo³³ ɕe³⁵	1032
+1063	XR	shoe		 鞋	ʦo³³ ɕɛ³⁵	ʦo³³ ɕɛ³⁵	1032
+1064	CB	shoe		 鞋	ȵo²¹ ɕie⁵⁵	ȵo²¹ ɕie⁵⁵	1032
+1065	CJ	shoe		 鞋	lo²¹ ɕie⁵³	lo²¹ ɕie⁵³	1032
+804	PBz	short		 短	*ǳuŋ¹ᴸ	*ǳuŋ¹ᴸ	144
+805	FX	short		 短	ʦoŋ⁵³	ʦoŋ⁵³	144
+806	XR	short		 短	ʦõ⁵⁴	ʦõ⁵⁴	144
+807	CB	short		 短	ǳɯ¹³	ǳɯ¹³	144
+1479	PBz	shy		 害羞	*ɹu¹ᴴ	*ɹu¹ᴴ	1106
+1480	TS	shy		 害羞	zu⁵⁵ ka²¹	zu⁵⁵ ka²¹	1106
+1481	FX	shy		 害羞	zu⁵³ ka²¹	zu⁵³ ka²¹	1106
+1482	XR	shy		 害羞	zu³⁵ ka³³	zu³⁵ ka³³	1106
+1483	CB	shy		 害羞	ku¹³ zu⁵⁵	ku¹³ zu⁵⁵	1106
+1484	CB	shy		 害羞	ku²¹ ǳu⁵⁵	ku²¹ ǳu⁵⁵	1106
+510	PBz	sickness		 病	*di⁴	*di⁴	90
+511	FX	sickness	painful (痛)	 病	ti³⁵ 'painful (痛)'	ti³⁵	90
+512	XR	sickness	painful (痛)	 病	ti³⁵	ti³⁵	90
+513	CJ	sickness	painful (痛)	 病	di²¹	di²¹	90
+514	CJ	sickness	painful (痛)	 病	dɯ²¹	dɯ²¹	90
+130	PBz	silkworm		 蠶	*sɑ¹ᴹ	*sɑ¹ᴹ	23
+131	TS	silkworm		 蠶	sai⁵¹	sai⁵¹	23
+132	FX	silkworm		 蠶	sai⁵³	sai⁵³	23
+133	CB	silkworm		 蠶	so³³	so³³	23
+134	CJ	silkworm		 蠶	so³³ ȵi⁵⁵	so³³ ȵi⁵⁵	23
+201	PBz	silver		 銀子	*ŋɑC¹ᴹ	*ŋɑC¹ᴹ	36
+202	TS	silver		 銀子	ŋɔ⁵¹	ŋɔ⁵¹	36
+203	FX	silver		 銀子	ŋo⁵³	ŋo⁵³	36
+204	XR	silver		 銀子	ŋo⁵⁴	ŋo⁵⁴	36
+205	XL	silver		 銀子	ŋo⁵³	ŋo⁵³	36
+206	CB	silver		 銀子	ŋa³³	ŋa³³	36
+483	PBz	similar		 像	*ǳɤC²	*ǳɤC²	85
+484	TS	similar		 像	ʦɤ²¹	ʦɤ²¹	85
+485	FX	similar		 像	ta⁵³ ʦe²¹	ta⁵³ ʦe²¹	85
+486	XR	similar		 像	ʦə³³	ʦə³³	85
+487	CB	similar		 像	ǳɿ³⁵	ǳɿ³⁵	85
+1549	PBz	six		 六	*ɣɯ²	*ɣɯ²	1121
+1550	TS	six		 六	lu²⁴	lu²⁴	1121
+1551	FX	six		 六	o²¹ pu⁵³	o²¹ pu⁵³	1121
+1552	XR	six		 六	wo³³ na⁵⁴-³³ xu³³-³⁵	wo³³ na⁵⁴-³³ xu³³-³⁵	1121
+1553	XL	six		 六	wo²¹	wo²¹	1121
+1554	CB	six		 六	ɣɯ³⁵	ɣɯ³⁵	1121
+1241	PBz	skin		 皮	*ki¹ᴸ	*ki¹ᴸ	1064
+1242	TS	skin	paper	 皮	ʦʰɿ⁵⁵ kʰɨ⁵⁵ tʰa⁵⁵ 'paper'	ʦʰɿ⁵⁵ kʰɨ⁵⁵ tʰa⁵⁵	1064
+1243	FX	skin	纸 (paper)	 皮	ʦʰi⁵³ kʰei⁵³ tʰa²¹ '纸 (paper)'	ʦʰi⁵³ kʰei⁵³ tʰa²¹	1064
+1244	XR	skin	纸 (paper)	 皮	ʦʰə⁵⁴ kʰɯə³³ tʰa³³	ʦʰə⁵⁴ kʰɯə³³ tʰa³³	1064
+1245	XR	skin	paper	 皮	ʦʰə⁵⁴ kʰe³³ tʰa³³ 'paper'	ʦʰə⁵⁴ kʰe³³ tʰa³³	1064
+1246	XL	skin		 皮	ʦʰɿ⁵⁵ kʰɯ⁵⁵ tʰa⁵⁵ ''纸 (paper)'	ʦʰɿ⁵⁵ kʰɯ⁵⁵ tʰa⁵⁵	1064
+1247	CB	skin		 皮	ki²¹ lo²¹	ki²¹ lo²¹	1064
+411	PBz	sky		 天	*mɤ⁴	*mɤ⁴	72
+412	TS	sky		 天	mɤ²⁴	mɤ²⁴	72
+413	FX	sky		 天	me³⁵	me³⁵	72
+414	XR	sky		 天	mɯe³⁵	mɯe³⁵	72
+415	XL	sky		 天	mɯe³⁵	mɯe³⁵	72
+416	CB	sky		 天	mɨe²¹	mɨe²¹	72
+324	PBz	sleep		 睡	*ȵ[e/ɤ]⁴	*ȵ⁴	57
+325	TS	sleep		 睡	ȵiɛ²⁴	ȵiɛ²⁴	57
+326	FX	sleep		 睡	ȵie³⁵	ȵie³⁵	57
+327	XR	sleep	困	 睡	ȵe³³ pie⁵⁵ ʦe³³ '困'	ȵe³³ pie⁵⁵ ʦe³³	57
+328	CB	sleep	困	 睡	ȵe²¹	ȵe²¹	57
+371	PBz	slow		 慢	*dɤ¹ᴴ	*dɤ¹ᴴ	65
+372	TS	slow		 慢	mã²⁴	mã²⁴	65
+373	FX	slow		 慢	te⁵³	te⁵³	65
+374	XL	slow		 慢	tie³⁵ die²¹ mo²¹ mo²¹	tie³⁵ die²¹ mo²¹ mo²¹	65
+375	CB	slow		 慢	de⁵⁵	de⁵⁵	65
+376	CJ	slow		 慢	de⁵³	de⁵³	65
+118	PBz	small		 小	*sɑ¹ᴹ	*sɑ¹ᴹ	21
+119	TS	small		 小	suã⁵¹	suã⁵¹	21
+120	FX	small		 小	suan⁵³	suan⁵³	21
+121	XR	small		 小	so⁵⁴	so⁵⁴	21
+122	XL	small		 小	suã⁵³	suã⁵³	21
+123	CB	small		 小	sa³³	sa³³	21
+1147	PBz	smoke		 煙	*kʰɤ¹ᴴ	*kʰɤ¹ᴴ	1047
+1148	TS	smoke		 煙	kʰɤ²⁴ kʰa⁵¹	kʰɤ²⁴ kʰa⁵¹	1047
+1149	FX	smoke		 煙	kʰe³⁵ kʰa²¹	kʰe³⁵ kʰa²¹	1047
+1150	XR	smoke		 煙	kʰɯə³³ kʰɯə⁵⁴	kʰɯə³³ kʰɯə⁵⁴	1047
+1151	XL	smoke		 煙	kʰəu⁵⁵ kʰa²¹	kʰəu⁵⁵ kʰa²¹	1047
+1152	CB	smoke		 煙	kʰe⁵⁵ sa²¹	kʰe⁵⁵ sa²¹	1047
+2226	PBz	snow		 雪	*su⁴	*su⁴	2115
+2227	TS	snow		 雪	su²⁴ su⁵⁵	su²⁴ su⁵⁵	2115
+2228	XR	snow		 雪	su³⁵ su³⁵-³³ ʦɿ³³	su³⁵ su³⁵-³³ ʦɿ³³	2115
+2229	XL	snow		 雪	su³⁵ su³⁵	su³⁵ su³⁵	2115
+2230	CB	snow		 雪	su²¹ su²¹	su²¹ su²¹	2115
+2231	PBz	snow		 雪	*su⁴	*su⁴	2116
+2232	TS	snow		 雪	su²⁴ su⁵⁵	su²⁴ su⁵⁵	2116
+2233	XR	snow		 雪	su³⁵ su³⁵-³³ ʦɿ³³	su³⁵ su³⁵-³³ ʦɿ³³	2116
+2234	XL	snow		 雪	su³⁵ su³⁵	su³⁵ su³⁵	2116
+2235	CB	snow		 雪	su²¹ su²¹	su²¹ su²¹	2116
+477	PBz	soft		 柔軟	*bɤC¹ᴴ	*bɤC¹ᴴ	84
+478	TS	soft		 柔軟	pɤ²⁴	pɤ²⁴	84
+479	TS	soft		 柔軟	pɤ²¹ pɤi⁵⁵	pɤ²¹ pɤi⁵⁵	84
+480	XR	soft		 柔軟	pɯɛ³³ pɯɛ³³-³⁵	pɯɛ³³ pɯɛ³³-³⁵	84
+481	XL	soft		 柔軟	pɯe²¹ pɯe³⁵ die²¹	pɯe²¹ pɯe³⁵ die²¹	84
+482	CB	soft		 柔軟	bɯ³⁵	bɯ³⁵	84
+1125	PBz	some		 些	*dɤ¹ᴸ	*dɤ¹ᴸ	1043
+1126	TS	some		 些	-tiɛ⁵⁵	-tiɛ⁵⁵	1043
+1127	FX	some		 些	te²¹	te²¹	1043
+1128	CB	some		 些	de¹³ bo⁵⁵	de¹³ bo⁵⁵	1043
+1205	PBz	son		 兒子	*bi⁴	*bi⁴	1057
+1206	TS	son		 兒子	pi²⁴	pi²⁴	1057
+1207	FX	son		 兒子	pi³⁵	pi³⁵	1057
+1208	XR	son		 兒子	pi³⁵	pi³⁵	1057
+1209	XL	son		 兒子	bi³⁵	bi³⁵	1057
+1210	CB	son		 兒子	ʔa³³ bie²¹	ʔa³³ bie²¹	1057
+1211	CJ	son		 兒子	bie²¹ ŋɯ²¹	bie²¹ ŋɯ²¹	1057
+99	PBz	son-in-law		 女婿	*mɑ⁴	*mɑ⁴	18
+100	TS	son-in-law		 女婿	ma²⁴	ma²⁴	18
+101	FX	son-in-law		 女婿	ma³⁵	ma³⁵	18
+102	XR	son-in-law		 女婿	ma³³	ma³³	18
+103	XR	son-in-law		 女婿	ma³⁵	ma³⁵	18
+104	CB	son-in-law		 女婿	mo²¹ ŋɨ²¹	mo²¹ ŋɨ²¹	18
+961	PBz	song		 歌	*pʰɑ¹ᴴ	*pʰɑ¹ᴴ	1013
+962	TS	song	stɔry	 歌	pʰa²¹ pʰa⁵⁵ 'stɔry'	pʰa²¹ pʰa⁵⁵	1013
+963	CB	song	stɔry	 歌	a¹³ pʰo⁵⁵	a¹³ pʰo⁵⁵	1013
+1339	PBz	sore		 毒包、瘡	*ʦʰi⁴	*ʦʰi⁴	1081
+1340	TS	sore		 毒包、瘡	ʦʰɿ²⁴ ka⁵⁵ (ʨʰi²⁴ ka⁵⁵ )	ʦʰɿ²⁴ ka⁵⁵	1081
+1341	FX	sore		 毒包、瘡	ʨʰe³⁵ ka⁵³	ʨʰe³⁵ ka⁵³	1081
+1342	XR	sore		 毒包、瘡	ʨʰi³³ ka³³	ʨʰi³³ ka³³	1081
+1343	CB	sore		 毒包、瘡	ʦʰo²¹ bo²¹	ʦʰo²¹ bo²¹	1081
+1344	CJ	sore		 毒包、瘡	ʦʰo²¹ bo²¹	ʦʰo²¹ bo²¹	1081
+1845	PBz	sorghum		 高粱	*ɣuŋ¹ᴹ	*ɣuŋ¹ᴹ	2051
+1846	TS	sorghum		 高粱	ɔ̃⁵⁵ pa⁵⁵	ɔ̃⁵⁵ pa⁵⁵	2051
+1847	FX	sorghum		 高粱	oŋ⁵³ pa⁵³	oŋ⁵³ pa⁵³	2051
+1848	XR	sorghum	高粱酒 (sorghum liquor)	 高粱	õ⁵⁴ pʰa³³ zə⁵⁵ '高粱酒 (sorghum liquor)'	õ⁵⁴ pʰa³³ zə⁵⁵	2051
+1849	CB	sorghum	高粱酒 (sorghum liquor)	 高粱	ɣɯ⁵⁵ bo¹³	ɣɯ⁵⁵ bo¹³	2051
+1850	CJ	sorghum	高粱酒 (sorghum liquor)	 高粱	ʔẽ³³bo³⁵ (1986S)	ʔẽ³³bo³⁵	2051
+1851	PBz	sorghum		 高粱	*bɑ¹ᴹ	*bɑ¹ᴹ	2052
+1852	TS	sorghum		 高粱	ɔ̃⁵⁵ pa⁵⁵	ɔ̃⁵⁵ pa⁵⁵	2052
+1853	FX	sorghum		 高粱	oŋ⁵³ pa⁵³	oŋ⁵³ pa⁵³	2052
+1854	XR	sorghum	高粱酒 (sorghum liquor)	 高粱	õ⁵⁴ pʰa³³ zə⁵⁵ '高粱酒 (sorghum liquor)'	õ⁵⁴ pʰa³³ zə⁵⁵	2052
+1855	CJ	sorghum	高粱酒 (sorghum liquor)	 高粱	ʔẽ³³bo³⁵ (1986S)	ʔẽ³³bo³⁵	2052
+1109	PBz	sound		 聲音	*ɹ[e/ɤ]¹ᴴ	*ɹ¹ᴴ	1040
+1110	TS	sound		 聲音	a²⁴ zɤ⁵⁵	a²⁴ zɤ⁵⁵	1040
+1111	FX	sound		 聲音	a³⁵ ze⁵³	a³⁵ ze⁵³	1040
+1112	CB	sound		 聲音	ku¹³ zu⁵⁵	ku¹³ zu⁵⁵	1040
+1113	CJ	sound		 聲音	gu²¹ zu⁵³	gu²¹ zu⁵³	1040
+988	PBz	sour		 酸	*ʔɑ²	*ʔɑ²	1019
+989	TS	sour		 酸	a²¹ pʰi²⁴ pʰi⁵⁵	a²¹ pʰi²⁴ pʰi⁵⁵	1019
+990	FX	sour		 酸	a²¹ pʰi⁵⁵ pʰi⁵⁵	a²¹ pʰi⁵⁵ pʰi⁵⁵	1019
+991	XR	sour		 酸	ɣa³³ pʰi³³ pʰi³³	ɣa³³ pʰi³³ pʰi³³	1019
+992	XL	sour		 酸	ɣa²¹ pʰi⁵⁵ pʰi⁵⁵	ɣa²¹ pʰi⁵⁵ pʰi⁵⁵	1019
+993	CB	sour		 酸	wo³⁵	wo³⁵	1019
+994	CB	sour		 酸	ɣo³⁵	ɣo³⁵	1019
+1327	PBz	soy bean		 豆	*ʨʰi²	*ʨʰi²	1079
+1328	TS	soy bean		 豆	ʨʰi²⁴ pu⁵⁵	ʨʰi²⁴ pu⁵⁵	1079
+1329	FX	soy bean		 豆	ʨʰi³⁵ pu⁵³	ʨʰi³⁵ pu⁵³	1079
+1330	XR	soy bean		 豆	ʨʰɔ³⁵ pu³³-³⁵	ʨʰɔ³⁵ pu³³-³⁵	1079
+1331	XR	soy bean		 豆	ʨʰe³⁵ pu⁵⁵ lɛ⁵⁵	ʨʰe³⁵ pu⁵⁵ lɛ⁵⁵	1079
+1332	XL	soy bean		 豆	ʨʰi³⁵ pu³⁵ le³⁵	ʨʰi³⁵ pu³⁵ le³⁵	1079
+1333	CB	soy bean		 豆	ʨʰi²¹	ʨʰi²¹	1079
+1433	PBz	soy bean		 豆	*bu⁴	*bu⁴	1098
+1434	TS	soy bean		 豆	ʨʰi²⁴ pu⁵⁵	ʨʰi²⁴ pu⁵⁵	1098
+1435	FX	soy bean		 豆	ʨʰi³⁵ pu⁵³	ʨʰi³⁵ pu⁵³	1098
+1436	XR	soy bean		 豆	ʨʰɔ³⁵ pu³³-³⁵	ʨʰɔ³⁵ pu³³-³⁵	1098
+1437	XR	soy bean		 豆	ʨʰe³⁵ pu⁵⁵ lɛ⁵⁵	ʨʰe³⁵ pu⁵⁵ lɛ⁵⁵	1098
+1438	CB	soy bean		 豆	bu²¹	bu²¹	1098
+1020	PBz	sparrow		 喜鵲	*ʦʰæ²	*ʦʰæ²	1024
+1021	TS	sparrow		 喜鵲	ʦʰa²⁴ ʦʰa⁵⁵	ʦʰa²⁴ ʦʰa⁵⁵	1024
+1022	FX	sparrow		 喜鵲	ʦʰa³⁵ ʦʰa²¹	ʦʰa³⁵ ʦʰa²¹	1024
+1023	XR	sparrow		 喜鵲	ʦʰa³³ ʦʰa³⁵	ʦʰa³³ ʦʰa³⁵	1024
+1024	CB	sparrow		 喜鵲	ʦʰa³³ ʦʰa³³ niã¹³	ʦʰa³³ ʦʰa³³ niã¹³	1024
+2174	PBz	spider		 蜘蛛	*Øm̩¹ᴸ	*Øm̩¹ᴸ	2107
+2175	TS	spider		 蜘蛛	pu⁵⁵ ʦʰɿ⁵⁵	pu⁵⁵ ʦʰɿ⁵⁵	2107
+2176	FX	spider		 蜘蛛	pu⁵⁵ ʦʰi⁵³	pu⁵⁵ ʦʰi⁵³	2107
+2177	XR	spider		 蜘蛛	mu⁵⁴ ʦʰɿ³³	mu⁵⁴ ʦʰɿ³³	2107
+2178	CB	spider		 蜘蛛	a³³ ʦʰi³³	a³³ ʦʰi³³	2107
+2179	CJ	spider		 蜘蛛	ʔa²¹ ʦʰɿ²¹	ʔa²¹ ʦʰɿ²¹	2107
+2180	PBz	spider		 蜘蛛	*ʦʰɿ¹ᴸ	*ʦʰɿ¹ᴸ	2108
+2181	TS	spider		 蜘蛛	pu⁵⁵ ʦʰɿ⁵⁵	pu⁵⁵ ʦʰɿ⁵⁵	2108
+2182	FX	spider		 蜘蛛	pu⁵⁵ ʦʰi⁵³	pu⁵⁵ ʦʰi⁵³	2108
+2183	XR	spider		 蜘蛛	mu⁵⁴ ʦʰɿ³³	mu⁵⁴ ʦʰɿ³³	2108
+2184	CB	spider		 蜘蛛	a³³ ʦʰi³³	a³³ ʦʰi³³	2108
+2185	CJ	spider		 蜘蛛	ʔa²¹ ʦʰɿ²¹	ʔa²¹ ʦʰɿ²¹	2108
+1561	PBz	stone, bone		 石頭、骨頭	*lɯ@?	*lɯ@?	2001
+1562	TS	stone, bone	bone	 石頭、骨頭	lu⁵⁵ ka⁵⁵ 'bone'	lu⁵⁵ ka⁵⁵	2001
+1563	FX	stone, bone	骨头 (bone)	 石頭、骨頭	lu⁵³ka²¹ '骨头 (bone)'	lu⁵³ka²¹	2001
+1564	XR	stone, bone	骨头 (bone)	 石頭、骨頭	lu⁵⁴ ka³³-³¹	lu⁵⁴ ka³³-³¹	2001
+1565	XL	stone, bone	骨头 (bone)	 石頭、骨頭	pʰɯ⁵³	pʰɯ⁵³	2001
+1566	CB	stone, bone	石头	 石頭、骨頭	lɯ³⁵ kɯ²¹ dɯ¹³ '石头'	lɯ³⁵ kɯ²¹ dɯ¹³	2001
+1567	CJ	stone, bone	石头	 石頭、骨頭	lɯ²¹ kɯ³³ dɯ³⁵ '石头'	lɯ²¹ kɯ³³ dɯ³⁵	2001
+1568	PBz	stone, bone		 石頭、骨頭	*gɑ¹ᴸ	*gɑ¹ᴸ	2002
+1569	TS	stone, bone	bone	 石頭、骨頭	lu⁵⁵ ka⁵⁵ 'bone'	lu⁵⁵ ka⁵⁵	2002
+1570	FX	stone, bone	bone	 石頭、骨頭	lu⁵³ ka²¹	lu⁵³ ka²¹	2002
+1571	XR	stone, bone	bone	 石頭、骨頭	lu⁵⁴ ka³³-³¹	lu⁵⁴ ka³³-³¹	2002
+1572	CB	stone, bone	石头	 石頭、骨頭	lɯ³⁵ kɯ²¹ dɯ¹³ '石头'	lɯ³⁵ kɯ²¹ dɯ¹³	2002
+781	PBz	straight		 直	*ʦʰu²	*ʦʰu²	139
+782	TS	straight		 直	ʦʰu²¹ ʦʰu²¹	ʦʰu²¹ ʦʰu²¹	139
+783	FX	straight		 直	ʦʰu³⁵ ʦʰu³⁵	ʦʰu³⁵ ʦʰu³⁵	139
+784	CB	straight		 直	ʦʰu³⁵ ʦʰu¹³	ʦʰu³⁵ ʦʰu¹³	139
+995	PBz	sun		 太陽	*nɑw²	*nɑw²	1020
+996	TS	sun		 太陽	lau²¹	lau²¹	1020
+997	FX	sun		 太陽	lau²¹	lau²¹	1020
+998	XR	sun		 太陽	nɔ³⁵	nɔ³⁵	1020
+999	XR	sun		 太陽	nɔ³³	nɔ³³	1020
+1000	CB	sun		 太陽	lo³⁵ ji³³ dɯ¹³	lo³⁵ ji³³ dɯ¹³	1020
+785	PBz	swollen		 腫	*xu²	*xu²	140
+786	TS	swollen		 腫	xu²¹	xu²¹	140
+787	FX	swollen		 腫	xu²¹	xu²¹	140
+788	XR	swollen		 腫	xu³³	xu³³	140
+789	CB	swollen		 腫	fu³⁵	fu³⁵	140
+1227	PBz	tael		 兩	*ǳi¹ᴹ	*ǳi¹ᴹ	1061
+1228	TS	tael		 兩	ʦɿ⁵⁵ (ʨi⁵⁵ )	ʦɿ⁵⁵	1061
+1229	FX	tael		 兩	ʦi⁵³	ʦi⁵³	1061
+1230	CB	tael		 兩	ǳi³³	ǳi³³	1061
+1351	PBz	ten		 十	*xi⁴	*xi⁴	1083
+1352	TS	ten		 十	xɨ²⁴	xɨ²⁴	1083
+1353	FX	ten		 十	xei³⁵	xei³⁵	1083
+1354	XR	ten	八 (eight)	 十	xə³⁵ '八 (eight)'	xə³⁵	1083
+1355	CB	ten	八 (eight)	 十	ʕi²¹	ʕi²¹	1083
+1356	CJ	ten	八 (eight)	 十	ʕɯ²¹	ʕɯ²¹	1083
+920	PBz	thick		 厚	*lɑ¹ᴹ	*lɑ¹ᴹ	1006
+921	TS	thick		 厚	la²⁴	la²⁴	1006
+922	FX	thick		 厚	la³⁵	la³⁵	1006
+923	XR	thick		 厚	la³³	la³³	1006
+924	XL	thick		 厚	la³⁵	la³⁵	1006
+925	CB	thick		 厚	ʔa²¹ lo²¹	ʔa²¹ lo²¹	1006
+2303	PBz	thick (liquid)		 濃	*ʥɯ⁴	*ʥɯ⁴	?9
+2304	TS	thick (liquid)	to be sufficient	 濃	ʦu³⁵ (2006N) [might be 'to be sufficient', a Chinese loan]	ʦu³⁵	?9
+2305	CJ	thick (liquid)	heavy	 濃	dɯ²¹ (2006S) [might be 'heavy']	dɯ²¹	?9
+1856	PBz	thin (<> thick)		 薄	*sɑ²	*sɑ²	2053
+1857	TS	thin (<> thick)		 薄	sa²¹ sa²¹	sa²¹ sa²¹	2053
+1858	FX	thin (<> thick)		 薄	sa²¹ sai³⁵	sa²¹ sai³⁵	2053
+1859	XR	thin (<> thick)		 薄	sa³³ sa³³-³¹	sa³³ sa³³-³¹	2053
+1860	CB	thin (<> thick)		 薄	so³³ so⁵⁵	so³³ so⁵⁵	2053
+1861	PBz	thin (<> thick)		 薄	*sɑ³	*sɑ³	2054
+1862	TS	thin (<> thick)		 薄	sa²¹ sa²¹	sa²¹ sa²¹	2054
+1863	FX	thin (<> thick)		 薄	sa²¹ sai³⁵	sa²¹ sai³⁵	2054
+1864	XR	thin (<> thick)		 薄	sa³³ sa³³-³¹	sa³³ sa³³-³¹	2054
+1865	CB	thin (<> thick)		 薄	so³³ so⁵⁵	so³³ so⁵⁵	2054
+2317	PBz	thorn		 刺兒	*tɑ²/⁴	*tɑ²/⁴	?13
+2318	FX	thorn		 刺兒	tʰa³⁵ se²¹	tʰa³⁵ se²¹	?13
+2319	XR	thorn		 刺兒	tʰa³³ sə⁵⁵	tʰa³³ sə⁵⁵	?13
+2320	CJ	thorn		 刺兒	to²¹ se³⁵ (2006S)	to²¹ se³⁵	?13
+2321	PBz	thorn		 刺兒	*s[e/ɤ]²	*s²	?14
+2322	FX	thorn		 刺兒	tʰa³⁵ se²¹	tʰa³⁵ se²¹	?14
+2323	XR	thorn		 刺兒	tʰa³³ sə⁵⁵	tʰa³³ sə⁵⁵	?14
+2324	CJ	thorn		 刺兒	to²¹ se³⁵ (2006S)	to²¹ se³⁵	?14
+1866	PBz	thread		 綫	*t[uŋ/u]¹ᴹ	*t¹ᴹ	2055
+1867	TS	thread		 綫	tʰɔ̃⁵¹ mɔ̃²¹	tʰɔ̃⁵¹ mɔ̃²¹	2055
+1868	TS	thread		 綫	tʰu⁵¹ mɔ̃²¹	tʰu⁵¹ mɔ̃²¹	2055
+1869	FX	thread		 綫	tʰoŋ⁵³ mu⁵³	tʰoŋ⁵³ mu⁵³	2055
+1870	XR	thread		 綫	tʰũ³³ mu⁵⁵	tʰũ³³ mu⁵⁵	2055
+1871	XL	thread		 綫	tʰuŋ⁵⁵ mu²¹	tʰuŋ⁵⁵ mu²¹	2055
+1872	CB	thread		 綫	tu³³ mu¹³	tu³³ mu¹³	2055
+1873	PBz	thread		 綫	*mu²	*mu²	2056
+1874	TS	thread		 綫	tʰɔ̃⁵¹ mɔ̃²¹	tʰɔ̃⁵¹ mɔ̃²¹	2056
+1875	TS	thread		 綫	tʰu⁵¹ mɔ̃²¹	tʰu⁵¹ mɔ̃²¹	2056
+1876	FX	thread		 綫	tʰoŋ⁵³ mu⁵³	tʰoŋ⁵³ mu⁵³	2056
+1877	XR	thread		 綫	tʰũ³³ mu⁵⁵	tʰũ³³ mu⁵⁵	2056
+1878	XL	thread		 綫	tʰuŋ⁵⁵ mu²¹	tʰuŋ⁵⁵ mu²¹	2056
+1879	CB	thread		 綫	tu³³ mu¹³	tu³³ mu¹³	2056
+1041	PBz	three		 三	*sɑC¹ᴹ	*sɑC¹ᴹ	1028
+1042	TS	three		 三	suɔ⁵⁵	suɔ⁵⁵	1028
+1043	FX	three		 三	so⁵³ pu⁵³	so⁵³ pu⁵³	1028
+1044	XR	three	三个	 三	so⁵⁴ na⁵⁴ xu³³ '三个'	so⁵⁴ na⁵⁴ xu³³	1028
+1045	XL	three	三个	 三	so⁵⁵	so⁵⁵	1028
+1046	CB	three	三个	 三	sa³³	sa³³	1028
+1518	PBz	thunder, to sound		 雷、響	*ɣuŋ@?	*ɣuŋ@?	1114
+1519	FX	thunder, to sound		 雷、響	me³⁵ oŋ²¹	me³⁵ oŋ²¹	1114
+1520	XR	thunder, to sound		 雷、響	mɯe³⁵-⁵⁵ õ⁵⁵	mɯe³⁵-⁵⁵ õ⁵⁵	1114
+1521	XL	thunder, to sound		 雷、響	mɯe³⁵ uŋ²¹	mɯe³⁵ uŋ²¹	1114
+1522	CB	thunder, to sound		 雷、響	me²¹ ɣɯ²¹	me²¹ ɣɯ²¹	1114
+630	PBz	tiger		 老虎	*lie⁴	*lie⁴	111
+631	TS	tiger		 老虎	li²⁴	li²⁴	111
+632	FX	tiger		 老虎	li³⁵	li³⁵	111
+633	XR	tiger		 老虎	li³³	li³³	111
+634	XR	tiger		 老虎	li³⁵	li³⁵	111
+635	XL	tiger		 老虎	li³⁵ pa⁵⁵	li³⁵ pa⁵⁵	111
+636	CB	tiger		 老虎	lie²¹	lie²¹	111
+642	PBz	to answer		 答應	*tʰie³	*tʰie³	113
+643	FX	to answer		 答應	tʰi³⁵	tʰi³⁵	113
+644	XR	to answer		 答應	tʰi³³	tʰi³³	113
+645	XR	to answer		 答應	tʰi³⁵	tʰi³⁵	113
+646	XL	to answer		 答應	tʰi³⁵	tʰi³⁵	113
+647	CB	to answer		 答應	tʰɨ²¹	tʰɨ²¹	113
+648	CJ	to answer		 答應	tʰe²¹	tʰe²¹	113
+313	PBz	to arrive		 到	*ʔe@?	*ʔe@?	55
+314	TS	to arrive		 到	jɛ⁵¹	jɛ⁵¹	55
+315	FX	to arrive		 到	ie⁵³	ie⁵³	55
+316	XR	to arrive		 到	ʑe⁵⁴	ʑe⁵⁴	55
+317	XL	to arrive		 到	je⁵⁵ lio⁵⁵	je⁵⁵ lio⁵⁵	55
+318	CB	to arrive	去	 到	je²¹ '去'	je²¹	55
+1095	PBz	to ask, to tell		 問、告訴	*ze@?	*ze@?	1038
+1096	TS	to ask, to tell		 問、告訴	ʦɤ²⁴	ʦɤ²⁴	1038
+1097	FX	to ask, to tell		 問、告訴	ʦe³⁵	ʦe³⁵	1038
+1098	XR	to ask, to tell		 問、告訴	ʦə³³	ʦə³³	1038
+1099	XL	to ask, to tell		 問、告訴	ko⁵⁵ ǳe³⁵	ko⁵⁵ ǳe³⁵	1038
+1100	CB	to ask, to tell		 問、告訴	kɨ⁵⁵ ze³⁵	kɨ⁵⁵ ze³⁵	1038
+1101	CJ	to ask, to tell		 問、告訴	gɯ³³ ze³⁵	gɯ³³ ze³⁵	1038
+1129	PBz	to be able to		 會	*gɤ¹ᴸ	*gɤ¹ᴸ	1044
+1130	TS	to be able to		 會	-ɣɤ⁵⁵	-ɣɤ⁵⁵	1044
+1131	FX	to be able to		 會	e⁵³	e⁵³	1044
+1132	XR	to be able to		 會	ə³³	ə³³	1044
+1133	XR	to be able to		 會	ɣe⁵⁵	ɣe⁵⁵	1044
+1134	CB	to be able to		 會	gɨe²¹	gɨe²¹	1044
+1135	CB	to be able to		 會	ge²¹	ge²¹	1044
+465	PBz	to be willing to		 肯	*ʦʰɤ³	*ʦʰɤ³	82
+466	TS	to be willing to		 肯	-ʦʰɤ⁵⁵	-ʦʰɤ⁵⁵	82
+467	XR	to be willing to		 肯	ʦʰe³³	ʦʰe³³	82
+468	XL	to be willing to	愿意	 肯	ʦʰə³⁵ '愿意'	ʦʰə³⁵	82
+469	CB	to be willing to	愿意	 肯	ʦʰɨe⁵⁵	ʦʰɨe⁵⁵	82
+515	PBz	to become		 變成	*ǳi@?	*ǳi@?	91
+516	TS	to become		 變成	ʦɿ²⁴	ʦɿ²⁴	91
+517	FX	to become		 變成	ʦi³⁵	ʦi³⁵	91
+518	XL	to become		 變成	ʥi⁵⁵ lio⁵⁵	ʥi⁵⁵ lio⁵⁵	91
+519	CB	to become		 變成	ʥi³⁵	ʥi³⁵	91
+175	PBz	to beg		 乞討	*gɑC⁴	*gɑC⁴	31
+176	FX	to beg		 乞討	ko³⁵	ko³⁵	31
+177	XR	to beg		 乞討	ko³⁵	ko³⁵	31
+178	CB	to beg		 乞討	ga²¹	ga²¹	31
+875	PBz	to belong to a Chinese zodiac		 屬（豬）	*ǳɯ⁴	*ǳɯ⁴	157
+876	FX	to belong to a Chinese zodiac		 屬（豬）	ʦu³⁵	ʦu³⁵	157
+877	XR	to belong to a Chinese zodiac		 屬（豬）	ʦu³³ ɕe³³	ʦu³³ ɕe³³	157
+878	CJ	to belong to a Chinese zodiac		 屬（豬）	ǳʉ¹³ (Xu 2020)	ǳʉ¹³	157
+37	PBz	to bite		 咬、吃	*gɑ³	*gɑ³	8
+38	TS	to bite		 咬、吃	ka⁵¹	ka⁵¹	8
+39	FX	to bite		 咬、吃	ka³⁵	ka³⁵	8
+40	XR	to bite		 咬、吃	ka³⁵	ka³⁵	8
+41	XL	to bite		 咬、吃	ka³⁵	ka³⁵	8
+42	CB	to bite		 咬、吃	go¹³	go¹³	8
+43	CJ	to bite		 咬、吃	go⁵³	go⁵³	8
+2309	PBz	to blink		 眨	*nie@?	*nie@?	?11
+2310	FX	to blink		 眨	ʨʰi⁵³ ȵi²¹	ʨʰi⁵³ ȵi²¹	?11
+2311	XR	to blink		 眨	ʨʰi⁵⁴ ȵe³³	ʨʰi⁵⁴ ȵe³³	?11
+2312	CJ	to blink		 眨	ȵie¹³ (2006S)	ȵie¹³	?11
+1530	PBz	to block		 堵塞	*suŋ²	*suŋ²	1116
+1531	FX	to block		 堵塞	soŋ²¹	soŋ²¹	1116
+1532	CB	to block		 堵塞	ʔa³³ sɯ¹³	ʔa³³ sɯ¹³	1116
+1533	CJ	to block		 堵塞	ʔa³³ sɯ³⁵	ʔa³³ sɯ³⁵	1116
+340	PBz	to blow		 吹	*meC³	*meC³	60
+341	TS	to blow		 吹	miɛ²⁴	miɛ²⁴	60
+342	FX	to blow		 吹	mie³⁵	mie³⁵	60
+343	XR	to blow		 吹	mie³⁵	mie³⁵	60
+344	XR	to blow		 吹	miɛ³⁵	miɛ³⁵	60
+345	XL	to blow		 吹	mie³⁵	mie³⁵	60
+346	CB	to blow		 吹	mi⁵⁵	mi⁵⁵	60
+347	CJ	to blow		 吹	mi⁵³	mi⁵³	60
+190	PBz	to boil		 煮	*lɑC³	*lɑC³	34
+191	FX	to boil		 煮	lo³⁵	lo³⁵	34
+192	XR	to boil		 煮	lo³⁵	lo³⁵	34
+193	CB	to boil		 煮	la⁵⁵	la⁵⁵	34
+186	PBz	to break (from the middle)		 斷	*kʰɑC²	*kʰɑC²	33
+187	TS	to break (from the middle)		 斷	kʰuɔ²¹	kʰuɔ²¹	33
+188	FX	to break (from the middle)		 斷	kʰo²¹	kʰo²¹	33
+189	CB	to break (from the middle)		 斷	kʰa³⁵	kʰa³⁵	33
+377	PBz	to broke in the middle		 破、斷	*dɤ²	*dɤ²	66
+378	FX	to broke in the middle		 破、斷	te²¹	te²¹	66
+379	XR	to broke in the middle	破烂	 破、斷	tie³³ kʰa³³ la³³ '破烂'	tie³³ kʰa³³ la³³	66
+380	XL	to broke in the middle	割断 (to cut)	 破、斷	so⁵⁵ tie²¹ '割断 (to cut)'	so⁵⁵ tie²¹	66
+381	CB	to broke in the middle	割断 (to cut)	 破、斷	de³⁵	de³⁵	66
+382	CJ	to broke in the middle	割断 (to cut)	 破、斷	die³⁵	die³⁵	66
+8	PBz	to burn		 燃燒	*dɑ¹ᴹ	*dɑ¹ᴹ	2
+9	TS	to burn		 燃燒	ta⁵¹	ta⁵¹	2
+10	CB	to burn		 燃燒	do⁵⁵	do⁵⁵	2
+11	CJ	to burn		 燃燒	ta⁵¹ (2006S)	ta⁵¹	2
+885	PBz	to burn		 燒	*ʔɯ³	*ʔɯ³	159
+886	TS	to burn		 燒	wu²⁴	wu²⁴	159
+887	FX	to burn		 燒	u³⁵	u³⁵	159
+888	XR	to burn		 燒	wu³⁵	wu³⁵	159
+889	XR	to burn		 燒	wu⁵⁴-³³	wu⁵⁴-³³	159
+890	CB	to burn		 燒	ʔɯ⁵⁵	ʔɯ⁵⁵	159
+357	PBz	to carry		 搬	*bɤ¹ᴹ	*bɤ¹ᴹ	63
+358	TS	to carry		 搬	pɤ⁵¹	pɤ⁵¹	63
+359	XR	to carry		 搬	pɯe⁵⁴	pɯe⁵⁴	63
+360	XR	to carry		 搬	po⁵⁴	po⁵⁴	63
+361	XL	to carry		 搬	pɯe⁵⁵	pɯe⁵⁵	63
+362	CB	to carry		 搬	bie³³	bie³³	63
+363	CB	to carry	抬	 搬	bɨe³³ '抬'	bɨe³³	63
+238	PBz	to carry on the back		 背 v.	*ʔɑC¹ᴹ	*ʔɑC¹ᴹ	42
+239	TS	to carry on the back		 背 v.	wɔ⁵¹	wɔ⁵¹	42
+240	FX	to carry on the back		 背 v.	o⁵³	o⁵³	42
+241	XL	to carry on the back		 背 v.	wo⁵⁵	wo⁵⁵	42
+242	CB	to carry on the back		 背 v.	ʔa³³	ʔa³³	42
+2298	PBz	to chisel		 鑿	*tuŋ¹ᴴ	*tuŋ¹ᴴ	?7
+2299	CJ	to chisel		 鑿	tɯ⁵¹ (2006S)	tɯ⁵¹	?7
+170	PBz	to chop		 剁	*dɑC¹ᴸ	*dɑC¹ᴸ	30
+171	TS	to chop		 剁	tuɔ⁵¹	tuɔ⁵¹	30
+172	FX	to chop	砍	 剁	to⁵³ '砍'	to⁵³	30
+173	XR	to chop	砍	 剁	tu⁵⁴ to³³	tu⁵⁴ to³³	30
+174	CB	to chop	砍	 剁	da¹³	da¹³	30
+1360	PBz	to comb		 梳	*siC²	*siC²	1085
+1361	TS	to comb		 梳	ɕi²¹	ɕi²¹	1085
+1362	FX	to comb		 梳	ɕi²¹	ɕi²¹	1085
+1363	XR	to comb		 梳	ɕi³³	ɕi³³	1085
+1364	XL	to comb		 梳	ɕi²¹	ɕi²¹	1085
+1365	CB	to comb		 梳	ɕie²¹ bie³³	ɕie²¹ bie³³	1085
+263	PBz	to compel		 逼	*[p/pʰ]e@?	*e@?	47
+264	FX	to compel		 逼	pie²¹	pie²¹	47
+265	CB	to compel		 逼	pie²¹	pie²¹	47
+1880	PBz	to connect		 連接	*ʔæ	*ʔæ	2057
+1881	TS	to connect		 連接	a⁵⁵ sa⁵⁵	a⁵⁵ sa⁵⁵	2057
+1882	CJ	to connect		 連接	ʔa³³so²¹  (1986S)	ʔa³³so²¹	2057
+1883	PBz	to connect		 連接	*sɑ¹ᴸ	*sɑ¹ᴸ	2058
+1884	TS	to connect		 連接	a⁵⁵ sa⁵⁵	a⁵⁵ sa⁵⁵	2058
+1885	CJ	to connect		 連接	ʔa³³so²¹  (1986S)	ʔa³³so²¹	2058
+770	PBz	to contain		 裝	*ʨu¹ᴸ	*ʨu¹ᴸ	137
+771	TS	to contain		 裝	ʦʰu⁵¹	ʦʰu⁵¹	137
+772	FX	to contain		 裝	ʦʰu⁵³	ʦʰu⁵³	137
+773	XR	to contain		 裝	ʦʰu⁵⁴	ʦʰu⁵⁴	137
+774	CB	to contain		 裝	tu¹³	tu¹³	137
+775	CJ	to contain		 裝	du¹³	du¹³	137
+825	PBz	to cough		 咳嗽	*ȵuŋ¹ᴴ	*ȵuŋ¹ᴴ	148
+826	TS	to cough		 咳嗽	lɔ̃⁵⁵	lɔ̃⁵⁵	148
+827	FX	to cough		 咳嗽	loŋ⁵³ se²¹	loŋ⁵³ se²¹	148
+828	XR	to cough		 咳嗽	ȵu⁵⁴	ȵu⁵⁴	148
+829	XR	to cough		 咳嗽	nõ⁵⁴	nõ⁵⁴	148
+830	XL	to cough		 咳嗽	nuŋ⁵⁵ zo²¹	nuŋ⁵⁵ zo²¹	148
+831	CB	to cough		 咳嗽	ȵɯ⁵⁵	ȵɯ⁵⁵	148
+2264	PBz	to cover up		 蓋上	*ʔæ¹ᴴ	*ʔæ¹ᴴ	2121
+2265	TS	to cover up		 蓋上	tu²¹	tu²¹	2121
+2266	FX	to cover up		 蓋上	tu²¹	tu²¹	2121
+2267	XR	to cover up		 蓋上	a³³ tu³³	a³³ tu³³	2121
+2268	XL	to cover up		 蓋上	tu²¹	tu²¹	2121
+2269	XL	to cover up		 蓋上	du²¹	du²¹	2121
+2270	CB	to cover up		 蓋上	ʔa⁵⁵ da²¹	ʔa⁵⁵ da²¹	2121
+2271	CJ	to cover up		 蓋上	a⁵⁵ da¹³	a⁵⁵ da¹³	2121
+2272	PBz	to cover up		 蓋上	*du²	*du²	2122
+2273	TS	to cover up		 蓋上	tu²¹	tu²¹	2122
+2274	FX	to cover up		 蓋上	tu²¹	tu²¹	2122
+2275	XR	to cover up		 蓋上	a³³ tu³³	a³³ tu³³	2122
+2276	XL	to cover up		 蓋上	tu²¹	tu²¹	2122
+2277	XL	to cover up		 蓋上	du²¹	du²¹	2122
+2278	CB	to cover up		 蓋上	ʔa⁵⁵ da²¹	ʔa⁵⁵ da²¹	2122
+2279	CJ	to cover up		 蓋上	a⁵⁵ da¹³?1	a⁵⁵ da¹³?1	2122
+723	PBz	to crawl		 爬、上	*gu²	*gu²	128
+724	TS	to crawl		 爬、上	ku²¹	ku²¹	128
+725	XR	to crawl		 爬、上	ku⁵⁴	ku⁵⁴	128
+726	XL	to crawl		 爬、上	ku²¹	ku²¹	128
+727	CB	to crawl		 爬、上	gu³⁵	gu³⁵	128
+760	PBz	to crow		 啼	*ɹu⁴	*ɹu⁴	135
+761	TS	to crow		 啼	zɔ̃²⁴	zɔ̃²⁴	135
+762	FX	to crow		 啼	zoŋ³⁵	zoŋ³⁵	135
+763	XR	to crow	叫	 啼	zõ³⁵ '叫'	zõ³⁵	135
+764	XL	to crow	叫	 啼	zuŋ³⁵	zuŋ³⁵	135
+765	CB	to crow	叫	 啼	zu²¹	zu²¹	135
+624	PBz	to cry		 哭	*ǳiC⁴	*ǳiC⁴	110
+625	TS	to cry		 哭	ʦɿ²⁴	ʦɿ²⁴	110
+626	FX	to cry		 哭	ʦi³⁵	ʦi³⁵	110
+627	XR	to cry		 哭	ʨi³³	ʨi³³	110
+628	XL	to cry		 哭	ʥi³⁵	ʥi³⁵	110
+629	CB	to cry		 哭	ʥi²¹	ʥi²¹	110
+535	PBz	to cut with a saw		 鋸	*kʰi@?	*kʰi@?	94
+536	FX	to cut with a saw		 鋸	kʰi³⁵	kʰi³⁵	94
+537	XR	to cut with a saw		 鋸	kʰɯ³⁵	kʰɯ³⁵	94
+538	XL	to cut with a saw		 鋸	kʰɯ³⁵	kʰɯ³⁵	94
+539	CB	to cut with a saw		 鋸	kʰi³³	kʰi³³	94
+112	PBz	to cut with knife		 割	*ŋɑ¹ᴸ	*ŋɑ¹ᴸ	20
+113	TS	to cut with knife		 割	ŋa⁵¹	ŋa⁵¹	20
+114	FX	to cut with knife		 割	ŋa⁵³	ŋa⁵³	20
+115	XR	to cut with knife		 割	ŋã⁵⁴	ŋã⁵⁴	20
+116	XL	to cut with knife		 割	ŋ⁵⁵(typo?)	ŋ⁵⁵	20
+117	CB	to cut with knife		 割	ŋo¹³	ŋo¹³	20
+298	PBz	to die		 死	*se⁴	*se⁴	53
+299	TS	to die		 死	sɤ²⁴	sɤ²⁴	53
+300	FX	to die		 死	se³⁵	se³⁵	53
+301	XR	to die	死的 (dead)	 死	sə³⁵ tʰu³³ '死的 (dead)'	sə³⁵ tʰu³³	53
+302	XR	to die	死的 (dead)	 死	sə³³	sə³³	53
+303	XR	to die	死人 (dead person)	 死	no⁵⁴ sə³⁵ '死人 (dead person)'	no⁵⁴ sə³⁵	53
+304	XL	to die	死人 (dead person)	 死	se³⁵	se³⁵	53
+305	CB	to die	死人 (dead person)	 死	se²¹	se²¹	53
+675	PBz	to do		 做	*ɹɿ¹ᴸ	*ɹɿ¹ᴸ	119
+676	TS	to do		 做	zɿ⁵⁵	zɿ⁵⁵	119
+677	FX	to do		 做	zi⁵³	zi⁵³	119
+678	XR	to do		 做	zɿ⁵⁴	zɿ⁵⁴	119
+679	XL	to do		 做	zɿ⁵⁵	zɿ⁵⁵	119
+680	CB	to do		 做	zi¹³	zi¹³	119
+1639	PBz	to dream		 夢	*mɯ²	*mɯ²	2015
+1640	TS	to dream		 夢	mu²¹ ʦɿ²¹	mu²¹ ʦɿ²¹	2015
+1641	FX	to dream		 夢	mu²¹ ʦi²¹	mu²¹ ʦi²¹	2015
+1642	XR	to dream		 夢	mu³³ ʨi³³	mu³³ ʨi³³	2015
+1643	XL	to dream		 夢	mu²¹ ʥi⁵⁵	mu²¹ ʥi⁵⁵	2015
+1644	CB	to dream	to dream	 夢	mu³⁵ zi¹³ 'to dream'	mu³⁵ zi¹³	2015
+1645	CJ	to dream	to dream	 夢	mɯu³⁵	mɯu³⁵	2015
+1646	PBz	to dream		 夢	*ǳiC²	*ǳiC²	2016
+1647	TS	to dream		 夢	mu²¹ ʦɿ²¹	mu²¹ ʦɿ²¹	2016
+1648	FX	to dream		 夢	mu²¹ ʦi²¹	mu²¹ ʦi²¹	2016
+1649	XR	to dream		 夢	mu³³ ʨi³³	mu³³ ʨi³³	2016
+1650	XL	to dream		 夢	mu²¹ ʥi⁵⁵	mu²¹ ʥi⁵⁵	2016
+1651	CB	to dream	to dream	 夢	mu³⁵ zi¹³ 'to dream'	mu³⁵ zi¹³	2016
+1652	CJ	to dream	to dream	 夢	mɯu³⁵	mɯu³⁵	2016
+16	PBz	to drip		 撒、滴	*dɑ¹ᴴ	*dɑ¹ᴴ	4
+17	TS	to drip		 撒、滴	ta⁵⁵	ta⁵⁵	4
+18	FX	to drip		 撒、滴	ta⁵³	ta⁵³	4
+19	XR	to drip	滴水 (water drips)	 撒、滴	ʦʰə⁵⁴ ta⁵⁴ '滴水 (water drips)'	ʦʰə⁵⁴ ta⁵⁴	4
+20	CB	to drip	滴水 (water drips)	 撒、滴	do⁵⁵	do⁵⁵	4
+1886	PBz	to drive away		 趕	*ʔæ	*ʔæ	2059
+1887	TS	to drive away		 趕	ʨiɛ⁵¹	ʨiɛ⁵¹	2059
+1888	XR	to drive away		 趕	a⁵⁴ ʨe³³-³¹	a⁵⁴ ʨe³³-³¹	2059
+1889	XL	to drive away		 趕	ʨe⁵⁵	ʨe⁵⁵	2059
+1890	CB	to drive away		 趕	ʔa²¹ ʥie¹³	ʔa²¹ ʥie¹³	2059
+1891	PBz	to drive away		 趕	*ʥe¹ᴸ	*ʥe¹ᴸ	2060
+1892	TS	to drive away		 趕	ʨiɛ⁵¹	ʨiɛ⁵¹	2060
+1893	FX	to drive away		 趕	ʨe⁵³	ʨe⁵³	2060
+1894	XR	to drive away		 趕	a⁵⁴ ʨe³³-³¹	a⁵⁴ ʨe³³-³¹	2060
+1895	XL	to drive away		 趕	ʨe⁵⁵	ʨe⁵⁵	2060
+1896	CB	to drive away		 趕	ʔa²¹ ʥie¹³	ʔa²¹ ʥie¹³	2060
+2300	PBz	to eat		 吃	*ɣe²	*ɣe²	?8
+2301	TS	to eat	food	 吃	jɛ²¹ 'food'	jɛ²¹	?8
+2302	CB	to eat	food	 吃	ɣe³⁵	ɣe³⁵	?8
+1508	PBz	to escape		 逃	*b[u/ɑC]@?	*b@?	1112
+1509	TS	to escape		 逃	pɔ²¹	pɔ²¹	1112
+1510	FX	to escape		 逃	po²¹	po²¹	1112
+1511	CB	to escape		 逃	bu²¹ ɣe¹³	bu²¹ ɣe¹³	1112
+1897	PBz	to exchange		 交換	*ʔæ	*ʔæ	2061
+1898	TS	to exchange		 交換	a²⁴ li⁵⁵	a²⁴ li⁵⁵	2061
+1899	FX	to exchange		 交換	a³⁵ li⁵³	a³⁵ li⁵³	2061
+1900	XL	to exchange		 交換	a³⁵ li³⁵	a³⁵ li³⁵	2061
+1901	CB	to exchange		 交換	ʔa¹³ lie⁵⁵	ʔa¹³ lie⁵⁵	2061
+1902	PBz	to exchange		 交換	*lie¹ᴴ	*lie¹ᴴ	2062
+1903	TS	to exchange		 交換	a²⁴ li⁵⁵	a²⁴ li⁵⁵	2062
+1904	FX	to exchange		 交換	a³⁵ li⁵³	a³⁵ li⁵³	2062
+1905	XL	to exchange		 交換	a³⁵ li³⁵	a³⁵ li³⁵	2062
+1906	CB	to exchange		 交換	ʔa¹³ lie⁵⁵	ʔa¹³ lie⁵⁵	2062
+869	PBz	to exit		 出	*ǳɯ³	*ǳɯ³	156
+870	TS	to exit		 出	ʦʰɿ²¹	ʦʰɿ²¹	156
+871	FX	to exit		 出	ʦu³⁵	ʦu³⁵	156
+872	XR	to exit		 出	ʦu³³-³⁵	ʦu³³-³⁵	156
+873	XL	to exit		 出	ʦu³⁵	ʦu³⁵	156
+874	CB	to exit		 出	ǳɯ⁵⁵	ǳɯ⁵⁵	156
+950	PBz	to expose under sun		 曬	*nɑ²	*nɑ²	1011
+951	TS	to expose under sun		 曬	lã²¹ lã²⁴	lã²¹ lã²⁴	1011
+952	FX	to expose under sun		 曬	lan²¹ lan⁵³	lan²¹ lan⁵³	1011
+953	XR	to expose under sun		 曬	na³³ na³⁵	na³³ na³⁵	1011
+954	CB	to expose under sun		 曬	lo³⁵ ʰo¹³	lo³⁵ ʰo¹³	1011
+388	PBz	to fear		 怕	*gɤ¹ᴹ	*gɤ¹ᴹ	68
+389	TS	to fear		 怕	kɤ⁵¹	kɤ⁵¹	68
+390	FX	to fear		 怕	ke⁵³	ke⁵³	68
+391	XR	to fear		 怕	kɯə⁵⁴	kɯə⁵⁴	68
+392	CB	to fear		 怕	ge³³	ge³³	68
+69	PBz	to feed		 餵	*ɣɑ¹ᴸ	*ɣɑ¹ᴸ	13
+70	TS	to feed		 餵	a⁵¹	a⁵¹	13
+71	FX	to feed		 餵	a⁵³	a⁵³	13
+72	XR	to feed		 餵	a⁵⁴	a⁵⁴	13
+73	XL	to feed		 餵	ɣa⁵³	ɣa⁵³	13
+74	CB	to feed		 餵	ʔo¹³	ʔo¹³	13
+813	PBz	to feed		 飼養	*nuŋ¹ᴹ	*nuŋ¹ᴹ	146
+814	FX	to feed		 飼養	loŋ⁵³	loŋ⁵³	146
+815	XR	to feed		 飼養	nõ⁵⁵	nõ⁵⁵	146
+816	XR	to feed		 飼養	nõ⁵⁴	nõ⁵⁴	146
+817	XL	to feed		 飼養	luŋ⁵⁵	luŋ⁵⁵	146
+818	CB	to feed		 飼養	nẽ³³	nẽ³³	146
+819	CB	to feed		 飼養	lẽ³³	lẽ³³	146
+1907	PBz	to flip over		 翻過來	*ʔæ	*ʔæ	2063
+1908	FX	to flip over		 翻過來	a⁵⁵ zu⁵⁵	a⁵⁵ zu⁵⁵	2063
+1909	CB	to flip over		 翻過來	ʔa³³ zu¹³	ʔa³³ zu¹³	2063
+1910	CB	to flip over		 翻過來	ʔa³³ zu³⁵	ʔa³³ zu³⁵	2063
+1911	PBz	to flip over		 翻過來	*ɹu¹ᴸ	*ɹu¹ᴸ	2064
+1912	FX	to flip over		 翻過來	a⁵⁵ zu⁵⁵	a⁵⁵ zu⁵⁵	2064
+1913	CB	to flip over		 翻過來	ʔa³³ zu¹³	ʔa³³ zu¹³	2064
+1914	CB	to flip over		 翻過來	ʔa³³ zu³⁵	ʔa³³ zu³⁵	2064
+135	PBz	to float		 浮	*tʰɑ²	*tʰɑ²	24
+136	TS	to float		 浮	tʰa²¹	tʰa²¹	24
+137	FX	to float		 浮	tʰa²¹	tʰa²¹	24
+138	XR	to float		 浮	tʰa³³	tʰa³³	24
+139	CJ	to float		 浮	to³⁵ (Xu 2020)	to³⁵	24
+1231	PBz	to fly		 飛	*ʥi¹ᴹ	*ʥi¹ᴹ	1062
+1232	FX	to fly		 飛	ʨi⁵⁵ ʨe⁵³	ʨi⁵⁵ ʨe⁵³	1062
+1233	CB	to fly		 飛	m̩³³ ʥi³³	m̩³³ ʥi³³	1062
+1234	CJ	to fly		 飛	m̩²¹ ʥi²¹	m̩²¹ ʥi²¹	1062
+1915	PBz	to forget		 忘記	*si¹ᴹ	*si¹ᴹ	2065
+1916	TS	to forget		 忘記	sɿ⁵⁵ ma²¹	sɿ⁵⁵ ma²¹	2065
+1917	FX	to forget		 忘記	ɕi⁵⁵ ma⁵³	ɕi⁵⁵ ma⁵³	2065
+1918	XR	to forget		 忘記	ɕi³³ ma⁵⁵	ɕi³³ ma⁵⁵	2065
+1919	XL	to forget		 忘記	ɕi⁵⁵ ma²¹ lio⁵⁵	ɕi⁵⁵ ma²¹ lio⁵⁵	2065
+1920	CB	to forget		 忘記	si³³ mo³⁵	si³³ mo³⁵	2065
+1921	PBz	to forget		 忘記	*mɑ²	*mɑ²	2066
+1922	TS	to forget		 忘記	sɿ⁵⁵ ma²¹	sɿ⁵⁵ ma²¹	2066
+1923	FX	to forget		 忘記	ɕi⁵⁵ ma⁵³	ɕi⁵⁵ ma⁵³	2066
+1924	XR	to forget		 忘記	ɕi³³ ma⁵⁵	ɕi³³ ma⁵⁵	2066
+1925	XL	to forget		 忘記	ɕi⁵⁵ ma²¹ lio⁵⁵	ɕi⁵⁵ ma²¹ lio⁵⁵	2066
+1926	CB	to forget		 忘記	si³³ mo³⁵	si³³ mo³⁵	2066
+856	PBz	to fry		 油炸	*bɯ¹ᴹ	*bɯ¹ᴹ	153
+857	FX	to fry		 油炸	pu²¹	pu²¹	153
+858	CJ	to fry		 油炸	bu⁵³	bu⁵³	153
+579	PBz	to get		 得到	*ti@?	*ti@?	102
+580	TS	to get		 得到	tʰi²¹	tʰi²¹	102
+581	FX	to get		 得到	tʰi²¹	tʰi²¹	102
+582	XR	to get		 得到	tʰi³³	tʰi³³	102
+583	XL	to get		 得到	tʰi²¹ lio⁵⁵	tʰi²¹ lio⁵⁵	102
+584	CB	to get		 得到	ti⁵⁵	ti⁵⁵	102
+399	PBz	to give, to feed		 給、送、餵	*lɤ³	*lɤ³	70
+400	TS	to give, to feed		 給、送、餵	liɛ²⁴	liɛ²⁴	70
+401	FX	to give, to feed		 給、送、餵	le³⁵	le³⁵	70
+402	XR	to give, to feed		 給、送、餵	lie³³-³⁵	lie³³-³⁵	70
+403	XL	to give, to feed		 給、送、餵	lie³⁵	lie³⁵	70
+404	CB	to give, to feed		 給、送、餵	lie⁵⁵	lie⁵⁵	70
+63	PBz	to go pass		 過 v.	*ɣɑ³	*ɣɑ³	12
+64	TS	to go pass		 過 v.	a²⁴	a²⁴	12
+65	FX	to go pass		 過 v.	a³⁵	a³⁵	12
+66	XR	to go pass		 過 v.	ɣa³⁵	ɣa³⁵	12
+67	XL	to go pass		 過 v.	a²¹	a²¹	12
+68	CB	to go pass		 過 v.	wo⁵⁵	wo⁵⁵	12
+27	PBz	to grip		 握	*ǳɑ¹ᴹ	*ǳɑ¹ᴹ	6
+28	FX	to grip	拿 (to hold)	 握	ʦa⁵³ '拿 (to hold)'	ʦa⁵³	6
+29	XR	to grip	拿 (to hold)	 握	ʦa⁵⁴	ʦa⁵⁴	6
+30	XL	to grip	拿 (to hold)	 握	ʦa⁵³	ʦa⁵³	6
+31	CB	to grip	拿 (to hold)	 握	ǳo¹³	ǳo¹³	6
+703	PBz	to grow		 生長	*sɿ²	*sɿ²	124
+704	TS	to grow		 生長	sɿ²⁴ ⁵⁵	sɿ²⁴ ⁵⁵	124
+705	XR	to grow	长	 生長	sɿ³³ '长'	sɿ³³	124
+706	CB	to grow	生（小孩）	 生長	si³⁵ '生（小孩）'	si³⁵	124
+649	PBz	to grow fruit		 結（果子）	*ǳɿ²	*ǳɿ²	114
+650	TS	to grow fruit		 結（果子）	ʨi²⁴	ʨi²⁴	114
+651	FX	to grow fruit		 結（果子）	ʦi²¹	ʦi²¹	114
+652	XR	to grow fruit	成 (to become)	 結（果子）	ʦɿ³³ '成 (to become)'	ʦɿ³³	114
+653	CB	to grow fruit	成 (to become)	 結（果子）	ǳi³⁵	ǳi³⁵	114
+850	PBz	to grow up		 長大	*ʔuŋ⁴	*ʔuŋ⁴	152
+851	TS	to grow up		 長大	ɔ̃²⁴	ɔ̃²⁴	152
+852	FX	to grow up		 長大	oŋ³⁵	oŋ³⁵	152
+853	XR	to grow up		 長大	õ³⁵	õ³⁵	152
+854	XL	to grow up		 長大	uŋ³⁵	uŋ³⁵	152
+855	CB	to grow up		 長大	ʔɯ²¹	ʔɯ²¹	152
+1256	PBz	to hang		 掛	*kʰi@?	*kʰi@?	1066
+1257	FX	to hang		 掛	kʰi³⁵ kʰi⁵³	kʰi³⁵ kʰi⁵³	1066
+1258	XR	to hang		 掛	kʰɯ⁵⁴ kʰɯ⁵⁴	kʰɯ⁵⁴ kʰɯ⁵⁴	1066
+1259	XR	to hang		 掛	kʰɯ³³ kʰɯ³³	kʰɯ³³ kʰɯ³³	1066
+1260	XR	to hang		 掛	kʰɯ³⁵ kʰɯ⁵⁵	kʰɯ³⁵ kʰɯ⁵⁵	1066
+1261	XL	to hang		 掛	kʰɯ³⁵ kʰɯ³⁵	kʰɯ³⁵ kʰɯ³⁵	1066
+1262	CB	to hang		 掛	kʰi³⁵	kʰi³⁵	1066
+1222	PBz	to hear		 聽見	*ɕi¹ᴴ	*ɕi¹ᴴ	1060
+1223	FX	to hear		 聽見	ɕi⁵⁵	ɕi⁵⁵	1060
+1224	XR	to hear		 聽見	ɕi⁵⁴	ɕi⁵⁴	1060
+1225	CB	to hear		 聽見	ħo³³ ɕi³⁵	ħo³³ ɕi³⁵	1060
+1226	CB	to hear		 聽見	ħo³³ zi³³	ħo³³ zi³³	1060
+2285	PBz	to hold a crutch		 拄	*tʰu¹ᴴ	*tʰu¹ᴴ	?3
+2286	FX	to hold a crutch		 拄	tʰu⁵³	tʰu⁵³	?3
+2287	XR	to hold a crutch		 拄	tu³⁵	tu³⁵	?3
+2288	CJ	to hold a crutch		 拄	tho⁵⁵ (Xu 2020)	tho⁵⁵	?3
+2306	PBz	to infect		 傳染	*ǳɿ@?	*ǳɿ@?	?10
+2307	TS	to infect		 傳染	a⁵⁵ ʦi²¹ (2006N)	a⁵⁵ ʦi²¹	?10
+2308	CJ	to infect		 傳染	ǳi²¹ (2006S)	ǳi²¹	?10
+1927	PBz	to itch		 癢	*si¹ᴹ	*si¹ᴹ	2067
+1928	TS	to itch		 癢	sɿ⁵⁵ ŋa²¹	sɿ⁵⁵ ŋa²¹	2067
+1929	FX	to itch		 癢	si⁵³ ŋa²¹	si⁵³ ŋa²¹	2067
+1930	XR	to itch		 癢	ɕi³³ ŋã⁵⁵	ɕi³³ ŋã⁵⁵	2067
+1931	CB	to itch		 癢	si³³ wo³⁵	si³³ wo³⁵	2067
+1932	PBz	to itch		 癢	*[ŋ/ʔ]ɑ²	*ɑ²	2068
+1933	TS	to itch		 癢	sɿ⁵⁵ ŋa²¹	sɿ⁵⁵ ŋa²¹	2068
+1934	FX	to itch		 癢	si⁵³ŋa²¹	si⁵³ŋa²¹	2068
+1935	XR	to itch		 癢	ɕi³³ ŋã⁵⁵	ɕi³³ ŋã⁵⁵	2068
+1936	CB	to itch		 癢	si³³ wo³⁵	si³³ wo³⁵	2068
+329	PBz	to laugh		 笑	*ȵ[e/ɤ]¹ᴹ	*ȵ¹ᴹ	58
+330	TS	to laugh		 笑	ȵiɛ⁵¹	ȵiɛ⁵¹	58
+331	FX	to laugh		 笑	ȵie⁵³	ȵie⁵³	58
+332	XR	to laugh		 笑	ȵie⁵⁴	ȵie⁵⁴	58
+333	XL	to laugh		 笑	ȵe⁵³	ȵe⁵³	58
+334	CB	to laugh		 笑	ȵie³³	ȵie³³	58
+405	PBz	to lay (egg)		 下（蛋）	*lɤ¹ᴴ	*lɤ¹ᴴ	71
+406	FX	to lay (egg)	given birth (生下来了)	 下（蛋）	le⁵⁵ la⁵³ xu²¹ 'given birth (生下来了)'	le⁵⁵ la⁵³ xu²¹	71
+407	XR	to lay (egg)	given birth (生下来了)	 下（蛋）	lie³³	lie³³	71
+408	CB	to lay (egg)	given birth (生下来了)	 下（蛋）	lie⁵⁵	lie⁵⁵	71
+409	CJ	to lay (egg)	given birth (生下来了)	 下（蛋）	lie²¹	lie²¹	71
+410	CJ	to lay (egg)	given birth (生下来了)	 下（蛋）	lie⁵³	lie⁵³	71
+1937	PBz	to learn		 學	*ʔæ	*ʔæ	2069
+1938	TS	to learn		 學	a²⁴ ɣɨ⁵⁵	a²⁴ ɣɨ⁵⁵	2069
+1939	FX	to learn		 學	a³⁵ ei⁵³	a³⁵ ei⁵³	2069
+1940	XR	to learn		 學	a³³ ɣə³³	a³³ ɣə³³	2069
+1941	XR	to learn		 學	ɣa³⁵ ɣɯ³⁵	ɣa³⁵ ɣɯ³⁵	2069
+1942	XL	to learn		 學	a³⁵ ɣɯ⁵³	a³⁵ ɣɯ⁵³	2069
+1943	CB	to learn		 學	a¹³ ɣe⁵⁵	a¹³ ɣe⁵⁵	2069
+1944	PBz	to learn		 學	*ɣ[i/e/ɤ]¹ᴴ	*ɣ¹ᴴ	2070
+1945	TS	to learn		 學	a²⁴ ɣɨ⁵⁵	a²⁴ ɣɨ⁵⁵	2070
+1946	FX	to learn		 學	a³⁵ ei⁵³	a³⁵ ei⁵³	2070
+1947	XR	to learn		 學	a³³ ɣə³³	a³³ ɣə³³	2070
+1948	XR	to learn		 學	ɣa³⁵ ɣɯ³⁵	ɣa³⁵ ɣɯ³⁵	2070
+1949	XL	to learn		 學	a³⁵ ɣɯ⁵³	a³⁵ ɣɯ⁵³	2070
+1950	CB	to learn		 學	a¹³ ɣe⁵⁵	a¹³ ɣe⁵⁵	2070
+563	PBz	to lend		 借出	*ŋi¹ᴴ	*ŋi¹ᴴ	99
+564	FX	to lend		 借出	oŋ⁵³	oŋ⁵³	99
+565	XR	to lend		 借出	ɣõ⁵⁴	ɣõ⁵⁴	99
+566	CB	to lend		 借出	ŋɨ⁵⁵	ŋɨ⁵⁵	99
+734	PBz	to lend out		 借出	*lu⁴	*lu⁴	130
+735	FX	to lend out		 借出	lu³⁵	lu³⁵	130
+736	CJ	to lend out	借钱	 借出	gu²¹ lu²¹ lu²¹ '借钱'	gu²¹ lu²¹ lu²¹	130
+82	PBz	to lick		 舔	*lɑ⁴	*lɑ⁴	15
+83	TS	to lick		 舔	la²⁴	la²⁴	15
+84	FX	to lick		 舔	la³⁵	la³⁵	15
+85	XL	to lick		 舔	la³⁵	la³⁵	15
+86	CB	to lick		 舔	lio²¹	lio²¹	15
+87	CJ	to lick		 舔	lo²¹	lo²¹	15
+426	PBz	to lie down, to lower one's head		 低頭、躺	*pʰɤ²	*pʰɤ²	75
+427	FX	to lie down, to lower one's head		 低頭、躺	pʰe²¹	pʰe²¹	75
+428	CB	to lie down, to lower one's head		 低頭、躺	pʰe³⁵	pʰe³⁵	75
+417	PBz	to lie on one's belly		 趴著、孵 ༴ 'to lie down'	*pʰɤ²	*pʰɤ²	73
+418	TS	to lie on one's belly		 趴著、孵 ༴ 'to lie down'	pʰɤ²¹	pʰɤ²¹	73
+419	XR	to lie on one's belly		 趴著、孵 ༴ 'to lie down'	pʰɯe³³	pʰɯe³³	73
+420	CB	to lie on one's belly		 趴著、孵 ༴ 'to lie down'	pʰɨe³⁵	pʰɨe³⁵	73
+637	PBz	to light up		 點燃	*tʰie⁴	*tʰie⁴	112
+638	FX	to light up		 點燃	tʰi³⁵	tʰi³⁵	112
+639	XL	to light up		 點燃	tʰi³⁵	tʰi³⁵	112
+640	CB	to light up		 點燃	tʰi²¹	tʰi²¹	112
+641	CJ	to light up		 點燃	tʰe²¹	tʰe²¹	112
+1951	PBz	to love		 愛	*ʔæ	*ʔæ	2071
+1952	TS	to love		 愛	a²⁴ ʦʰɿ⁵⁵	a²⁴ ʦʰɿ⁵⁵	2071
+1953	FX	to love		 愛	a³⁵ ʦʰi⁵⁵	a³⁵ ʦʰi⁵⁵	2071
+1954	XR	to love		 愛	(x)a³³ ʦʰɿ³³	a³³ ʦʰɿ³³	2071
+1955	XR	to love		 愛	a³⁵ ʦʰɿ⁵⁴	a³⁵ ʦʰɿ⁵⁴	2071
+1956	CB	to love		 愛	a²¹ ʦʰi²¹	a²¹ ʦʰi²¹	2071
+1957	PBz	to love		 愛	*ʦʰɿ⁴	*ʦʰɿ⁴	2072
+1958	TS	to love		 愛	a²⁴ ʦʰɿ⁵⁵	a²⁴ ʦʰɿ⁵⁵	2072
+1959	FX	to love		 愛	a³⁵ ʦʰi⁵⁵	a³⁵ ʦʰi⁵⁵	2072
+1960	XR	to love		 愛	(x)a³³ ʦʰɿ³³	a³³ ʦʰɿ³³	2072
+1961	XR	to love		 愛	a³⁵ ʦʰɿ⁵⁴	a³⁵ ʦʰɿ⁵⁴	2072
+1962	CB	to love		 愛	a²¹ ʦʰi²¹	a²¹ ʦʰi²¹	2072
+50	PBz	to marry (receive)		 娶、取	*ɣɑ²	*ɣɑ²	10
+51	TS	to marry (receive)		 娶、取	a²¹	a²¹	10
+52	FX	to marry (receive)		 娶、取	a²¹	a²¹	10
+53	XR	to marry (receive)		 娶、取	ɣa³³	ɣa³³	10
+54	XR	to marry (receive)		 娶、取	ɣa⁵⁴	ɣa⁵⁴	10
+55	XL	to marry (receive)		 娶、取	ɣa²¹	ɣa²¹	10
+56	CB	to marry (receive)		 娶、取	a³⁵	a³⁵	10
+793	PBz	to measure		 量	*ʔu¹ᴹ	*ʔu¹ᴹ	142
+794	TS	to measure		 量	wu²¹	wu²¹	142
+795	FX	to measure		 量	u²¹	u²¹	142
+796	XR	to measure		 量	ɣu⁵⁴	ɣu⁵⁴	142
+797	XR	to measure		 量	wu⁵⁴	wu⁵⁴	142
+798	CB	to measure	量(布)	 量	wu³³ '量(布)'	wu³³	142
+799	CB	to measure	量(米)	 量	wu¹³ '量(米)'	wu¹³	142
+504	PBz	to need, to owe		 需要、欠	*di¹ᴸ	*di¹ᴸ	89
+505	FX	to need, to owe		 需要、欠	ti⁵³	ti⁵³	89
+506	XR	to need, to owe		 需要、欠	ti⁵⁴	ti⁵⁴	89
+507	XL	to need, to owe		 需要、欠	ti⁵³	ti⁵³	89
+508	CB	to need, to owe		 需要、欠	di³⁵	di³⁵	89
+509	CB	to need, to owe		 需要、欠	di¹³	di¹³	89
+2292	PBz	to offer (to god)		 敬	*tɯ¹ᴹ	*tɯ¹ᴹ	?5
+2293	FX	to offer (to god)	敬祖先	 敬	soŋ³⁵ mu⁵³ tʰu⁵³ '敬祖先'	soŋ³⁵ mu⁵³ tʰu⁵³	?5
+2294	CJ	to offer (to god)	敬祖先	 敬	tɯ⁴⁴ (2006S)	tɯ⁴⁴	?5
+838	PBz	to open		 打開	*tʰuŋ⁴	*tʰuŋ⁴	150
+839	TS	to open		 打開	tʰɔ̃²⁴	tʰɔ̃²⁴	150
+840	FX	to open		 打開	tʰoŋ³⁵	tʰoŋ³⁵	150
+841	XR	to open		 打開	tʰõ³⁵	tʰõ³⁵	150
+842	XL	to open		 打開	tʰuŋ³⁵	tʰuŋ³⁵	150
+843	CB	to open		 打開	tʰɯ²¹	tʰɯ²¹	150
+1997	PBz	to paste		 貼	*ʔæ	*ʔæ	2079
+1998	TS	to paste		 貼	a⁵⁵ la²¹	a⁵⁵ la²¹	2079
+1999	FX	to paste		 貼	an⁵⁵ lan⁵³	an⁵⁵ lan⁵³	2079
+2000	XR	to paste		 貼	a³³ na⁵⁴	a³³ na⁵⁴	2079
+2001	CB	to paste		 貼	ʔa³³ ȵo¹³	ʔa³³ ȵo¹³	2079
+2002	PBz	to paste		 貼	*ȵɑ¹ᴸ	*ȵɑ¹ᴸ	2080
+2003	TS	to paste		 貼	a⁵⁵ la²¹	a⁵⁵ la²¹	2080
+2004	FX	to paste		 貼	an⁵⁵ lan⁵³	an⁵⁵ lan⁵³	2080
+2005	XR	to paste		 貼	a³³ na⁵⁴	a³³ na⁵⁴	2080
+2006	CB	to paste		 貼	ʔa³³ ȵo¹³	ʔa³³ ȵo¹³	2080
+2289	PBz	to permeate		 滲入	*kʰɯx	*kʰɯx	?4
+2290	TS	to permeate	tɔ suck	 滲入	kʰu²¹ 'tɔ suck'?	kʰu²¹	?4
+2291	CJ	to permeate	tɔ suck	 滲入	kʰɯ⁴⁴ (2006S)	kʰɯ⁴⁴	?4
+1534	PBz	to pestle		 碓	*suŋ⁴	*suŋ⁴	1117
+1535	TS	to pestle		 碓	sɔ̃²⁴ ka²⁴	sɔ̃²⁴ ka²⁴	1117
+1536	XR	to pestle		 碓	sõ³⁵ ka⁵⁵	sõ³⁵ ka⁵⁵	1117
+1537	CB	to pestle		 碓	sa²¹ pa²¹	sa²¹ pa²¹	1117
+454	PBz	to pick (flower)		 摘	*tʰɤ³	*tʰɤ³	80
+455	TS	to pick (flower)		 摘	tʰiɛ²⁴	tʰiɛ²⁴	80
+456	XL	to pick (flower)		 摘	tʰe³⁵	tʰe³⁵	80
+457	CB	to pick (flower)		 摘	tʰie⁵⁵	tʰie⁵⁵	80
+458	CJ	to pick (flower)		 摘	tʰie⁵³	tʰie⁵³	80
+776	PBz	to pick up		 撿	*tʰu¹ᴴ	*tʰu¹ᴴ	138
+777	FX	to pick up		 撿	tʰu⁵³	tʰu⁵³	138
+778	XR	to pick up		 撿	tʰu⁵⁵ tʰu³³	tʰu⁵⁵ tʰu³³	138
+779	XL	to pick up		 撿	tʰu⁵⁵	tʰu⁵⁵	138
+780	CB	to pick up		 撿	tʰu⁵⁵	tʰu⁵⁵	138
+442	PBz	to plant, to stick in		 插、栽	*sɤ¹ᴴ	*sɤ¹ᴴ	78
+443	TS	to plant, to stick in	tɔ sɔw	 插、栽	sɤ⁵⁵ 'tɔ sɔw'	sɤ⁵⁵	78
+444	FX	to plant, to stick in	tɔ sɔw	 插、栽	se⁵³	se⁵³	78
+445	XR	to plant, to stick in	tɔ sɔw	 插、栽	sə⁵⁴	sə⁵⁴	78
+446	XL	to plant, to stick in	tɔ sɔw	 插、栽	sə⁵⁵	sə⁵⁵	78
+447	CB	to plant, to stick in	tɔ sɔw	 插、栽	se⁵⁵	se⁵⁵	78
+12	PBz	to pound		 舂	*dɑ⁴	*dɑ⁴	3
+13	TS	to pound	to fall	 舂	ta²⁴ 'to fall'	ta²⁴	3
+14	CB	to pound	to fall	 舂	do²¹	do²¹	3
+15	CJ	to pound	踩 (to step on)	 舂	do²¹ '踩 (to step on)'	do²¹	3
+713	PBz	to pound		 舂	*bu³	*bu³	126
+714	TS	to pound		 舂	pu²⁴	pu²⁴	126
+715	XR	to pound	磕 (to knock)	 舂	pu³⁵ '磕 (to knock)'	pu³⁵	126
+716	CB	to pound	打	 舂	bu⁵⁵ '打'	bu⁵⁵	126
+2295	PBz	to press		 壓	*lɑ¹ᴹ	*lɑ¹ᴹ	?6
+2296	FX	to press		 壓	la⁵³	la⁵³	?6
+2297	CJ	to press		 壓	no⁴⁴ (2006S)	no⁴⁴	?6
+573	PBz	to puke		 嘔吐	*pʰi³	*pʰi³	101
+574	TS	to puke		 嘔吐	pʰi²⁴	pʰi²⁴	101
+575	FX	to puke		 嘔吐	pʰi³⁵	pʰi³⁵	101
+576	XR	to puke		 嘔吐	pʰi³³	pʰi³³	101
+577	XL	to puke		 嘔吐	pʰi³⁵	pʰi³⁵	101
+578	CB	to puke		 嘔吐	pʰi⁵⁵	pʰi⁵⁵	101
+160	PBz	to pull		 拔	*ʦʰæ²	*ʦʰæ²	28
+161	FX	to pull		 拔	ʨʰi⁵³ ʨʰa³⁵	ʨʰi⁵³ ʨʰa³⁵	28
+162	CB	to pull		 拔	ʦʰa³⁵	ʦʰa³⁵	28
+163	CJ	to pull		 拔	ʦʰa³⁵	ʦʰa³⁵	28
+470	PBz	to rain		 下（雨）	*zɤ²	*zɤ²	83
+471	TS	to rain		 下（雨）	ʦɤ²¹	ʦɤ²¹	83
+472	FX	to rain		 下（雨）	ʦe²¹	ʦe²¹	83
+473	XR	to rain		 下（雨）	ʦə³³	ʦə³³	83
+474	XL	to rain		 下（雨）	ǳə²¹	ǳə²¹	83
+475	CB	to rain		 下（雨）	ze³⁵	ze³⁵	83
+476	CJ	to rain		 下（雨）	ze³⁵	ze³⁵	83
+213	PBz	to release		 放	*pʰɑC¹ᴴ	*pʰɑC¹ᴴ	38
+214	TS	to release		 放	pʰɔ⁵⁵	pʰɔ⁵⁵	38
+215	FX	to release		 放	pʰo⁵³	pʰo⁵³	38
+216	XR	to release		 放	pʰo⁵⁴	pʰo⁵⁴	38
+217	CB	to release		 放	pʰa⁵⁵	pʰa⁵⁵	38
+605	PBz	to rest		 休息	*xi[¹ᴹ/¹ᴴ]	*xi	107
+606	TS	to rest		 休息	xɨ⁵¹	xɨ⁵¹	107
+607	FX	to rest		 休息	xei⁵³	xei⁵³	107
+608	XR	to rest		 休息	xɯ⁵⁴	xɯ⁵⁴	107
+609	XR	to rest		 休息	xəu⁵⁴	xəu⁵⁴	107
+610	XL	to rest		 休息	xɯ⁵⁵ bo²¹	xɯ⁵⁵ bo²¹	107
+611	CB	to rest		 休息	ʕi³³	ʕi³³	107
+164	PBz	to rise (water)		 漲	*dɑC²	*dɑC²	29
+165	TS	to rise (water)	tɔ flɔw	 漲	tuɔ²¹ 'tɔ flɔw'	tuɔ²¹	29
+166	CB	to rise (water)	tɔ flɔw	 漲	da³⁵	da³⁵	29
+167	CB	to rise (water)	tɔ flɔw	 漲	da¹³	da¹³	29
+168	CJ	to rise (water)	tɔ flɔw	 漲	da²¹	da²¹	29
+169	CJ	to rise (water)	tɔ flɔw	 漲	da³⁵	da³⁵	29
+1963	PBz	to roast		 烤	*tu¹ᴹ	*tu¹ᴹ	2073
+1964	FX	to roast		 烤	tʰu⁵³ u²¹	tʰu⁵³ u²¹	2073
+1965	XR	to roast		 烤	tʰu³³ u⁵⁵	tʰu³³ u⁵⁵	2073
+1966	XR	to roast		 烤	mi⁵⁴ tʰu³³ u³³	mi⁵⁴ tʰu³³ u³³	2073
+1967	XL	to roast		 烤	tʰu⁵³ wu²¹	tʰu⁵³ wu²¹	2073
+1968	CB	to roast		 烤	tu⁵⁵ wu¹³	tu⁵⁵ wu¹³	2073
+1969	PBz	to roast		 烤	*ʔu²	*ʔu²	2074
+1970	FX	to roast		 烤	tʰu⁵³ u²¹	tʰu⁵³ u²¹	2074
+1971	XR	to roast		 烤	tʰu³³ u³³	tʰu³³ u³³	2074
+1972	XR	to roast		 烤	mi⁵⁴ tʰu³³ u³³	mi⁵⁴ tʰu³³ u³³	2074
+1973	XL	to roast		 烤	tʰu⁵³ wu²¹	tʰu⁵³ wu²¹	2074
+1974	CB	to roast		 烤	tu⁵⁵ wu¹³	tu⁵⁵ wu¹³	2074
+1975	PBz	to roll		 滾	*ku@?	*ku@?	2075
+1976	TS	to roll		 滾	kʰu⁵⁵ luɔ⁵⁵	kʰu⁵⁵ luɔ⁵⁵	2075
+1977	FX	to roll		 滾	kʰu⁵³ lu⁵³	kʰu⁵³ lu⁵³	2075
+1978	CB	to roll	to fall	 滾	ku¹³ lu⁵⁵ 'to fall'	ku¹³ lu⁵⁵	2075
+1979	CJ	to roll	to fall	 滾	ku³⁵ lu⁴⁴ (2006S)	ku³⁵ lu⁴⁴	2075
+1980	PBz	to roll		 滾	*lɑC¹ᴹ	*lɑC¹ᴹ	2076
+1981	TS	to roll		 滾	kʰu⁵⁵ luɔ⁵⁵	kʰu⁵⁵ luɔ⁵⁵	2076
+1982	FX	to roll		 滾	kʰu⁵³ lu⁵³	kʰu⁵³ lu⁵³	2076
+1983	CB	to roll	to fall	 滾	ku¹³ lu⁵⁵ 'to fall'	ku¹³ lu⁵⁵	2076
+1984	CJ	to roll	to fall	 滾	ku³⁵ lu⁴⁴ (2006S)	ku³⁵ lu⁴⁴	2076
+266	PBz	to scrape		 刮	*pʰe¹ᴴ	*pʰe¹ᴴ	48
+267	TS	to scrape	tɔ pluck	 刮	pʰiɛ⁵¹ 'tɔ pluck'	pʰiɛ⁵¹	48
+268	XR	to scrape	tɔ pluck	 刮	pʰiɛ⁵⁴	pʰiɛ⁵⁴	48
+269	XR	to scrape	tɔ pluck	 刮	pʰie⁵⁴	pʰie⁵⁴	48
+270	XL	to scrape	tɔ pluck	 刮	pʰie⁵³	pʰie⁵³	48
+271	CB	to scrape	tɔ pluck	 刮	pʰie⁵⁵	pʰie⁵⁵	48
+612	PBz	to see		 看見	*ʔi²	*ʔi²	108
+613	TS	to see		 看見	ji²¹	ji²¹	108
+614	FX	to see		 看見	i²¹	i²¹	108
+615	XR	to see		 看見	ʑi³³	ʑi³³	108
+616	XL	to see		 看見	ji²¹ lio⁵⁵	ji²¹ lio⁵⁵	108
+617	CB	to see		 看見	bo³⁵ ji³⁵	bo³⁵ ji³⁵	108
+699	PBz	to send away		 送（走）	*sɿ⁴	*sɿ⁴	123
+700	TS	to send away		 送（走）	sɿ²¹ ⁵	sɿ²¹ ⁵	123
+701	XR	to send away		 送（走）	sɿ³⁵	sɿ³⁵	123
+702	CB	to send away		 送（走）	si²¹	si²¹	123
+88	PBz	to sew		 縫	*lɑ²	*lɑ²	16
+89	TS	to sew		 縫	la²¹	la²¹	16
+90	FX	to sew		 縫	la²¹	la²¹	16
+91	XR	to sew		 縫	la³³	la³³	16
+92	XL	to sew		 縫	la²¹	la²¹	16
+93	CB	to sew		 縫	lo³⁵	lo³⁵	16
+844	PBz	to sit		 坐	*ʔuŋ²	*ʔuŋ²	151
+845	TS	to sit		 坐	ɔ̃²¹	ɔ̃²¹	151
+846	FX	to sit		 坐	oŋ²¹	oŋ²¹	151
+847	XR	to sit	住 (to live at)	 坐	ɣõ³⁵ '住 (to live at)'	ɣõ³⁵	151
+848	XL	to sit	住 (to live at)	 坐	uŋ²¹	uŋ²¹	151
+849	CB	to sit	住 (to live at)	 坐	ʔɯ³⁵	ʔɯ³⁵	151
+666	PBz	to snow		 下（雪）	*ǳɿ³	*ǳɿ³	117
+667	TS	to snow		 下（雪）	su²⁴ su⁵⁵ ʦɿ²⁴	su²⁴ su⁵⁵ ʦɿ²⁴	117
+668	FX	to snow		 下（雪）	ʦi³⁵	ʦi³⁵	117
+669	XR	to snow		 下（雪）	ʦɿ³⁵	ʦɿ³⁵	117
+670	CB	to snow		 下（雪）	ǳi⁵⁵	ǳi⁵⁵	117
+859	PBz	to soak		 浸泡	*bɯ¹ᴸ	*bɯ¹ᴸ	154
+860	FX	to soak		 浸泡	pu⁵³	pu⁵³	154
+861	XR	to soak		 浸泡	pu⁵⁴ po³³-³¹	pu⁵⁴ po³³-³¹	154
+862	CB	to soak		 浸泡	bɯ¹³	bɯ¹³	154
+124	PBz	to split		 劈	*sɑ¹ᴴ	*sɑ¹ᴴ	22
+125	TS	to split		 劈	sa⁵⁵	sa⁵⁵	22
+126	FX	to split		 劈	sa⁵⁵	sa⁵⁵	22
+127	XR	to split		 劈	sa⁵⁴	sa⁵⁴	22
+128	XL	to split		 劈	sa²¹	sa²¹	22
+129	CB	to split		 劈	so⁵⁵	so⁵⁵	22
+551	PBz	to spread out		 鋪開	*mi²	*mi²	97
+552	FX	to spread out		 鋪開	mi²¹	mi²¹	97
+553	XR	to spread out		 鋪開	mi³³	mi³³	97
+554	CB	to spread out		 鋪開	mi³⁵	mi³⁵	97
+1985	PBz	to squat		 蹲	*gu¹ᴹ	*gu¹ᴹ	2077
+1986	TS	to squat		 蹲	ku⁵⁵ tu⁵¹	ku⁵⁵ tu⁵¹	2077
+1987	FX	to squat		 蹲	ku⁵³ tu⁵³	ku⁵³ tu⁵³	2077
+1988	XR	to squat		 蹲	kʰu⁵⁴ tu⁵⁵	kʰu⁵⁴ tu⁵⁵	2077
+1989	XL	to squat		 蹲	ku⁵⁵ tu²¹	ku⁵⁵ tu²¹	2077
+1990	CB	to squat		 蹲	ku³³ du¹³	ku³³ du¹³	2077
+1991	PBz	to squat		 蹲	*du²	*du²	2078
+1992	TS	to squat		 蹲	ku⁵⁵ tu⁵¹	ku⁵⁵ tu⁵¹	2078
+1993	FX	to squat		 蹲	ku⁵³ tu⁵³	ku⁵³ tu⁵³	2078
+1994	XR	to squat		 蹲	kʰu⁵⁴ tu⁵⁵	kʰu⁵⁴ tu⁵⁵	2078
+1995	XL	to squat		 蹲	ku⁵⁵ tu²¹	ku⁵⁵ tu²¹	2078
+1996	CB	to squat		 蹲	ku³³ du¹³	ku³³ du¹³	2078
+717	PBz	to stand		 站	*ʥu¹ᴹ	*ʥu¹ᴹ	127
+718	TS	to stand		 站	ʦu⁵⁵ ʦu⁵¹	ʦu⁵⁵ ʦu⁵¹	127
+719	TS	to stand		 站	ʦu⁵⁵	ʦu⁵⁵	127
+720	XR	to stand		 站	ʦu⁵⁴ ʦu³³	ʦu⁵⁴ ʦu³³	127
+721	XL	to stand		 站	ʦu⁵⁵	ʦu⁵⁵	127
+722	CB	to stand		 站	du³³	du³³	127
+348	PBz	to steal		 偷	*ɣɤ³	*ɣɤ³	61
+349	FX	to steal		 偷	e³⁵	e³⁵	61
+350	XR	to steal		 偷	ɣə³⁵	ɣə³⁵	61
+351	XR	to steal		 偷	ɣɯ³⁵	ɣɯ³⁵	61
+352	XL	to steal		 偷	ɣəu³⁵	ɣəu³⁵	61
+353	CJ	to steal		 偷	ɣɯe⁵³	ɣɯe⁵³	61
+354	PBz	to steal		 偷	*xɤ@?	*xɤ@?	62
+355	TS	to steal		 偷	xɤ²¹	xɤ²¹	62
+356	CB	to steal		 偷	ʕe⁵⁵	ʕe⁵⁵	62
+832	PBz	to steam		 蒸	*tuŋ¹ᴹ	*tuŋ¹ᴹ	149
+833	TS	to steam		 蒸	tʰɔ̃⁵¹	tʰɔ̃⁵¹	149
+834	FX	to steam		 蒸	tʰoŋ⁵³	tʰoŋ⁵³	149
+835	XR	to steam		 蒸	tʰõ⁵⁴	tʰõ⁵⁴	149
+836	XL	to steam		 蒸	tʰuŋ⁵³	tʰuŋ⁵³	149
+837	CB	to steam		 蒸	tɯ³³	tɯ³³	149
+32	PBz	to step on		 踩	*ʥɑ⁴	*ʥɑ⁴	7
+33	TS	to step on		 踩	ʦa²⁴	ʦa²⁴	7
+34	FX	to step on		 踩	ʦa³⁵	ʦa³⁵	7
+35	XL	to step on		 踩	ʦa³⁵	ʦa³⁵	7
+36	CB	to step on		 踩	do²¹	do²¹	7
+2007	PBz	to stink		 臭	*nɑ¹ᴹ	*nɑ¹ᴹ	2081
+2008	TS	to stink		 臭	lã²¹	lã²¹	2081
+2009	FX	to stink		 臭	lan²¹	lan²¹	2081
+2010	XR	to stink		 臭	nã³³	nã³³	2081
+2011	XL	to stink		 臭	lã²¹	lã²¹	2081
+2012	CB	to stink		 臭	la³³ ŋi³⁵	la³³ ŋi³⁵	2081
+2013	PBz	to stink		 臭	*ŋi²	*ŋi²	2082
+2014	TS	to stink		 臭	lã²¹	lã²¹	2082
+2015	FX	to stink		 臭	lan²¹	lan²¹	2082
+2016	XR	to stink		 臭	nã³³	nã³³	2082
+2017	XL	to stink		 臭	lã²¹	lã²¹	2082
+2018	CB	to stink		 臭	la³³ ŋi³⁵	la³³ ŋi³⁵	2082
+1488	PBz	to store up		 收藏	*su¹ᴸ	*su¹ᴸ	1108
+1489	TS	to store up	tɔ stɔre up	 收藏	su⁵⁵ su⁵⁵ 'tɔ stɔre up'	su⁵⁵ su⁵⁵	1108
+1490	FX	to store up	tɔ stɔre up	 收藏	su⁵³ su⁵³	su⁵³ su⁵³	1108
+1491	CB	to store up	tɔ stɔre up	 收藏	su¹³	su¹³	1108
+1492	CJ	to store up	躲开 (to sheer)	 收藏	su²¹ lu³⁵ '躲开 (to sheer)'	su²¹ lu³⁵	1108
+284	PBz	to swallow		 吞	*ɹe⁴	*ɹe⁴	51
+285	TS	to swallow		 吞	zɤ²⁴	zɤ²⁴	51
+286	FX	to swallow		 吞	ze³⁵	ze³⁵	51
+287	XR	to swallow		 吞	zə³³	zə³³	51
+288	XL	to swallow		 吞	ze³⁵	ze³⁵	51
+289	CB	to swallow		 吞	ze³⁵	ze³⁵	51
+290	CB	to swallow		 吞	ze¹³	ze¹³	51
+291	CJ	to swallow		 吞	ze¹³	ze¹³	51
+292	CJ	to swallow		 吞	ze²¹	ze²¹	51
+527	PBz	to sweep		 掃	*ɣi²	*ɣi²	93
+528	TS	to sweep		 掃	ɣɨ²¹	ɣɨ²¹	93
+529	FX	to sweep		 掃	ei²¹	ei²¹	93
+530	XR	to sweep		 掃	ɣɯ³³	ɣɯ³³	93
+531	XR	to sweep		 掃	ə³³	ə³³	93
+532	XL	to sweep		 掃	ɣɯ²¹	ɣɯ²¹	93
+533	CB	to sweep		 掃	ʔɨ⁵⁵	ʔɨ⁵⁵	93
+534	CJ	to sweep		 掃	ɣɯ³⁵	ɣɯ³⁵	93
+253	PBz	to swing		 甩	*ɕe²	*ɕe²	45
+254	FX	to swing	摇	 甩	ɕe²¹ '摇'	ɕe²¹	45
+255	CB	to swing	摇	 甩	ɕie³⁵	ɕie³⁵	45
+364	PBz	to think		 想	*dɤ³	*dɤ³	64
+365	TS	to think		 想	tiɛ²⁴	tiɛ²⁴	64
+366	FX	to think		 想	tie³⁵	tie³⁵	64
+367	XR	to think		 想	tie³⁵	tie³⁵	64
+368	XL	to think		 想	tie³⁵	tie³⁵	64
+369	CB	to think		 想	de⁵⁵	de⁵⁵	64
+370	CJ	to think		 想	die⁵³	die⁵³	64
+2019	PBz	to throw		 扔	*[ɕ/s]i²	*i²	2083
+2020	XR	to throw		 扔	ɕi³³ ɕɛ⁵⁴	ɕi³³ ɕɛ⁵⁴	2083
+2021	CB	to throw		 扔	ɕi³⁵ ȵio⁵⁵	ɕi³⁵ ȵio⁵⁵	2083
+2022	PBz	to throw		 扔	*ȵɑ³	*ȵɑ³	2084
+2023	TS	to throw		 扔	la²⁴	la²⁴	2084
+2024	FX	to throw		 扔	la³⁵	la³⁵	2084
+2025	XR	to throw		 扔	na³⁵	na³⁵	2084
+2026	CB	to throw		 扔	ɕi³⁵ ȵio⁵⁵	ɕi³⁵ ȵio⁵⁵	2084
+1462	PBz	to tie together		 捆	*pu@?	*pu@?	1103
+1463	TS	to tie together		 捆	pʰu²¹	pʰu²¹	1103
+1464	FX	to tie together		 捆	pʰu²¹	pʰu²¹	1103
+1465	XL	to tie together		 捆	tʰi³⁵	tʰi³⁵	1103
+1466	CB	to tie together	捆	 捆	pu⁵⁵ ʨi¹³ '捆'	pu⁵⁵ ʨi¹³	1103
+2027	PBz	to tie up		 綁	*ʔæ	*ʔæ	2085
+2028	TS	to tie up		 綁	tʰi²⁴	tʰi²⁴	2085
+2029	FX	to tie up		 綁	tʰi³⁵	tʰi³⁵	2085
+2030	XR	to tie up		 綁	ɣa³³ tʰi³³-³¹	ɣa³³ tʰi³³-³¹	2085
+2031	XL	to tie up		 綁	tʰi³⁵	tʰi³⁵	2085
+2032	CB	to tie up		 綁	ʔa¹³ tʰi⁵⁵	ʔa¹³ tʰi⁵⁵	2085
+2033	CJ	to tie up		 綁	ʔa²¹ tʰe³¹	ʔa²¹ tʰe³¹	2085
+2034	PBz	to tie up		 綁	*tʰie³	*tʰie³	2086
+2035	TS	to tie up		 綁	tʰi²⁴	tʰi²⁴	2086
+2036	FX	to tie up		 綁	tʰi³⁵	tʰi³⁵	2086
+2037	XR	to tie up		 綁	ɣa³³ tʰi³³-³¹	ɣa³³ tʰi³³-³¹	2086
+2038	XL	to tie up		 綁	tʰi³⁵	tʰi³⁵	2086
+2039	CB	to tie up		 綁	ʔa¹³ tʰi⁵⁵	ʔa¹³ tʰi⁵⁵	2086
+2040	CJ	to tie up		 綁	ʔa²¹ tʰe³¹	ʔa²¹ tʰe³¹	2086
+1439	PBz	to touch		 摸	*bu¹ᴸ	*bu¹ᴸ	1099
+1440	TS	to touch		 摸	pu⁵⁵ pu²¹	pu⁵⁵ pu²¹	1099
+1441	XR	to touch		 摸	pu³³ pu⁵⁵	pu³³ pu⁵⁵	1099
+1442	XR	to touch		 摸	pu³⁵ pu⁵⁵	pu³⁵ pu⁵⁵	1099
+1443	XL	to touch		 摸	ɕi⁵⁵ bie⁵⁵	ɕi⁵⁵ bie⁵⁵	1099
+1444	CB	to touch		 摸	su⁵⁵ bu¹³	su⁵⁵ bu¹³	1099
+1378	PBz	to understand, to know		 知道	*s[iC/e]@?	*s@?	1088
+1379	TS	to understand, to know		 知道	xa⁵¹ zɿ²¹	xa⁵¹ zɿ²¹	1088
+1380	TS	to understand, to know		 知道	xau⁵¹ zɿ²¹	xau⁵¹ zɿ²¹	1088
+1381	FX	to understand, to know		 知道	xa⁵³ zi²¹	xa⁵³ zi²¹	1088
+1382	XR	to understand, to know		 知道	xa³³ la³³ ɕi³³	xa³³ la³³ ɕi³³	1088
+1383	XL	to understand, to know		 知道	xau⁵⁵ zɿ²¹	xau⁵⁵ zɿ²¹	1088
+1384	CB	to understand, to know		 知道	se⁵⁵ ʨʰie⁵⁵	se⁵⁵ ʨʰie⁵⁵	1088
+1385	CB	to understand, to know		 知道	ɕie⁵⁵ ʨʰie⁵⁵	ɕie⁵⁵ ʨʰie⁵⁵	1088
+1386	CJ	to understand, to know		 知道	ɕie⁵³ ʦʰe²¹	ɕie⁵³ ʦʰe²¹	1088
+600	PBz	to wait		 等待	*tʰi¹ᴹ	*tʰi¹ᴹ	106
+601	FX	to wait		 等待	tʰi⁵⁵	tʰi⁵⁵	106
+602	XR	to wait		 等待	tʰi⁵⁴	tʰi⁵⁴	106
+603	XL	to wait		 等待	tʰi²¹ bo²¹	tʰi²¹ bo²¹	106
+604	CB	to wait		 等待	tʰi³³	tʰi³³	106
+520	PBz	to walk		 走	*ɣi⁴	*ɣi⁴	92
+521	TS	to walk		 走	ɣɨ²⁴	ɣɨ²⁴	92
+522	FX	to walk		 走	ei³⁵	ei³⁵	92
+523	XR	to walk		 走	ɣə³³-³⁵	ɣə³³-³⁵	92
+524	XL	to walk		 走	ɣɯ³⁵	ɣɯ³⁵	92
+525	CB	to walk		 走	ɣi³⁵	ɣi³⁵	92
+526	CB	to walk		 走	ɣi²¹	ɣi²¹	92
+146	PBz	to wash		 洗	*zɑ²/@?	*zɑ²/@?	26
+147	TS	to wash		 洗	ʦa²⁴	ʦa²⁴	26
+148	FX	to wash		 洗	ʦa³⁵	ʦa³⁵	26
+149	XR	to wash		 洗	ʦa³³	ʦa³³	26
+150	XL	to wash		 洗	ʦa³⁵	ʦa³⁵	26
+151	CB	to wash		 洗	ʦʰe³³ zo¹³	ʦʰe³³ zo¹³	26
+152	CJ	to wash		 洗	zo³⁵ (sʰower)	zo³⁵	26
+207	PBz	to wash		 淘洗	*[ŋ/ʔ]ɑC¹ᴴ	*ɑC¹ᴴ	37
+208	TS	to wash		 淘洗	wɔ⁵⁵	wɔ⁵⁵	37
+209	FX	to wash		 淘洗	o⁵³	o⁵³	37
+210	XR	to wash		 淘洗	ɣo⁵⁴	ɣo⁵⁴	37
+211	XL	to wash		 淘洗	wo⁵⁵	wo⁵⁵	37
+212	CB	to wash		 淘洗	ŋa⁵⁵	ŋa⁵⁵	37
+766	PBz	to water (a plant)		 澆	*tu⁴	*tu⁴	136
+767	FX	to water (a plant)		 澆	tʰu³⁵	tʰu³⁵	136
+768	XR	to water (a plant)		 澆	tʰu³³	tʰu³³	136
+769	CJ	to water (a plant)		 澆	to³⁵ (Xu 2020)	to³⁵	136
+21	PBz	to wear		 穿	*dɑ⁴	*dɑ⁴	5
+22	TS	to wear		 穿	ta²⁴	ta²⁴	5
+23	FX	to wear		 穿	ta³⁵	ta³⁵	5
+24	XR	to wear		 穿	ta³⁵	ta³⁵	5
+25	XL	to wear		 穿	ta³⁵	ta³⁵	5
+26	CB	to wear		 穿	do²¹	do²¹	5
+983	PBz	to weave		 織	*tɑ¹ᴹ	*tɑ¹ᴹ	1018
+984	TS	to weave		 織	tʰa⁵¹	tʰa⁵¹	1018
+985	FX	to weave		 織	tʰa⁵³	tʰa⁵³	1018
+986	XR	to weave		 織	tʰa⁵⁴	tʰa⁵⁴	1018
+987	CB	to weave		 織	to³³ ʨi³³	to³³ ʨi³³	1018
+2280	PBz	to wipe		 擦	*ʔe³	*ʔe³	?2
+2281	TS	to wipe		 擦	jɛ²⁴	jɛ²⁴	?2
+2282	FX	to wipe		 擦	ie³⁵	ie³⁵	?2
+2283	XL	to wipe		 擦	je³⁵	je³⁵	?2
+2284	CJ	to wipe		 擦	je⁵¹ (2006S)	je⁵¹	?2
+421	PBz	to wrap		 包	*pʰɤ¹ᴴ	*pʰɤ¹ᴴ	74
+422	TS	to wrap		 包	pʰɤ⁵⁵	pʰɤ⁵⁵	74
+423	FX	to wrap		 包	pʰe⁵³	pʰe⁵³	74
+424	XR	to wrap		 包	a⁵⁴ pʰɯe³³-³¹	a⁵⁴ pʰɯe³³-³¹	74
+425	CB	to wrap		 包	pʰe⁵⁵	pʰe⁵⁵	74
+57	PBz	to write		 寫	*ɣɑ³	*ɣɑ³	11
+58	TS	to write		 寫	a²⁴	a²⁴	11
+59	FX	to write		 寫	a³⁵	a³⁵	11
+60	XR	to write		 寫	ɣa³⁵	ɣa³⁵	11
+61	XL	to write		 寫	ɣa³⁵	ɣa³⁵	11
+62	CB	to write		 寫	wo⁵⁵	wo⁵⁵	11
+2041	PBz	tongue		 舌頭	*ʑi⁴	*ʑi⁴	2087
+2042	TS	tongue		 舌頭	ji²⁴ la⁵⁵	ji²⁴ la⁵⁵	2087
+2043	FX	tongue		 舌頭	i³⁵ la⁵³	i³⁵ la⁵³	2087
+2044	XR	tongue		 舌頭	ʑi³³ la⁵⁴	ʑi³³ la⁵⁴	2087
+2045	XL	tongue		 舌頭	ji³⁵ la³⁵	ji³⁵ la³⁵	2087
+2046	CB	tongue		 舌頭	ǳɿ²¹ la²¹	ǳɿ²¹ la²¹	2087
+2047	CJ	tongue		 舌頭	ǳɿ²¹ la²¹	ǳɿ²¹ la²¹	2087
+2048	PBz	tongue		 舌頭	*læ⁴	*læ⁴	2088
+2049	TS	tongue		 舌頭	ji²⁴ la⁵⁵	ji²⁴ la⁵⁵	2088
+2050	FX	tongue		 舌頭	i³⁵ la⁵⁴	i³⁵ la⁵⁴	2088
+2051	XR	tongue		 舌頭	ʑi³³ la⁵⁵	ʑi³³ la⁵⁵	2088
+2052	XL	tongue		 舌頭	ji³⁵ la³⁵	ji³⁵ la³⁵	2088
+2053	CB	tongue		 舌頭	ǳɿ²¹ la²¹	ǳɿ²¹ la²¹	2088
+2054	CJ	tongue		 舌頭	ǳɿ²¹ la²¹	ǳɿ²¹ la²¹	2088
+1412	PBz	tooth		 牙	*sɿ¹ᴹ	*sɿ¹ᴹ	1094
+1413	TS	tooth		 牙	sɿ⁵⁵ sɿ⁵⁵	sɿ⁵⁵ sɿ⁵⁵	1094
+1414	FX	tooth		 牙	si⁵⁵ si⁵⁵	si⁵⁵ si⁵⁵	1094
+1415	XR	tooth		 牙	sɿ⁵⁴ sɿ³³	sɿ⁵⁴ sɿ³³	1094
+1416	XL	tooth		 牙	sɿ⁵⁵ sɿ⁵⁵	sɿ⁵⁵ sɿ⁵⁵	1094
+1417	CB	tooth		 牙	sɿ⁵⁵ ta³⁵	sɿ⁵⁵ ta³⁵	1094
+1418	CJ	tooth		 牙	sɿ⁵⁵ ta¹³	sɿ⁵⁵ ta¹³	1094
+1165	PBz	two		 二	bu⁴	bu⁴	1050
+1166	FX	two		 二	ȵie⁵³ pu⁵³	ȵie⁵³ pu⁵³	1050
+1167	XR	two		 二	ȵe⁵⁴ pu³³	ȵe⁵⁴ pu³³	1050
+1168	XL	two		 二	ȵe⁵⁵	ȵe⁵⁵	1050
+1169	CB	two		 二	lie⁵⁵	lie⁵⁵	1050
+1270	PBz	two (days) later		 後天	*mi³	*mi³	1068
+1271	TS	two (days) later		 後天	mi²⁴ ȵiɛ⁵¹	mi²⁴ ȵiɛ⁵¹	1068
+1272	XR	two (days) later		 後天	mi³³ ȵi³³-⁵⁵	mi³³ ȵi³³-⁵⁵	1068
+1273	XR	two (days) later		 後天	mi³³ ȵe⁵⁵	mi³³ ȵe⁵⁵	1068
+1274	XL	two (days) later		 後天	mi³⁵ ȵe⁵⁵	mi³⁵ ȵe⁵⁵	1068
+1275	CB	two (days) later		 後天	mɨe⁵⁵ kʰɨe²¹ ȵie³³	mɨe⁵⁵ kʰɨe²¹ ȵie³³	1068
+1276	CJ	two (days) later		 後天	ʔa²¹ mu²¹ ȵian²¹	ʔa²¹ mu²¹ ȵian²¹	1068
+1120	PBz	urine		 尿	*ʦʰ[e/ɤ]¹ᴹ	*ʦʰ¹ᴹ	1042
+1121	TS	urine		 尿	ɣɤ⁵⁵ ʦʰɤ⁵⁵	ɣɤ⁵⁵ ʦʰɤ⁵⁵	1042
+1122	FX	urine		 尿	ei⁵³ ʦʰe²¹	ei⁵³ ʦʰe²¹	1042
+1123	XR	urine		 尿	ĩ⁵⁴ ʦʰə⁵⁴-³¹	ĩ⁵⁴ ʦʰə⁵⁴-³¹	1042
+1124	CB	urine		 尿	ʦʰe³³ ʦʰe³⁵	ʦʰe³³ ʦʰe³⁵	1042
+2055	PBz	vegetable		 蔬菜	*ʔæ	*ʔæ	2089
+2056	TS	vegetable		 蔬菜	ɕi²⁴ pʰɔ̃⁵¹	ɕi²⁴ pʰɔ̃⁵¹	2089
+2057	TS	vegetable		 蔬菜	sɿ²⁴ pʰɔ̃⁵¹	sɿ²⁴ pʰɔ̃⁵¹	2089
+2058	FX	vegetable		 蔬菜	tɕe⁵³	tɕe⁵³	2089
+2059	XR	vegetable		 蔬菜	a³³ ɕi³³	a³³ ɕi³³	2089
+2060	CB	vegetable		 蔬菜	a²¹ ɕi²¹	a²¹ ɕi²¹	2089
+2061	PBz	vegetable		 蔬菜	*si²	*si²	2090
+2062	TS	vegetable		 蔬菜	ɕi²⁴ pʰɔ̃⁵¹	ɕi²⁴ pʰɔ̃⁵¹	2090
+2063	TS	vegetable		 蔬菜	sɿ²⁴ pʰɔ̃⁵¹	sɿ²⁴ pʰɔ̃⁵¹	2090
+2064	XR	vegetable		 蔬菜	a³³ ɕi³³	a³³ ɕi³³	2090
+2065	CB	vegetable		 蔬菜	a²¹ ɕi²¹	a²¹ ɕi²¹	2090
+1357	PBz	village		 村莊	*ʔi¹ᴴ	*ʔi¹ᴴ	1084
+1358	TS	village		 村莊	luɔ⁵⁵ jɔu⁵⁵	luɔ⁵⁵ jɔu⁵⁵	1084
+1359	CB	village		 村莊	ji⁵⁵ de²¹	ji⁵⁵ de²¹	1084
+306	PBz	water		 水	*ʦʰe²	*ʦʰe²	54
+307	TS	water		 水	ʦʰɤ²¹	ʦʰɤ²¹	54
+308	FX	water		 水	ʦʰe²¹	ʦʰe²¹	54
+309	XR	water		 水	ʦʰə⁵⁴	ʦʰə⁵⁴	54
+310	XR	water	打水 (to get water)	 水	ʦʰə³³ in '打水 (to get water)'	ʦʰə³³ in	54
+311	XL	water	打水 (to get water)	 水	ʦʰe²¹	ʦʰe²¹	54
+312	CB	water	打水 (to get water)	 水	ʦʰe³⁵	ʦʰe³⁵	54
+2066	PBz	we		 咱們	*ʔæ	*ʔæ	2091
+2067	TS	we		 咱們	ã²⁴ ȵi⁵⁵	ã²⁴ ȵi⁵⁵	2091
+2068	FX	we		 咱們	an³⁵ ȵi⁵³	an³⁵ ȵi⁵³	2091
+2069	XR	we		 咱們	a³³ ȵi³³	a³³ ȵi³³	2091
+2070	XL	we		 咱們	a³⁵ ȵi³⁵	a³⁵ ȵi³⁵	2091
+2071	CB	we		 咱們	ʔa²¹ ȵi²¹	ʔa²¹ ȵi²¹	2091
+2072	CJ	we		 咱們	ʔa²¹ ȵi²¹	ʔa²¹ ȵi²¹	2091
+2073	PBz	we		 咱們	*ȵi⁴	*ȵi⁴	2092
+2074	TS	we		 咱們	ã²⁴ ȵi⁵⁵	ã²⁴ ȵi⁵⁵	2092
+2075	FX	we		 咱們	an³⁵ ȵi⁵³	an³⁵ ȵi⁵³	2092
+2076	XR	we		 咱們	a³³ ȵi³³	a³³ ȵi³³	2092
+2077	XL	we		 咱們	a³⁵ ȵi³⁵	a³⁵ ȵi³⁵	2092
+2078	CB	we		 咱們	ʔa²¹ ȵi²¹	ʔa²¹ ȵi²¹	2092
+896	PBz	what		 什麼	*ʦʰ[V]¹ᴴ	*ʦʰ¹ᴴ	1002
+897	TS	what		 什麼	ʨʰiɛ⁵¹	ʨʰiɛ⁵¹	1002
+898	FX	what		 什麼	ʦʰi⁵⁵ ʦʰi⁵³	ʦʰi⁵⁵ ʦʰi⁵³	1002
+899	XR	what		 什麼	ʨʰe³⁵	ʨʰe³⁵	1002
+900	XL	what		 什麼	ʨʰe³⁵ ɕi³⁵	ʨʰe³⁵ ɕi³⁵	1002
+901	CB	what		 什麼	ʦʰɯ⁵⁵ ɣo²¹	ʦʰɯ⁵⁵ ɣo²¹	1002
+1401	PBz	white		 白	*sɿ@?	*sɿ@?	1092
+1402	TS	white		 白	a²¹ sɿ²¹	a²¹ sɿ²¹	1092
+1403	FX	white		 白	a²¹ si²¹	a²¹ si²¹	1092
+1404	XR	white		 白	ɣa³³ si³³	ɣa³³ si³³	1092
+1405	XL	white		 白	a²¹ si²¹	a²¹ si²¹	1092
+1406	CB	white		 白	si³³	si³³	1092
+1407	CJ	white		 白	sɿ³³	sɿ³³	1092
+2079	PBz	who		 誰	*ʔæ	*ʔæ	2093
+2080	TS	who		 誰	a⁵¹ sɤ²¹	a⁵¹ sɤ²¹	2093
+2081	FX	who		 誰	a⁵³ se²¹	a⁵³ se²¹	2093
+2082	XR	who		 誰	a³³ so⁵⁵	a³³ so⁵⁵	2093
+2083	XL	who		 誰	a³⁵ sə⁵⁵	a³⁵ sə⁵⁵	2093
+2084	CB	who		 誰	ʔa³³ si³³	ʔa³³ si³³	2093
+2085	CJ	who		 誰	ʔa²¹ sɿ²¹	ʔa²¹ sɿ²¹	2093
+2086	PBz	who		 誰	*sɤ@?	*sɤ@?	2094
+2087	TS	who		 誰	a⁵¹ sɤ²¹	a⁵¹ sɤ²¹	2094
+2088	FX	who		 誰	a⁵³ se²¹	a⁵³ se²¹	2094
+2089	XR	who		 誰	a³³ so⁵⁵	a³³ so⁵⁵	2094
+2090	XL	who		 誰	a³⁵ sə⁵⁵	a³⁵ sə⁵⁵	2094
+2091	CB	who		 誰	ʔa³³ si³³ ŋi³³	ʔa³³ si³³ ŋi³³	2094
+2092	PBz	wild cat		 野貓	*ǳɑC⁴	*ǳɑC⁴	2095
+2093	TS	wild cat		 野貓	ʦuɔ²⁴ kʰu⁵⁵	ʦuɔ²⁴ kʰu⁵⁵	2095
+2094	FX	wild cat		 野貓	ʦo³⁵ kʰu²¹	ʦo³⁵ kʰu²¹	2095
+2095	XR	wild cat		 野貓	ʦo³⁵ kʰu⁵⁴	ʦo³⁵ kʰu⁵⁴	2095
+2096	CB	wild cat	野兽 (beast)	 野貓	za²¹ gu²¹ '野兽 (beast)'	za²¹ gu²¹	2095
+2097	PBz	wild cat		 野貓	*ku⁴	*ku⁴	2096
+2098	TS	wild cat		 野貓	ʦuɔ²⁴ kʰu⁵⁵	ʦuɔ²⁴ kʰu⁵⁵	2096
+2099	FX	wild cat		 野貓	ʦo³⁵ kʰu²¹	ʦo³⁵ kʰu²¹	2096
+2100	XR	wild cat		 野貓	ʦo³⁵ kʰu⁵⁴	ʦo³⁵ kʰu⁵⁴	2096
+2101	CB	wild cat	野兽 (beast)	 野貓	za²¹ gu²¹ '野兽 (beast)'	za²¹ gu²¹	2096
+1075	PBz	wind		 風	*ɹe⁴	*ɹe⁴	1035
+1076	TS	wind		 風	zɤ²⁴ su⁵¹	zɤ²⁴ su⁵¹	1035
+1077	FX	wind		 風	ze³⁵ su⁵³	ze³⁵ su⁵³	1035
+1078	XR	wind		 風	zə³⁵ sɿ³³-⁵⁴	zə³⁵ sɿ³³-⁵⁴	1035
+1079	XL	wind		 風	zəu³⁵ su⁵⁵	zəu³⁵ su⁵⁵	1035
+1080	XL	wind		 風	ze³⁵ su⁵³	ze³⁵ su⁵³	1035
+1081	CB	wind		 風	ze²¹	ze²¹	1035
+278	PBz	wine		 酒	*ɹe⁴	*ɹe⁴	50
+279	TS	wine		 酒	zɤ²⁴	zɤ²⁴	50
+280	FX	wine		 酒	ze³⁵	ze³⁵	50
+281	XR	wine		 酒	zə³⁵	zə³⁵	50
+282	XL	wine		 酒	ze³⁵	ze³⁵	50
+283	CB	wine		 酒	ze²¹	ze²¹	50
+2102	PBz	wok		 鍋	*tɑ⁴	*tɑ⁴	2097
+2103	TS	wok		 鍋	tʰa²⁴ kʰu⁵⁵	tʰa²⁴ kʰu⁵⁵	2097
+2104	FX	wok		 鍋	tʰa³⁵ kʰu⁵³	tʰa³⁵ kʰu⁵³	2097
+2105	XR	wok		 鍋	tʰa³⁵-³³ kʰu⁵⁵-³³	tʰa³⁵-³³ kʰu⁵⁵-³³	2097
+2106	XL	wok		 鍋	tʰa³⁵ kʰu²¹	tʰa³⁵ kʰu²¹	2097
+2107	CB	wok		 鍋	tɯ²¹ kɯ²¹	tɯ²¹ kɯ²¹	2097
+2108	CJ	wok		 鍋	dɯ²¹ gɯ¹³	dɯ²¹ gɯ¹³	2097
+2109	CJ	wok		 鍋	dɯ³¹ gɯ³⁵	dɯ³¹ gɯ³⁵	2097
+2110	CJ	wok		 鍋	dɯ²¹ gɯ²¹	dɯ²¹ gɯ²¹	2097
+2111	PBz	wok		 鍋	*kɯ⁴	*kɯ⁴	2098
+2112	TS	wok		 鍋	tʰa²⁴ kʰu⁵⁵	tʰa²⁴ kʰu⁵⁵	2098
+2113	FX	wok		 鍋	tʰa³⁵ kʰu⁵³	tʰa³⁵ kʰu⁵³	2098
+2114	XR	wok		 鍋	tʰa³⁵-³³ kʰu⁵⁵-³³	tʰa³⁵-³³ kʰu⁵⁵-³³	2098
+2115	XL	wok		 鍋	tʰa³⁵ kʰu²¹	tʰa³⁵ kʰu²¹	2098
+2116	CB	wok		 鍋	tɯ²¹ kɯ²¹	tɯ²¹ kɯ²¹	2098
+2117	CJ	wok		 鍋	dɯ²¹ gɯ¹³	dɯ²¹ gɯ¹³	2098
+2118	CJ	wok		 鍋	dɯ³¹ gɯ³⁵	dɯ³¹ gɯ³⁵	2098
+2119	CJ	wok		 鍋	dɯ²¹ gɯ²¹	dɯ²¹ gɯ²¹	2098
+1345	PBz	written word		 字	*ʦʰi¹ᴹ	*ʦʰi¹ᴹ	1082
+1346	TS	written word		 字	ʦʰɿ⁵⁵ ʦʰɿ⁵⁵	ʦʰɿ⁵⁵ ʦʰɿ⁵⁵	1082
+1347	XR	written word		 字	ʦʰɿ⁵⁴ ʦʰɿ³³	ʦʰɿ⁵⁴ ʦʰɿ³³	1082
+1348	XL	written word		 字	ʦʰi⁵⁵ ʦʰɿ⁵⁵	ʦʰi⁵⁵ ʦʰɿ⁵⁵	1082
+1349	XL	written word	书 (book)	 字	ʦʰɿ⁵⁵ pʰi⁵⁵ '书 (book)'	ʦʰɿ⁵⁵ pʰi⁵⁵	1082
+1350	CB	written word	书 (book)	 字	m³³ ʦʰi³³	m³³ ʦʰi³³	1082
+1082	PBz	y'all		 你們	*se⁴	*se⁴	1036
+1083	TS	y'all		 你們	sɤ²⁴	sɤ²⁴	1036
+1084	FX	y'all		 你們	se³⁵	se³⁵	1036
+1085	XR	y'all		 你們	sə³³	sə³³	1036
+1086	XL	y'all		 你們	se³⁵ ka⁵⁵ ɣɯ²¹	se³⁵ ka⁵⁵ ɣɯ²¹	1036
+1087	CB	y'all		 你們	ɯ²¹ ɕi²¹	ɯ²¹ ɕi²¹	1036
+1088	CB	y'all		 你們	ʔɨ²¹ ɕi²¹	ʔɨ²¹ ɕi²¹	1036
+1089	CJ	y'all		 你們	ʔɯ²¹ se²¹	ʔɯ²¹ se²¹	1036
+820	PBz	year		 年	*ȵuŋ²	*ȵuŋ²	147
+821	TS	year		 年	lɔ̃⁵⁵	lɔ̃⁵⁵	147
+822	FX	year		 年	loŋ²¹	loŋ²¹	147
+823	XR	year		 年	nõ³³	nõ³³	147
+824	CB	year		 年	ȵɯ³⁵	ȵɯ³⁵	147
+2120	PBz	yesterday		 昨天	*pʰu@?	*pʰu@?	2099
+2121	TS	yesterday		 昨天	pʰɔ̃²¹ ȵiɛ²¹	pʰɔ̃²¹ ȵiɛ²¹	2099
+2122	TS	yesterday		 昨天	pʰu²¹ ȵi²¹	pʰu²¹ ȵi²¹	2099
+2123	FX	yesterday		 昨天	pʰu²¹ ȵi²¹	pʰu²¹ ȵi²¹	2099
+2124	XR	yesterday		 昨天	pʰu³³ ȵi³³	pʰu³³ ȵi³³	2099
+2125	XL	yesterday		 昨天	pʰu²¹ ȵe⁵⁵	pʰu²¹ ȵe⁵⁵	2099
+2126	CB	yesterday		 昨天	pʰu³³ ȵie³³	pʰu³³ ȵie³³	2099
+2127	PBz	yesterday		 昨天	*ȵi@?	*ȵi@?	2100
+2128	TS	yesterday		 昨天	pʰɔ̃²¹ ȵiɛ²¹	pʰɔ̃²¹ ȵiɛ²¹	2100
+2129	TS	yesterday		 昨天	pʰu²¹ ȵi²¹	pʰu²¹ ȵi²¹	2100
+2130	FX	yesterday		 昨天	pʰu²¹ ȵi²¹	pʰu²¹ ȵi²¹	2100
+2131	XR	yesterday		 昨天	pʰu³³ ȵi³³	pʰu³³ ȵi³³	2100
+2132	XL	yesterday		 昨天	pʰu²¹ ȵe⁵⁵	pʰu²¹ ȵe⁵⁵	2100
+2133	CB	yesterday		 昨天	pʰu³³ ȵie³³	pʰu³³ ȵie³³	2100
+555	PBz	you		 你	*ȵi¹ᴹ	*ȵi¹ᴹ	98
+556	TS	you		 你	ȵi²⁴	ȵi²⁴	98
+557	FX	you		 你	ȵi³⁵ (nom.)	ȵi³⁵	98
+558	FX	you		 你	ȵi⁵³ (acc.)	ȵi⁵³	98
+559	XR	you		 你	ȵi³³	ȵi³³	98
+560	XL	you		 你	ȵi³⁵	ȵi³⁵	98
+561	XL	you		 你	ȵi⁵⁵	ȵi⁵⁵	98
+562	CB	you		 你	ȵi³³	ȵi³³	98
+2134	PBz	younger brother		 弟弟	*ʔæ	*ʔæ	2101
+2135	TS	younger brother		 弟弟	ã⁵⁵ ŋai⁵¹	ã⁵⁵ ŋai⁵¹	2101
+2136	FX	younger brother		 弟弟	an⁵³ ŋai⁵³	an⁵³ ŋai⁵³	2101
+2137	FX	younger brother		 弟弟	a³⁵ ŋai⁵³	a³⁵ ŋai⁵³	2101
+2138	XR	younger brother		 弟弟	ã⁵⁵ ŋei⁵³	ã⁵⁵ ŋei⁵³	2101
+2139	CB	younger brother		 弟弟	a³³ ŋo³³	a³³ ŋo³³	2101
+2140	CJ	younger brother		 弟弟	ʔa⁵¹ ŋo³⁵	ʔa⁵¹ ŋo³⁵	2101
+2141	CJ	younger brother		 弟弟	ʔa³³ ŋo³⁵	ʔa³³ ŋo³⁵	2101
+2142	PBz	younger brother		 弟弟	*ŋɑ¹ᴹ	*ŋɑ¹ᴹ	2102
+2143	TS	younger brother		 弟弟	ã⁵⁵ ŋai⁵¹	ã⁵⁵ ŋai⁵¹	2102
+2144	FX	younger brother		 弟弟	an⁵³ ŋai⁵³	an⁵³ ŋai⁵³	2102
+2145	FX	younger brother		 弟弟	a³⁵ ŋai⁵³	a³⁵ ŋai⁵³	2102
+2146	XR	younger brother		 弟弟	ã⁵⁵ ŋei⁵³	ã⁵⁵ ŋei⁵³	2102
+2147	CB	younger brother		 弟弟	a³³ ŋo³³	a³³ ŋo³³	2102
+2148	CJ	younger brother		 弟弟	ʔa⁵¹ ŋo³⁵	ʔa⁵¹ ŋo³⁵	2102
+2149	CJ	younger brother		 弟弟	ʔa³³ ŋo³⁵	ʔa³³ ŋo³⁵	2102

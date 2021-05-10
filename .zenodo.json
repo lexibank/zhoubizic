@@ -1,0 +1,33 @@
+{
+    "title": "CLDF dataset derived from Allen's \"Bai Dialect Survey\" from 2007",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Bryan Allen"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Bryan Allen",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Allen, Bryan (2007): Bai Dialect Survey. Dallas: SIL International.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

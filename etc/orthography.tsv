@@ -1,0 +1,198 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+_	+	pi³⁵ ʦi⁵³ kʰa²¹, pi²⁴ ʦɿ⁵⁵ kʰa²¹	XR, CB, TS, FX, CJ, XL	100	U+005f
+i	i	pi³⁵ ʦi⁵³ kʰa²¹, pi³⁵ ʨi⁵⁵ kʰa²¹	FX, XR, CB, XL, TS, PBz, CJ	100	U+0069
+u	u	kʰu⁵⁵ su²¹, pu⁵⁵ ʦɿ⁵⁵	TS, CB, XR, FX, PBz, XL, CJ	100	U+0075
+a	a	sa²¹ ȵi³⁵, sa³⁵ kʰa²¹ kʰa²¹ moŋ²¹	FX, XR, TS, XL, CJ, CB	100	U+0061
+²¹$	²¹	m̩²¹ ǳɿ²¹, ka²¹	FX, TS, CB, CJ, XL	100	U+00b2 U+00b9 U+0024
+^*	NULL	*Øm̩¹ᴸ, *gɑ²	PBz, TS	100	U+005e U+002a
+³⁵$	³⁵	ɕi³³ ti³⁵, sa²¹ ȵi³⁵	CB, XL, XR, CJ, FX	100	U+00b3 U+2075 U+0024
+⁵⁵$	⁵⁵	pu⁵⁵ ʦɿ⁵⁵, mi⁵⁵	TS, XL, CB, XR, FX	100	U+2075 U+2075 U+0024
+e	e	tʰe⁵³ pʰe²¹, ɕe³³ kʰe⁵⁵	FX, XR, CB, CJ, PBz, XL, TS	100	U+0065
+o	o	mo⁵⁵-³⁵ ʦʰo⁵⁵, ko²¹ lo²¹ tɯ⁵⁵	CB, FX, XR, XL, CJ	100	U+006f
+²¹	²¹	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹, m̩²¹ ǳɿ²¹	CB, CJ, TS, FX, XL, XR	100	U+00b2 U+00b9
+³³	³³	ɕi³³ ti³⁵, kʰɯu³³ pi³³ la³⁵	XR, CB, CJ, FX, XL	100	U+00b3 U+00b3
+³³$	³³	su³³, ʨʰi³³	XR, CB, CJ, FX	100	U+00b3 U+00b3 U+0024
+⁵⁵	⁵⁵	pu⁵⁵ ʦɿ⁵⁵, a⁵⁵ je²¹	TS, XL, CJ, CB, XR, FX	100	U+2075 U+2075
+⁵³$	⁵³	ɕie²¹ tie⁵³, si²¹ te⁵³	FX, XL, CJ	100	U+2075 U+00b3 U+0024
+³⁵	³⁵	li³⁵ pu³⁵, mo⁵⁵-³⁵ ʦʰo⁵⁵	FX, XR, XL, CJ, CB	100	U+00b3 U+2075
+^s	s	sa²¹ ȵi³⁵, sɿ²¹	TS, FX, XR, CB, XL, CJ	100	U+005e U+0073
+^a	a	a⁵⁵ je²¹, a⁵⁵ ka²¹	TS, FX, XR, CB, CJ, XL	100	U+005e U+0061
+ɿ	ɿ	m̩²¹ ǳɿ²¹, pu⁵⁵ ʦɿ⁵⁵	TS, XR, PBz, CJ, XL, CB	100	U+027f
+l	l	ʔa¹³ lie⁵⁵, ka²¹ pu³¹ lu⁵³	CB, TS, FX, PBz, XR, CJ, XL	100	U+006c
+^l	l	li³⁵ pu³⁵, lu²¹	FX, TS, XR, XL, CB, CJ	100	U+005e U+006c
+ɯ	ɯ	lɯ³⁵ kɯ²¹ dɯ¹³, lɯ²¹ kɯ³³ dɯ³⁵	CB, CJ, PBz, XR, XL	100	U+026f
+ie	i/j e	ɕie²¹ bie³³, ʔa¹³ lie⁵⁵	CB, CJ, XR, XL, FX, PBz	100	U+0069 U+0065
+ŋ	ŋ	*tuŋ¹ᴹ, loŋ⁵³	FX, PBz, XL, CB, CJ, TS, XR	100	U+014b
+^tʰ	tʰ	tʰi³⁵, tʰi²¹	FX, TS, XR, XL, CB, CJ	100	U+005e U+0074 U+02b0
+ɤ	ɤ	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹, *pʰɤ²	TS, PBz	100	U+0264
+^m	m	mi⁵⁵, mie³⁵	XR, CB, TS, FX, XL, CJ	100	U+005e U+006d
+^p	p	pu⁵⁵ ʦɿ⁵⁵, pi³⁵	TS, FX, XR, XL, CB	97	U+005e U+0070
+p	p	li³⁵ pu³⁵, ka²¹ pu³¹ lu⁵³	XR, FX, TS, XL, CJ, PBz, CB	96	U+0070
+s	s	sɿ⁵⁵ sɿ⁵⁵, sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹	TS, FX, XR, CB, XL, CJ	96	U+0073
+⁵³	⁵³	tʰe⁵³ pʰe²¹, ʨie⁵³ m̩²¹ te²¹	FX, CJ, XL, CB	95	U+2075 U+00b3
+⁵⁴$	⁵⁴	sa⁵⁴, ɕi⁵⁴	XR, FX, CJ	94	U+2075 U+2074 U+0024
+ɑ	ɑ	*gɑ², *lɑC³	PBz	91	U+0251
+kʰ	kʰ	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹, tʰa³⁵-³³ kʰu⁵⁵-³³	XR, TS, FX, PBz, XL, CB	89	U+006b U+02b0
+^z	z	ze³⁵, ze²¹	CB, XR, FX, XL, TS, CJ	86	U+005e U+007a
+ʦʰ	tsʰ	mo⁵⁵-³⁵ ʦʰo⁵⁵, m̩⁵⁵ ʦʰa¹³ ŋi²¹	XR, PBz, TS, FX, CB, CJ, XL	84	U+02a6 U+02b0
+²$	²	*pʰɤ², *gɑ²	PBz	83	U+00b2 U+0024
+^t	t	tu²¹, ta³⁵	CB, FX, TS, XR, CJ, XL	80	U+005e U+0074
+pʰ	pʰ	*pʰɤ², tʰe⁵³ pʰe²¹	PBz, TS, XR, FX, CB, XL, CJ	79	U+0070 U+02b0
+^kʰ	kʰ	kʰɯ³⁵, kʰu⁵⁵ su²¹	XR, FX, TS, XL, CB, CJ	75	U+005e U+006b U+02b0
+^pʰ	pʰ	pʰu²¹ ȵi²¹, pʰu³⁵	TS, XR, FX, CB, XL	74	U+005e U+0070 U+02b0
+⁵⁴	⁵⁴	õ⁵⁴ pʰa³³ zə⁵⁵, a⁵⁴ lie³³	XR	74	U+2075 U+2074
+^ʔ	ʔ	ʔa¹³ lie⁵⁵, ʔa²¹ ȵi²¹	CB, CJ, FX	74	U+005e U+0294
+²⁴	²⁴	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹, ã²⁴ ȵi⁵⁵	TS	71	U+00b2 U+2074
+²⁴$	²⁴	la²⁴, sɤ²⁴	TS	70	U+00b2 U+2074 U+0024
+⁴$	⁴	*ɹe⁴, *nɑ⁴	PBz	70	U+2074 U+0024
+¹ᴹ$	¹ᴹ/³	*tuŋ¹ᴹ, *lɑ¹ᴹ	PBz	68	U+00b9 U+1d39 U+0024
+¹³$	¹³	ku³³ du¹³, ʔa³³ zu¹³	CB, CJ, FX	67	U+00b9 U+00b3 U+0024
+ȵ	ȵ	pʰu²¹ ȵi²¹, sa²¹ ȵi³⁵	PBz, CB, TS, FX, XR, CJ, XL	65	U+0235
+^ʦ	ts	ʦu³⁵, ʦa³⁵	FX, XR, TS, XL, CB	65	U+005e U+02a6
+-	NULL	tʰa³⁵-³³ kʰu⁵⁵-³³, wo³³ na⁵⁴-³³ xu³³-³⁵	XR, TS	64	U+002d
+⁵¹$	⁵¹	ã⁵⁵ ŋai⁵¹, ku⁵⁵ tu⁵¹	TS, CJ	64	U+2075 U+00b9 U+0024
+^ɕ	ɕ	ɕi³³ ti³⁵, ɕi²¹	XR, FX, XL, CB, TS, CJ	63	U+005e U+0255
+m	m	sɿ⁵⁵ ma²¹, tʰũ³³ mu⁵⁵	PBz, TS, XR, FX, XL, CJ, CB	60	U+006d
+^ʦʰ	tsʰ	ʦʰa³⁵, ʦʰu⁵⁵	TS, XR, CB, FX, XL, CJ	59	U+005e U+02a6 U+02b0
+b	b	ɕie²¹ bie³³, ti⁵⁵ pʰei³⁵ bie²¹	PBz, CB, CJ, XL, FX	58	U+0062
+k	k	a⁵⁵ ka²¹, ti²¹ kɨ²¹	XR, TS, FX, PBz, CB, XL, CJ	57	U+006b
+t	t	ɕi³³ ti³⁵, *tuŋ¹ᴹ	PBz, CJ, XR, CB, FX, XL, TS	57	U+0074
+^k	k	ko³⁵, ka²¹	CB, TS, FX, XL, XR, CJ	56	U+005e U+006b
+¹ᴴ$	¹ᴴ/⁵	*pʰɑ¹ᴴ, *ʔu¹ᴴ	PBz	55	U+00b9 U+1d34 U+0024
+tʰ	tʰ	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹, *tʰie³	XR, PBz, TS, FX, CJ, CB, XL	55	U+0074 U+02b0
+n	n	an⁵⁵ lan⁵³, *nɑ⁴	FX, PBz, XR, XL, CJ, CB	54	U+006e
+ə	ə	ʦə³³, sə³³	XR, XL	53	U+0259
+^ɣ	ɣ	ɣɯ³⁵, ɣa³⁵	XR, XL, CB, TS, CJ	51	U+005e U+0263
+^*s	s	*si@?, *sɿ²	PBz	50	U+005e U+002a U+0073
+iɛ	i/j ɛ	sɤ²¹ kʰɤ⁵⁵ sɿ²¹ tʰiɛ²⁴ sɿ²¹ tʰiɛ²⁴ kʰɤ²¹, miɛ⁵⁴ miɛ³³-³¹	TS, XR	45	U+0069 U+025b
+¹ᴸ$	¹ᴸ/¹	*Øm̩¹ᴸ, *ɹu¹ᴸ	PBz	44	U+00b9 U+1d38 U+0024
+@	ə	*si@?, *b@?	PBz	43	U+0040
+?$	NULL	*si@?, *b@?	PBz	43	U+003f U+0024
+^ʨʰ	tɕʰ	ʨʰi³³, ʨʰi²¹	XR, FX, TS, XL, CB, CJ	43	U+005e U+02a8 U+02b0
+^d	d	do²¹, dɯ²¹	CB, CJ, XL	42	U+005e U+0064
+ʦ	ts	pu⁵⁵ ʦɿ⁵⁵, pu⁵³ ʦi⁵³	FX, TS, XR, CJ, PBz, XL, CB	39	U+02a6
+d	d	ku³³ du¹³, si¹³ die⁵⁵	PBz, CB, CJ, XL	39	U+0064
+ʔ	ʔ	*ʔæ, *ʔu¹ᴴ	PBz, CB	39	U+0294
+z	z	õ⁵⁴ pʰa³³ zə⁵⁵, ʔa³³ zu¹³	CB, CJ, FX, PBz, TS, XR, XL	39	U+007a
+ɕ	ɕ	a³³ ɕi³³, ʔa²¹ ɕi²¹	CB, XR, TS, FX, CJ, XL	38	U+0255
+C	C/c	*lɑC³, *ȵɑC¹ᴹ	PBz	38	U+0043
+^ȵ	ȵ	ȵi³⁵, ȵe³³	XR, CB, FX, XL, TS, CJ	37	U+005e U+0235
+¹³	¹³	ʔa¹³ lie⁵⁵, m̩⁵⁵ ʦʰa¹³ ŋi²¹	CB, CJ	36	U+00b9 U+00b3
+^b	b	bu²¹ le²¹, ba²¹ ŋɨ³³	CB, CJ, XL, PBz	35	U+005e U+0062
+ɣ	ɣ	*ɣɑ³, *ɣɤ²	PBz, CB, XR, XL, TS	35	U+0263
+ǳ	d	m̩²¹ ǳɿ²¹, a³³ ǳa³³	PBz, CB, CJ, XL	33	U+01f3
+ʨ	tɕ	mu³³ ʨi³³, u³⁵ ʨi⁵³	XR, CB, FX, PBz, XL, CJ, TS	32	U+02a8
+^n	n	nã³³, nõ⁵⁴	XR, CB, XL, CJ, FX	30	U+005e U+006e
+³$	³	*lɑC³, *tʰie³	PBz, CB	30	U+00b3 U+0024
+ã	ã	lã²¹, nã³³	TS, XR, XL, FX	29	U+00e3
+ɔ̃	ɔ̃	tʰɔ̃⁵¹ mɔ̃²¹, lɔ̃⁵⁵	TS	29	U+0254 U+0303
+ɨ	ɨ	ti²¹ kɨ²¹, si³³ ŋɨ²¹	CB, TS, CJ, FX	28	U+0268
+uɔ	u/w ɔ	pɔ²¹ luɔ⁵⁵ luɔ⁵⁵, ʦuɔ²⁴ kʰu⁵⁵	TS	28	U+0075 U+0254
+ʨʰ	tɕʰ	*ʨʰi¹ᴹ, u³⁵ ʨʰi⁵³ ʨʰi⁵³	FX, PBz, TS, XR, CB, XL	26	U+02a8 U+02b0
+^w	w	wo⁵⁵, wu⁵⁵	XR, CB, TS, XL, CJ	26	U+005e U+0077
+^ʨ	tɕ	ʨe³⁵, ʨiɛ⁵¹	TS, XR, FX, XL, CJ	26	U+005e U+02a8
+^x	x	xu²¹, xu³³	FX, XR, TS, XL	25	U+005e U+0078
+ʥ	dʑ	ʔu²¹ ʥi²¹, mu²¹ ʥi⁵⁵	PBz, CB, CJ, XL	25	U+02a5
+³¹$	³¹	a⁵⁴ ʨe³³-³¹, ʨe³⁵ mi⁵⁵ tʰi³³-³¹	XR, CJ	25	U+00b3 U+00b9 U+0024
+g	g	*gɑ², dɯ²¹ gɯ¹³	PBz, CJ, CB	24	U+0067
+^ǳ	d	ǳɿ²¹ la²¹, ǳə²¹	CB, CJ, XL	23	U+005e U+01f3
+õ	õ	ɕĩ³⁵ ka⁵⁴ tõ³³ tõ³³, nõ⁵⁴	XR, CB	23	U+00f5
+ɯe	ɯ/ɰ e	mɯe³⁵, a⁵⁵ pʰɯe³³	XR, XL, CB, CJ	20	U+026f U+0065
+^ŋ	ŋ	ŋa⁵³, ŋa³⁵	CB, FX, TS, XR, XL	19	U+005e U+014b
+æ$	æ	*ʔæ	PBz	19	U+00e6 U+0024
+ei	ei	tʰa³⁵ kʰei⁵³, ti⁵⁵ pʰei³⁵ bie²¹	FX, CB, CJ, XL, XR	18	U+0065 U+0069
+x	x	a⁵⁵ xoŋ⁵³, a⁵⁵ xɔ̃⁵⁵	PBz, XR, FX, TS	17	U+0078
+ɹ	ɹ	*ɹe⁴, *ɹu¹ᴸ	PBz	17	U+0279
+^j	j	ji³⁵ la³⁵, ji²⁴ la⁵⁵	TS, XL, CB, CJ	16	U+005e U+006a
+ai	ai	ã⁵⁵ ŋai⁵¹, a³⁵ ŋai⁵³	FX, TS, CB, XL	15	U+0061 U+0069
+ɛ	ɛ	ɕɛ³³-³¹ kʰe⁵⁵, ʨʰe³⁵ pu⁵⁵ lɛ⁵⁵	XR, TS, XL	15	U+025b
+^m̩	m̩	m̩²¹ ǳɿ²¹, m̩²¹ ɕie²¹	CJ, CB	14	U+005e U+006d U+0329
+ɔ	ɔ	ʨʰɔ³⁵ pu³³-³⁵, nɔ³³ ʨi³³ pʰɛ³⁵-⁵⁵	TS, XR	14	U+0254
+⁵¹	⁵¹	tʰu⁵¹ mɔ̃²¹, a⁵¹ sɤ²¹	TS, CJ	12	U+2075 U+00b9
+^g	g	go³⁵, ge³³	CB, CJ	12	U+005e U+0067
+j	j	a⁵⁵ je²¹, ʔa⁵⁵ je³⁵	TS, CB, CJ, XL	11	U+006a
+w	w	tu⁵⁵ wu¹³, si³³ wo³⁵	CB, PBz, XL, TS	10	U+0077
+^o	o	o⁵³, oŋ⁵³ pa⁵³	FX, CB	10	U+005e U+006f
+^u	u	u³⁵ ʨi⁵³, uŋ³⁵	FX, XL, XR	10	U+005e U+0075
+æ	æ	*ʦʰæ², *læ¹ᴹ	PBz	10	U+00e6
+ɨe	ɨe	mɨe⁵⁵ kʰɨe²¹ ȵie³³, mɨe⁵⁵ kʰɨe²¹	CB	10	U+0268 U+0065
+ɯə	ɯ/ɰ ə	kʰɯə³³ kʰɯə⁵⁴, pʰɯə⁵⁴ ʦʰə⁵⁴	XR	9	U+026f U+0259
+³¹	³¹	ɕɛ³³-³¹ kʰe⁵⁵, ka²¹ pu³¹ lu⁵³	CJ, XR	9	U+00b3 U+00b9
+ũ	ũ	sũ³⁵, tʰũ³³ mu⁵⁵	XR, CJ, CB	9	U+0169
+io	io	ɕi⁵⁵ ma²¹ lio⁵⁵, ɕi³⁵ ȵio⁵⁵	XL, CB	9	U+0069 U+006f
+m̩	m̩	*Øm̩¹ᴸ, ʨie⁵³ m̩²¹ te²¹	PBz, CJ	8	U+006d U+0329
+^*ɕ	ɕ	*ɕi¹ᴸ, *ɕi¹ᴴ	PBz	8	U+005e U+002a U+0255
+əu	əu	ɣəu³⁵ la³⁵, xəu⁵⁴	XL, XR	8	U+0259 U+0075
+ɯɛ	ɯɛ	pɯɛ³³ pɯɛ³³-³⁵, la³³ pɯɛ³³	XR	7	U+026f U+025b
+au	au	lau²¹, xau⁵⁵ zɿ²¹	TS, FX, CB, XL	7	U+0061 U+0075
+Ø	Ø/ə	*Øm̩¹ᴸ, *Øm̩⁴	PBz	6	U+00d8
+^ã	ã	ã⁵⁵ ŋei⁵³, ã⁵⁵ ŋai⁵¹	TS, XR	6	U+005e U+00e3
+ɯu	ɯ/ɰ u	mɯu³⁵, kʰɯu³³ pi³³ la³⁵	CJ, XR	5	U+026f U+0075
+^ʕ	ʕ	ʕe³⁵ bu²¹, ʕi³³	CB, CJ	5	U+005e U+0295
+^ɔ̃	ɔ̃	ɔ̃⁵⁵ pa⁵⁵, ɔ̃²¹	TS	5	U+005e U+0254 U+0303
+^e	e	e⁵³, en³⁵ ʨʰi⁵³	FX	5	U+005e U+0065
+^ʑ	ʑ	ʑe⁵⁴, ʑi³³	XR	5	U+005e U+0291
+ẽ	ẽ	ʔẽ³³bo³⁵, nẽ⁵⁵	CB, CJ	5	U+1ebd
+⁴⁴$	⁴⁴	ku³⁵ lu⁴⁴, kʰɯ⁴⁴	CJ	5	U+2074 U+2074 U+0024
+ia	i/j a	lia⁵⁴, bie³¹ ʕɯ³¹ ȵia²¹	CJ, XR	4	U+0069 U+0061
+^õ	õ	õ⁵⁴ pʰa³³ zə⁵⁵, õ⁵⁴ na⁵⁴ xu³³	XR	4	U+005e U+00f5
+ħ	ħ	a³³ ħɯ⁵⁵, a³³ ħɯ³³	CB	4	U+0127
+^ʥ	dʑ	ʥi³⁵, ʥi²¹	CB, XL	4	U+005e U+02a5
+^ĩ	ĩ	ĩ⁵⁴ ʦʰə⁵⁴-³¹, ĩ⁵⁴ na³³	XR	3	U+005e U+0129
+uã	u/w ã	suã⁵¹, suã⁵³	XR, TS, XL	3	U+0075 U+00e3
+^ħ	ħ	ħo³³ zi³³, ħɯ³⁵	CB	3	U+005e U+0127
+ʑ	ʑ	ʦo⁵⁴ ʑi³³-³¹, na³³ ʑɔ³⁵	XR	3	U+0291
+^i	i	i³⁵ la⁵⁴, i²¹	FX	3	U+005e U+0069
+^ei	ei	ei⁵³ ʦʰe²¹, ei²¹	FX	3	U+005e U+0065 U+0069
+ʕ	ʕ	pʰa⁵⁵ lie²¹ ʕei⁵⁵ wu²¹, bie³¹ ʕɯ³¹ ȵia²¹	CJ, CB	2	U+0295
+^au	au	au³⁵	FX, XL	2	U+005e U+0061 U+0075
+^*ʑ	ʑ	*ʑi⁴, *ʑe²	PBz	2	U+005e U+002a U+0291
+ĩ	ĩ	ɕĩ³⁵ ka⁵⁴ tõ³³ tõ³³, ʨʰĩ⁵⁵	XR, TS	2	U+0129
+iu	i/j u	luɔ²⁴ liu⁵⁵	TS	2	U+0069 U+0075
+ɤi	ɤi	pɤ²¹ pɤi⁵⁵	TS	2	U+0264 U+0069
+^ie	i/j e	ie³⁵, ie⁵³	FX	2	U+005e U+0069 U+0065
+^ə	ə	ə³³	XR	2	U+005e U+0259
+⁴⁴	⁴⁴	ki⁴⁴ ȵo²¹	CB	1	U+2074 U+2074
+體	NULL	*tʰi ja 體亞	TS	1	U+9ad4
+亞$	NULL	*tʰi ja 體亞	TS	1	U+4e9e U+0024
+⁴	⁴	da⁴pi³	CB	1	U+2074
+^pʰ̬	p̬ʰ	pʰ̬o²¹ nũ²¹	CJ	1	U+005e U+0070 U+02b0 U+032c
+^tɕʰ	tɕʰ	tɕʰi⁵⁵ lie²¹	CB	1	U+005e U+0074 U+0255 U+02b0
+^*ʥi¹ᴹ/@?	dʑ i ¹ᴹ/³	*ʥi¹ᴹ/@?	PBz	1	U+002a U+02a5 U+0069 U+00b9 U+1d39 U+002f U+0040 U+003f
+⁵²$	⁵²	tu⁵²	FX	1	U+2075 U+00b2 U+0024
+ao	ao	dzɿ²¹ mao²¹	CJ	1	U+0061 U+006f
+^ɤ	ɤ	ɤŋ²⁴ ʨʰi⁵¹	TS	1	U+005e U+0264
+不	NULL	ʦʰɿ⁵⁴ ɣə³³ 不会	XR	1	U+4e0d
+会$	NULL	ʦʰɿ⁵⁴ ɣə³³ 不会	XR	1	U+4f1a U+0024
+ɹ̩	ɹ̩	sɹ̩⁵⁴ li³³	XR	1	U+0279 U+0329
+C$	C/c	*beC	PBz	1	U+0043 U+0024
+ie$	i/j e	kau⁵⁵ ɕi¹³ ʨie	CB	1	U+0069 U+0065 U+0024
+^⁵⁵$	⁵⁵	⁵⁵	XR	1	U+005e U+2075 U+2075 U+0024
+ua	u/w a	suan⁵³	FX	1	U+0075 U+0061
+iã	i/j ã	ʦʰa³³ ʦʰa³³ niã¹³	CB	1	U+0069 U+00e3
+^f	f	fu³⁵	CB	1	U+005e U+0066
+^*tɑ²/⁴	t a ²	*tɑ²/⁴	PBz	1	U+002a U+0074 U+0251 U+00b2 U+002f U+2074
+ʉ	ʉ	ǳʉ¹³	CJ	1	U+0289
+?	NULL	a⁵⁵ da¹³?1	CJ	1	U+003f
+1$	NULL	a⁵⁵ da¹³?1	CJ	1	U+0031 U+0024
+_ʰ	NULL	lo³⁵ ʰo¹³	CB	1	U+005f U+02b0
+^*zɑ²/@?	z ɑ ²
+ʰo¹³	h o ¹³
+^th	tʰ	tho⁵⁵	CJ	1	U+005e U+0074 U+0068
+x$	x	*kʰɯx	PBz	1	U+0078 U+0024
+i$	i	*xi	PBz	1	U+0069 U+0024
+⁵$	⁵	sɿ²¹ ⁵	TS	1	U+2075 U+0024
+*zɑ²/@?	z a ²	*zɑ²/@?	PBz	1	U+002a U+007a U+0251 U+00b2 U+002f U+0040 U+003f
+^tɕ	tɕ	tɕe⁵³	FX	1	U+005e U+0074 U+0255
+ɔu	ɔu	luɔ⁵⁵ jɔu⁵⁵	TS	1	U+0254 U+0075
+n$	n	ʦʰə³³ in	XR	1	U+006e U+0024
+^ɯ	*ɯ	ɯ²¹ ɕi²¹	CB	1	U+005e U+026f
+³	³	
+¹ᴴ	¹ᴴ/¹
+¹ᴹ	¹ᴹ/³
+¹ᴸ	¹ᴸ/⁵
+*	NULL
+*ʥi¹ᴹ/@?	dʑ i ¹ᴹ/³
+²	²

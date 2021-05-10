@@ -1,8 +1,8 @@
-ID	Name_in_Source	Name	Subgroup	Location	ISO	Glottocode
-FX	FX	Longshan Husi L	Northern	Laxidong	tji	
-XR	XR	Xia Tujia	Northern	Xianren	tji	
-XL	XL	Guzhang Husi	Northern	Xialongre	tji	
-CB	CB	Cebu	Southern	Cebu	tjs	
-TS	TS	Longshan Husi T	Northern	Tasha	tji	
-CJ	CJ	Caji-adi	Southern	Caji-adi 下且己	tjs	
-PBz	PBz	Proto-Bizic				
+ID	Name_in_Source	Name	SubGroup	Location	ISO639P3code
+LongshanHusiL	FX	Longshan Husi L	Northern	Laxidong	tji
+XiaTujia	XR	Xia Tujia	Northern	Xianren	tji
+GuzhangHusi	XL	Guzhang Husi	Northern	Xialongre	tji
+Cebu	CB	Cebu	Southern	Cebu	tjs
+LongshanHusiT	TS	Longshan Husi T	Northern	Tasha	tji
+CajiAdi	CJ	Caji-adi	Southern	Caji-adi 下且己	tjs
+ProtoBizic	PBz	Proto-Bizic			

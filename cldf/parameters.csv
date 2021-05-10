@@ -1,0 +1,347 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
+0_all,all,,, 全部,0
+1_almost,almost,,, 快要,1
+2_ant,ant,,, 螞蟻,2
+3_ashes,ashes,,, 灰,3
+4_atfirst,at first,,, 先,4
+5_bad,bad,,, 壞,5
+6_bamboo,bamboo,,, 竹子,6
+7_bamboomat,bamboo mat,,, 竹蓆,7
+8_beast,beast,,, 獸,8
+9_bed,bed,,, 牀,9
+10_belly,belly,,, 肚子,10
+11_belt,belt,,, 腰帶,11
+12_big,big,,, 大,12
+13_bitter,bitter,,, 苦,13
+14_black,black,,, 黑,14
+15_blood,blood,,, 血,15
+16_boat,boat,,, 船,16
+17_boilingwater,boiling water,,, 開（水）,17
+18_bottom,bottom,,, 底下,18
+19_bovine,bovine,,, 牛,19
+20_bowl,bowl,,, 碗,20
+21_bran,bran,,, 糠,21
+22_bright,bright,,, 亮,22
+23_bug,bug,,, 蟲,23
+24_buy,buy,,, 買,24
+25_cat,cat,,, 貓,25
+26_cave,cave,,, 洞,26
+27_cedartree,cedar tree,,, 杉樹,27
+28_chilly,chilly,,, 涼,28
+29_chinese,Chinese,,, 漢,29
+30_chopsticks,chopsticks,,, 筷子,30
+31_clforanimals,cl. for animals,,, （一）頭（牛）,31
+32_clfforclothes,clf. for clothes,,, 件,32
+33_clfforgeneralobjects,clf. for general objects,,, 個,33
+34_cloth,cloth,,, 布,34
+35_clothes,clothes,,, 衣服,35
+36_cold,cold,,, 冷,36
+37_comb,comb,,, 梳子,37
+38_crow,crow,,, 烏鴉,38
+39_daughterinlaw,daughter-in-law,,, 兒媳,39
+40_day,day,,, （一）天,40
+41_deaf,deaf,,, 聾,41
+42_dew,dew,,, 露水,42
+43_diluted,diluted,,, 稀,43
+44_direction,direction,,, 方向,44
+45_divide,divide,,, 分,45
+46_dragon,dragon,,, 龍,46
+47_drill,drill,,, 鑽子,47
+48_drink,drink,,, 喝,48
+49_drum,drum,,, 鼓,49
+50_drunk,drunk,,, 醉,50
+51_dry,dry,,, 乾,51
+52_dustpan,dustpan,,, 簸箕,52
+53_eagle,eagle,,, 老鷹,53
+54_earofgrain,ear of grain,,, 穗子,54
+55_earth,earth,,, 地,55
+56_egg,egg,,, 蛋,56
+57_eyeblind,"eye, blind",,, 眼睛、盲,57
+58_face,face,,, 臉,58
+59_fan,fan,,, 扇子,59
+60_fatadj,fat (adj.),,, 肥,60
+61_feces,feces,,, 屎,61
+62_feet,feet,,, 腳,62
+63_female,female,,, 雌性,63
+64_femalegenital,female genital,,, 女陰,64
+65_few,few,,, 少,65
+66_field,field,,, 田地,66
+67_finger,finger,,, 指頭,67
+68_fire,fire,,, 火,68
+69_firewood,firewood,,, 柴,69
+70_fish,fish,,, 魚,70
+71_five,five,,, 五,71
+72_flat,flat,,, 平,72
+73_flea,flea,,, 蝨子,73
+74_flowerblossom,flower/blossom,,, 花,74
+75_four,four,,, 四,75
+76_front,front,,, 前面,76
+77_fruit,fruit,,, 果子,77
+78_godghost,"god, ghost",,, 神、鬼,78
+79_good,good,,, 好,79
+80_gourd,gourd,,, 葫蘆,80
+81_granary,granary,,, 倉庫,81
+82_grandson,grandson,,, 孫子,82
+83_green,green,,, 青,83
+84_guest,guest,,, 客人,84
+85_hairs,hairs,,, 頭髮,85
+86_hand,hand,,, 手,86
+87_hard,hard,,, 堅硬,87
+88_have,have,,, 有,88
+89_head,head,,, 頭,89
+90_heart,heart,,, 心,90
+91_heavy,heavy,,, 重,91
+92_help,help,,, 幫,92
+93_hmongic,Hmongic,,, 苗族,93
+94_hornofananimial,horn (of an animial),,, 角,94
+95_house,house,,, 房子,95
+96_hungry,hungry,,, 餓,96
+97_i,I,,, 我,97
+98_inlaw,in-law,,, 親家,98
+99_intestine,intestine,,, 腸子,99
+100_iron,iron,,, 鐵,100
+101_jin,jin,,, 斤,101
+102_kudzu,kudzu,,, 葛,102
+103_leaf,leaf,,, 葉子,103
+104_leftover,left over,,, 剩的,104
+105_lightweighted,light-weighted,,, 輕,105
+106_long,long,,, 長,106
+107_look,look,,, 看,107
+108_male,male,,, 公,108
+109_malegenital,male genital,,, 男生殖器,109
+110_many,many,,, 多,110
+111_meat,meat,,, 肉,111
+112_medicine,medicine,,, 藥,112
+113_middle,middle,,, 中間,113
+114_millet,millet,,, 小米,114
+115_money,money,,, 錢,115
+116_monkey,monkey,,, 猴,116
+117_mosquito,mosquito,,, 蚊子,117
+118_mouse,mouse,,, 鼠,118
+119_mouth,mouth,,, 嘴,119
+120_negativeimperative,negative imperative,,, 禁止,120
+121_nest,nest,,, 窩,121
+122_net,net,,, 網,122
+123_new,new,,, 新,123
+125_night,night,,, 夜,125
+126_nose,nose,,, 鼻子,126
+127_not,not,,, 不,127
+128_now,now,,, 現在,128
+129_oldlady,old lady,,, 老太太,129
+130_one,one,,, 一,130
+131_orange,orange,,, 柑子,131
+132_oxbow,oxbow,,, 牛軛,132
+133_paint,paint,,, 漆,133
+134_person,person,,, 人,134
+135_pheasant,pheasant,,, 野雞,135
+136_pig,pig,,, 豬,136
+137_pro3rdsg,pro-3rd-sg,,, 他,137
+138_radish,radish,,, 蘿蔔,138
+139_rain,rain,,, 雨,139
+140_raw,raw,,, 生,140
+141_rice,rice,,, 穀子,141
+142_riceuncooked,rice (uncooked),,, 秧,142
+143_ricesteamer,rice steamer,,, 甑子,143
+144_ricemeal,"rice, meal",,, 飯,144
+145_rightside,right side,,, 右,145
+146_riped,riped,,, 熟,146
+147_road,road,,, 路,147
+148_rotten,rotten,,, 腐爛,148
+149_round,round,,, 圓,149
+150_saliva,saliva,,, 涎水,150
+151_salt,salt,,, 鹽,151
+152_scale,scale,,, 秤,152
+153_seed,seed,,, 種子,153
+154_sell,sell,,, 賣,154
+155_sharp,sharp,,, 鋒利,155
+156_sheepgoat,"sheep, goat",,, 羊,156
+157_sheng,sheng,,, 升,157
+158_shoe,shoe,,, 鞋,158
+159_short,short,,, 短,159
+160_shy,shy,,, 害羞,160
+161_sickness,sickness,,, 病,161
+162_silkworm,silkworm,,, 蠶,162
+163_silver,silver,,, 銀子,163
+164_similar,similar,,, 像,164
+165_six,six,,, 六,165
+166_skin,skin,,, 皮,166
+167_sky,sky,,, 天,167
+168_sleep,sleep,,, 睡,168
+169_slow,slow,,, 慢,169
+170_small,small,,, 小,170
+171_smoke,smoke,,, 煙,171
+172_snow,snow,,, 雪,172
+173_soft,soft,,, 柔軟,173
+174_some,some,,, 些,174
+175_son,son,,, 兒子,175
+176_soninlaw,son-in-law,,, 女婿,176
+177_song,song,,, 歌,177
+178_sore,sore,,, 毒包、瘡,178
+179_sorghum,sorghum,,, 高粱,179
+180_sound,sound,,, 聲音,180
+181_sour,sour,,, 酸,181
+182_soybean,soy bean,,, 豆,182
+183_sparrow,sparrow,,, 喜鵲,183
+184_spider,spider,,, 蜘蛛,184
+185_stonebone,"stone, bone",,, 石頭、骨頭,185
+186_straight,straight,,, 直,186
+187_sun,sun,,, 太陽,187
+188_swollen,swollen,,, 腫,188
+189_tael,tael,,, 兩,189
+190_ten,ten,,, 十,190
+191_thick,thick,,, 厚,191
+192_thickliquid,thick (liquid),,, 濃,192
+193_thinthick,thin (<> thick),,, 薄,193
+194_thorn,thorn,,, 刺兒,194
+195_thread,thread,,, 綫,195
+196_three,three,,, 三,196
+197_thundertosound,"thunder, to sound",,, 雷、響,197
+198_tiger,tiger,,, 老虎,198
+199_toanswer,to answer,,, 答應,199
+200_toarrive,to arrive,,, 到,200
+201_toasktotell,"to ask, to tell",,, 問、告訴,201
+202_tobeableto,to be able to,,, 會,202
+203_tobewillingto,to be willing to,,, 肯,203
+204_tobecome,to become,,, 變成,204
+205_tobeg,to beg,,, 乞討,205
+206_tobelongtoachinesezodiac,to belong to a Chinese zodiac,,, 屬（豬）,206
+207_tobite,to bite,,, 咬、吃,207
+208_toblink,to blink,,, 眨,208
+209_toblock,to block,,, 堵塞,209
+210_toblow,to blow,,, 吹,210
+211_toboil,to boil,,, 煮,211
+212_tobreakfromthemiddle,to break (from the middle),,, 斷,212
+213_tobrokeinthemiddle,to broke in the middle,,, 破、斷,213
+215_toburn,to burn,,, 燒,215
+216_tocarry,to carry,,, 搬,216
+217_tocarryontheback,to carry on the back,,, 背 v.,217
+218_tochisel,to chisel,,, 鑿,218
+219_tochop,to chop,,, 剁,219
+220_tocomb,to comb,,, 梳,220
+221_tocompel,to compel,,, 逼,221
+222_toconnect,to connect,,, 連接,222
+223_tocontain,to contain,,, 裝,223
+224_tocough,to cough,,, 咳嗽,224
+225_tocoverup,to cover up,,, 蓋上,225
+226_tocrawl,to crawl,,, 爬、上,226
+227_tocrow,to crow,,, 啼,227
+228_tocry,to cry,,, 哭,228
+229_tocutwithasaw,to cut with a saw,,, 鋸,229
+230_tocutwithknife,to cut with knife,,, 割,230
+231_todie,to die,,, 死,231
+232_todo,to do,,, 做,232
+233_todream,to dream,,, 夢,233
+234_todrip,to drip,,, 撒、滴,234
+235_todriveaway,to drive away,,, 趕,235
+236_toeat,to eat,,, 吃,236
+237_toescape,to escape,,, 逃,237
+238_toexchange,to exchange,,, 交換,238
+239_toexit,to exit,,, 出,239
+240_toexposeundersun,to expose under sun,,, 曬,240
+241_tofear,to fear,,, 怕,241
+243_tofeed,to feed,,, 飼養,243
+244_toflipover,to flip over,,, 翻過來,244
+245_tofloat,to float,,, 浮,245
+246_tofly,to fly,,, 飛,246
+247_toforget,to forget,,, 忘記,247
+248_tofry,to fry,,, 油炸,248
+249_toget,to get,,, 得到,249
+250_togivetofeed,"to give, to feed",,, 給、送、餵,250
+251_togopass,to go pass,,, 過 v.,251
+252_togrip,to grip,,, 握,252
+253_togrow,to grow,,, 生長,253
+254_togrowfruit,to grow fruit,,, 結（果子）,254
+255_togrowup,to grow up,,, 長大,255
+256_tohang,to hang,,, 掛,256
+257_tohear,to hear,,, 聽見,257
+258_toholdacrutch,to hold a crutch,,, 拄,258
+259_toinfect,to infect,,, 傳染,259
+260_toitch,to itch,,, 癢,260
+261_tolaugh,to laugh,,, 笑,261
+262_tolayegg,to lay (egg),,, 下（蛋）,262
+263_tolearn,to learn,,, 學,263
+264_tolend,to lend,,, 借出,264
+265_tolendout,to lend out,,, 借出,265
+266_tolick,to lick,,, 舔,266
+267_toliedowntoloweroneshead,"to lie down, to lower one's head",,, 低頭、躺,267
+268_tolieononesbelly,to lie on one's belly,,, 趴著、孵 ༴ 'to lie down',268
+269_tolightup,to light up,,, 點燃,269
+270_tolove,to love,,, 愛,270
+271_tomarryreceive,to marry (receive),,, 娶、取,271
+272_tomeasure,to measure,,, 量,272
+273_toneedtoowe,"to need, to owe",,, 需要、欠,273
+274_tooffertogod,to offer (to god),,, 敬,274
+275_toopen,to open,,, 打開,275
+276_topaste,to paste,,, 貼,276
+277_topermeate,to permeate,,, 滲入,277
+278_topestle,to pestle,,, 碓,278
+279_topickflower,to pick (flower),,, 摘,279
+280_topickup,to pick up,,, 撿,280
+281_toplanttostickin,"to plant, to stick in",,, 插、栽,281
+282_topound,to pound,,, 舂,282
+283_topress,to press,,, 壓,283
+284_topuke,to puke,,, 嘔吐,284
+285_topull,to pull,,, 拔,285
+286_torain,to rain,,, 下（雨）,286
+287_torelease,to release,,, 放,287
+288_torest,to rest,,, 休息,288
+289_torisewater,to rise (water),,, 漲,289
+290_toroast,to roast,,, 烤,290
+291_toroll,to roll,,, 滾,291
+292_toscrape,to scrape,,, 刮,292
+293_tosee,to see,,, 看見,293
+294_tosendaway,to send away,,, 送（走）,294
+295_tosew,to sew,,, 縫,295
+296_tosit,to sit,,, 坐,296
+297_tosnow,to snow,,, 下（雪）,297
+298_tosoak,to soak,,, 浸泡,298
+299_tosplit,to split,,, 劈,299
+300_tospreadout,to spread out,,, 鋪開,300
+301_tosquat,to squat,,, 蹲,301
+302_tostand,to stand,,, 站,302
+303_tosteal,to steal,,, 偷,303
+304_tosteam,to steam,,, 蒸,304
+305_tostepon,to step on,,, 踩,305
+306_tostink,to stink,,, 臭,306
+307_tostoreup,to store up,,, 收藏,307
+308_toswallow,to swallow,,, 吞,308
+309_tosweep,to sweep,,, 掃,309
+310_toswing,to swing,,, 甩,310
+311_tothink,to think,,, 想,311
+312_tothrow,to throw,,, 扔,312
+313_totietogether,to tie together,,, 捆,313
+314_totieup,to tie up,,, 綁,314
+315_totouch,to touch,,, 摸,315
+316_tounderstandtoknow,"to understand, to know",,, 知道,316
+317_towait,to wait,,, 等待,317
+318_towalk,to walk,,, 走,318
+320_towash,to wash,,, 淘洗,320
+321_towateraplant,to water (a plant),,, 澆,321
+322_towear,to wear,,, 穿,322
+323_toweave,to weave,,, 織,323
+324_towipe,to wipe,,, 擦,324
+325_towrap,to wrap,,, 包,325
+326_towrite,to write,,, 寫,326
+327_tongue,tongue,,, 舌頭,327
+328_tooth,tooth,,, 牙,328
+329_tujia,Tujia,,, 土家,329
+330_two,two,,, 二,330
+331_twodayslater,two (days) later,,, 後天,331
+332_urine,urine,,, 尿,332
+333_vegetable,vegetable,,, 蔬菜,333
+334_village,village,,, 村莊,334
+335_water,water,,, 水,335
+336_we,we,,, 咱們,336
+337_what,what,,, 什麼,337
+338_white,white,,, 白,338
+339_who,who,,, 誰,339
+340_wildcat,wild cat,,, 野貓,340
+341_wind,wind,,, 風,341
+342_wine,wine,,, 酒,342
+343_wok,wok,,, 鍋,343
+344_writtenword,written word,,, 字,344
+345_yall,y'all,,, 你們,345
+346_year,year,,, 年,346
+347_yesterday,yesterday,,, 昨天,347
+348_you,you,,, 你,348
+349_youngerbrother,younger brother,,, 弟弟,349

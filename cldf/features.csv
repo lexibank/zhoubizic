@@ -1,0 +1,72 @@
+ID,Name,Description,CLTS_ID,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Prosody
+0070_i,p,voiceless bilabial stop consonant,,p,voiceless bilabial stop consonant,p,i
+0070-02b0_i,pʰ,aspirated voiceless bilabial stop consonant,,pʰ,aspirated voiceless bilabial stop consonant,pʰ,i
+0074_i,t,voiceless alveolar stop consonant,,t,voiceless alveolar stop consonant,t,i
+0074-02b0_i,tʰ,aspirated voiceless alveolar stop consonant,,tʰ,aspirated voiceless alveolar stop consonant,tʰ,i
+006b_i,k,voiceless velar stop consonant,,k,voiceless velar stop consonant,k,i
+006b-02b0_i,kʰ,aspirated voiceless velar stop consonant,,kʰ,aspirated voiceless velar stop consonant,kʰ,i
+0294_i,ʔ,voiceless glottal stop consonant,,ʔ,voiceless glottal stop consonant,ʔ,i
+02a6_i,ʦ,voiceless alveolar sibilant affricate consonant,,ts,voiceless alveolar sibilant affricate consonant,ts,i
+02a6-02b0_i,ʦʰ,aspirated voiceless alveolar sibilant affricate consonant,,tsʰ,aspirated voiceless alveolar sibilant affricate consonant,tsʰ,i
+02a8_i,ʨ,voiceless alveolo-palatal sibilant affricate consonant,,tɕ,voiceless alveolo-palatal sibilant affricate consonant,tɕ,i
+02a8-02b0_i,ʨʰ,aspirated voiceless alveolo-palatal sibilant affricate consonant,,tɕʰ,aspirated voiceless alveolo-palatal sibilant affricate consonant,tɕʰ,i
+0073_i,s,voiceless alveolar sibilant fricative consonant,,s,voiceless alveolar sibilant fricative consonant,s,i
+007a_i,z,voiced alveolar sibilant fricative consonant,,z,voiced alveolar sibilant fricative consonant,z,i
+0255_i,ɕ,voiceless alveolo-palatal sibilant fricative consonant,,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ,i
+0291_i,ʑ,voiced alveolo-palatal sibilant fricative consonant,,ʑ,voiced alveolo-palatal sibilant fricative consonant,ʑ,i
+0078_i,x,voiceless velar fricative consonant,,x,voiceless velar fricative consonant,x,i
+0263_i,ɣ,voiced velar fricative consonant,,ɣ,voiced velar fricative consonant,ɣ,i
+006d_i,m,voiced bilabial nasal consonant,,m,voiced bilabial nasal consonant,m,i
+0077_i,w,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,w,i
+006c_i,l,voiced alveolar lateral approximant consonant,,l,voiced alveolar lateral approximant consonant,l,i
+0235_i,ȵ,voiced alveolo-palatal nasal consonant,,ȵ,voiced alveolo-palatal nasal consonant,ȵ,i
+006a_i,j,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,j,i
+014b_i,ŋ,voiced velar nasal consonant,,ŋ,voiced velar nasal consonant,ŋ,i
+0069_n,i,unrounded close front vowel,,i,unrounded close front vowel,i,n
+0264_n,ɤ,unrounded close-mid back vowel,,ɤ,unrounded close-mid back vowel,ɤ,n
+0061_n,a,unrounded open front vowel,,a,unrounded open front vowel,a,n
+0254_n,ɔ,rounded open-mid back vowel,,ɔ,rounded open-mid back vowel,ɔ,n
+0075_n,u,rounded close back vowel,,u,rounded close back vowel,u,n
+0061-0069_n,ai,from unrounded open front to unrounded close front diphthong,,ai,from unrounded open front to unrounded close front diphthong,ai,n
+0065-0069_n,ei,from unrounded close-mid front to unrounded close front diphthong,,ei,from unrounded close-mid front to unrounded close front diphthong,ei,n
+0061-0075_n,au,from unrounded open front to rounded close back diphthong,,au,from unrounded open front to rounded close back diphthong,au,n
+006f-0075_n,ou,from rounded close-mid back to rounded close back diphthong,,ou,from rounded close-mid back to rounded close back diphthong,ou,n
+0129_n,ĩ,nasalized unrounded close front vowel,,ĩ,nasalized unrounded close front vowel,ĩ,n
+025b-0303_n,ɛ̃,nasalized unrounded open-mid front vowel,,ɛ̃,nasalized unrounded open-mid front vowel,ɛ̃,n
+00e3_n,ã,nasalized unrounded open front vowel,,ã,nasalized unrounded open front vowel,ã,n
+0254-0303_n,ɔ̃,nasalized rounded open-mid back vowel,,ɔ̃,nasalized rounded open-mid back vowel,ɔ̃,n
+0069-025b_m,iɛ,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-0061_m,ia,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-0075_m,iu,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-0061-0075_m,iau,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-006f-0075_m,iou,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-025b-0303_m,iɛ̃,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-0254-0303_m,iɔ̃,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0075-0061_m,ua,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+0075-0254_m,uɔ,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+0075-0061-0069_m,uai,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+0075-0065-0069_m,uei,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+0075-025b-0303_m,uɛ̃,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+0075-00e3_m,uã,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+2075-2075_t,⁵⁵,flat from-high to-high tone,,⁵⁵,flat from-high to-high tone,⁵⁵,t
+00b2-2074_t,²⁴,rising from-mid-low to-mid-high tone,,²⁴,rising from-mid-low to-mid-high tone,²⁴,t
+00b3-2075_t,³⁵,rising from-mid to-high tone,,³⁵,rising from-mid to-high tone,³⁵,t
+00b2-00b9_t,²¹,falling from-mid-low to-low tone,,²¹,falling from-mid-low to-low tone,²¹,t
+2075-00b9_t,⁵¹,falling from-high to-low tone,,⁵¹,falling from-high to-low tone,⁵¹,t
+2075-00b3_t,⁵³,falling from-high to-mid tone,,⁵³,falling from-high to-mid tone,⁵³,t
+006e_i,n,voiced alveolar nasal consonant,,n,voiced alveolar nasal consonant,n,i
+0065_n,e,unrounded close-mid front vowel,,e,unrounded close-mid front vowel,e,n
+025b_n,ɛ,unrounded open-mid front vowel,,ɛ,unrounded open-mid front vowel,ɛ,n
+006f_n,o,rounded close-mid back vowel,,o,rounded close-mid back vowel,o,n
+1ebd_n,ẽ,nasalized unrounded close-mid front vowel,,ẽ,nasalized unrounded close-mid front vowel,ẽ,n
+00f5_n,õ,nasalized rounded close-mid back vowel,,õ,nasalized rounded close-mid back vowel,õ,n
+0069-0065_m,ie,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-0254_m,iɔ,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+0069-00e3_m,iã,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,i/j,m
+026f-0065_m,ɯe,voiced velar approximant consonant,,ɰ,voiced velar approximant consonant,ɯ/ɰ,m
+026f-0259_m,ɯə,voiced velar approximant consonant,,ɰ,voiced velar approximant consonant,ɯ/ɰ,m
+0075-0069_m,ui,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+0075-025b_m,uɛ,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,u/w,m
+00b3-00b3_t,³³,flat from-mid to-mid tone,,³³,flat from-mid to-mid tone,³³,t
+2075-2074_t,⁵⁴,falling from-high to-mid-high tone,,⁵⁴,falling from-high to-mid-high tone,⁵⁴,t
+00b3-00b9_t,³¹,falling from-mid to-low tone,,³¹,falling from-mid to-low tone,³¹,t

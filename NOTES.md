@@ -1,0 +1,1 @@
+This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin is still vividly discussed among scholars. We have slightly modified the IPA representation and added morphological segmentation markers to the data as well.

@@ -10,6 +10,7 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Allen's \"Bai Dialect Survey\" from 2007",
     "dcat:accessURL": "https://github.com/lexibank/zhoubizic",
     "prov:wasDerivedFrom": [
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/zhoubizic",
-            "dc:created": "f1d3d53"
+            "dc:created": "74ab78a"
         },
         {
             "rdf:type": "prov:Entity",

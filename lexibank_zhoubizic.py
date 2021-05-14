@@ -1,7 +1,7 @@
 import attr
 from pathlib import Path
 
-from pylexibank import Concept, Language
+from pylexibank import Concept, Language, Cognate
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
@@ -16,6 +16,11 @@ import lingpy
 from clldutils.misc import slug
 from unicodedata import normalize
 
+
+@attr.s
+class CustomCognate(Concept):
+    Morpheme_Index = attr.ib(default=None)
+    
 
 @attr.s
 class CustomConcept(Concept):
@@ -39,7 +44,7 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
 
     def cmd_download(self, **kw):
-        self.raw_dir.write("sources.bib", getEvoBibAsBibtex("Allen2007", **kw))
+        pass
 
     def cldf_specs(self):
         return {
@@ -56,6 +61,7 @@ class Dataset(BaseDataset):
         with self.cldf_writer(args) as writer:
             wl = lingpy.Wordlist(self.raw_dir.joinpath("wordlist.tsv").as_posix())
             writer.add_sources()
+            D = {}
 
             # TODO: add concepts with `add_concepts`
             concepts = {}
@@ -71,22 +77,19 @@ class Dataset(BaseDataset):
                 )
                 concepts[concept["ENGLISH"]] = idx
             languages = writer.add_languages(lookup_factory="Name_in_Source")
-            wl.renumber("cog")
             for k in progressbar(wl, desc="wl-to-cldf"):
                 if wl[k, "value"]:
-                    lexeme = writer.add_form(
+                    lex = writer.add_form(
                         Language_ID=languages[wl[k, "doculect"]],
                         Parameter_ID=concepts[wl[k, "concept"]],
                         Value=wl[k, "value"],
+                        Cognacy=wl[k, "cog"],
                         Form=self.lexemes.get(wl[k, "form"], wl[k, "form"]),
-                        Source="Allen2007",
+                        Source="Zhou2020",
                     )
-                    #writer.add_cognate(
-                    #        lexeme=lexeme,
-                    #        Cognateset_ID=wl[k, "cogid"],
-                    #        Source=["Zhou2020"]
-                    #        )
+                        
             language_table = writer.cldf['LanguageTable']
+        print('hier')
 
         with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:
             cltstable = Terms()["cltsReference"].to_column().asdict()
@@ -118,7 +121,6 @@ class Dataset(BaseDataset):
 
             clts = CLTS(args.clts.dir)
             bipa = clts.transcriptionsystem_dict['bipa']
-            #td = clts.transcriptiondata_dict['zhoubizic']
             pids, visited = {}, set()
             for row in progressbar(inventories, desc='inventories'):
                 for s1, s2, p in zip(
@@ -130,10 +132,6 @@ class Dataset(BaseDataset):
                         str(hex(ord(s)))[2:].rjust(4, '0') for s in
                         row['Value']])+'_'+p
                     s1 = normalize("NFD", s1)
-                    #if not s1 in td.grapheme_map:
-                    #    args.log.warn('missing sound {0} / {1}'.format(
-                    #        s1, ' '.join([str(hex(ord(x))) for x in s1])))
-                    #else:
                     sound = bipa[s2]
                     sound_name = sound.name if sound.type not in [
                         'unknown', 'marker'] else ''

@@ -347,10 +347,8 @@
             }
         },
         "Cebu": {
-            "bipa_errors": [
-                "*\u026f"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -635,11 +633,8 @@
                     "\u2075\u2075"
                 ]
             },
-            "sclass_errors": [
-                "*\u026f"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "*\u026f": 1,
                 "+": 165,
                 "a": 87,
                 "ai": 1,
@@ -690,7 +685,7 @@
                 "\u0263": 15,
                 "\u0268": 13,
                 "\u0268e": 10,
-                "\u026f": 38,
+                "\u026f": 39,
                 "\u026f/\u0270": 2,
                 "\u027f": 8,
                 "\u0294": 34,
@@ -2398,23 +2393,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Cebu-345_yall-1",
-                "Cebu",
-                "345_yall",
-                "\u026f\u00b2\u00b9 \u0255i\u00b2\u00b9",
-                "<s> *\u026f </s> \u00b2\u00b9 + \u0255 i \u00b2\u00b9"
-            ]
-        ],
-        "bad_words_count": 1,
-        "bipa_errors": [
-            "*\u026f"
-        ],
-        "general_errors": 1,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 50.71428571428571,
+        "inventory_size": 50.57142857142856,
         "replacements": {
             "+": [
                 "+"
@@ -2699,11 +2684,8 @@
                 "\u2075\u2075"
             ]
         },
-        "sclass_errors": [
-            "*\u026f"
-        ],
+        "sclass_errors": [],
         "segments": {
-            "*\u026f": 1,
             "+": 909,
             "C/c": 39,
             "a": 525,
@@ -2779,7 +2761,7 @@
             "\u0264i": 2,
             "\u0268": 23,
             "\u0268e": 10,
-            "\u026f": 106,
+            "\u026f": 107,
             "\u026f/\u0270": 31,
             "\u026f\u025b": 5,
             "\u0279": 17,

@@ -23,8 +23,8 @@ This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin 
 ![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 7
 - **Concepts:** 346
@@ -33,8 +33,8 @@ This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin 
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
 - **Tokens:** 9,699
-- **Segments:** 95 (1 BIPA errors, 1 CTLS sound class errors, 94 CLTS modified)
-- **Inventory size (avg):** 50.71
+- **Segments:** 94 (0 BIPA errors, 0 CTLS sound class errors, 94 CLTS modified)
+- **Inventory size (avg):** 50.57
 
 # Contributors
 

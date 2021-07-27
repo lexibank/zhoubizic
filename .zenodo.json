@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Allen's \"Bai Dialect Survey\" from 2007",
+    "title": "CLDF dataset derived from Zhou's \"Proto-Bizic\" from 2020",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -7,7 +7,7 @@
     ],
     "creators": [
         {
-            "name": "Bryan Allen"
+            "name": "Zhou, Yulou"
         }
     ],
     "contributors": [
@@ -16,7 +16,7 @@
             "type": "Other"
         },
         {
-            "name": "Bryan Allen",
+            "name": "Zhou, Yulou",
             "type": "DataCollector"
         }
     ],
@@ -26,7 +26,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Allen, Bryan (2007): Bai Dialect Survey. Dallas: SIL International.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zhou, Yulou (2020): Proto-Bizic. A study of Tujia historical phonology. Bachelor Thesis. Stanford University.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

@@ -1,24 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Allen, Bryan (2007): Bai Dialect Survey. Dallas: SIL International.",
+    "dc:bibliographicCitation": "Zhou, Yulou (2020): Proto-Bizic. A study of Tujia historical phonology. Bachelor Thesis. Stanford University.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": [
-        "http://concepticon.clld.org/contributions/Allen-2007-500"
-    ],
-    "dc:identifier": "http://www.sil.org/resources/publications/entry/9121",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Allen's \"Bai Dialect Survey\" from 2007",
+    "dc:title": "CLDF dataset derived from Zhou's \"Proto-Bizic\" from 2020",
     "dcat:accessURL": "https://github.com/lexibank/zhoubizic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/zhoubizic",
-            "dc:created": "abe692e"
+            "dc:created": "b3b1593"
         },
         {
             "rdf:type": "prov:Entity",

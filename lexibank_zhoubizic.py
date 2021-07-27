@@ -72,8 +72,8 @@ class Dataset(BaseDataset):
                     Name=concept['ENGLISH'],
                     Chinese_Gloss=concept["CHINESE"],
                     Number=concept['NUMBER'],
-                    #Concepticon_ID=concept.concepticon_id,
-                    #Concepticon_Gloss=concept.concepticon_gloss,
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                 )
                 concepts[concept["ENGLISH"]] = idx
             languages = writer.add_languages(lookup_factory="Name_in_Source")
@@ -89,7 +89,6 @@ class Dataset(BaseDataset):
                     )
                         
             language_table = writer.cldf['LanguageTable']
-        print('hier')
 
         with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:
             cltstable = Terms()["cltsReference"].to_column().asdict()

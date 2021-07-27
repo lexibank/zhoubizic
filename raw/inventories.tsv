@@ -1,109 +1,369 @@
-p	p	TS
-pʰ	pʰ	TS
-t	t	TS
-tʰ	tʰ	TS
-k	k	TS
-kʰ	kʰ	TS
-ʔ	ʔ	TS
-ʦ	ts	TS
-ʦʰ	tsʰ	TS
-ʨ	tɕ	TS
-ʨʰ	tɕʰ	TS
-s	s	TS
-z	z	TS
-ɕ	ɕ	TS
-ʑ	ʑ	TS
-x	x	TS
-ɣ	ɣ	TS
-m	m	TS
-w	w	TS
-l	l	TS
-ȵ	ȵ	TS
-j	j	TS
-ŋ	ŋ	TS
-i	i	TS
-ɤ	ɤ	TS
-a	a	TS
-ɔ	ɔ	TS
-u	u	TS
-ai	ai	TS
-ei	ei	TS
-au	au	TS
-ou	ou	TS
-ĩ	ĩ	TS
-ɛ̃	ɛ̃	TS
-ã	ã	TS
-ɔ̃	ɔ̃	TS
-iɛ	i/j ɛ	TS
-ia	i/j a	TS
-iu	i/j u	TS
-iau	i/j au	TS
-iou	i/j ou	TS
-iɛ̃	i/j ɛ̃	TS
-iɔ̃	i/j ɔ̃	TS
-ua	u/w a	TS
-uɔ	u/w ɔ	TS
-uai	u/w ai	TS
-uei	u/w ei	TS
-uɛ̃	u/w ɛ̃	TS
-uã	u/w ã	TS
-⁵⁵	⁵⁵	TS
-²⁴	²⁴	TS
-³⁵	³⁵	TS
-²¹	²¹	TS
-⁵¹	⁵¹	TS
-⁵³	⁵³	TS
-p	p	XR
-pʰ	pʰ	XR
-t	t	XR
-tʰ	tʰ	XR
-k	k	XR
-kʰ	kʰ	XR
-ʦ	ts	XR
-ʦʰ	tsʰ	XR
-ʨ	tɕ	XR
-ʨʰ	tɕʰ	XR
-s	s	XR
-z	z	XR
-ɕ	ɕ	XR
-ʑ	ʑ	XR
-x	x	XR
-ɣ	ɣ	XR
-m	m	XR
-n	n	XR
-ȵ	ȵ	XR
-ŋ	ŋ	XR
-w	w	XR
-l	l	XR
-i	i	XR
-e	e	XR
-ɛ	ɛ	XR
-a	a	XR
-ɔ	ɔ	XR
-o	o	XR
-u	u	XR
-i	i	XR
-ĩ	ĩ	XR
-ẽ	ẽ	XR
-ɛ̃	ɛ̃	XR
-ã	ã	XR
-õ	õ	XR
-iɛ	i/j ɛ	XR
-ie	i/j e	XR
-ia	i/j a	XR
-iɔ	i/j ɔ	XR
-iu	i/j u	XR
-iɛ̃	i/j ɛ̃	XR
-iã	i/j ã	XR
-ɯe	ɯ/ɰ e	XR
-ɯə	ɯ/ɰ ə	XR
-ɯe	ɯ/ɰ e	XR
-ui	u/w i	XR
-uɛ	u/w ɛ	XR
-ua	u/w a	XR
-uɛ̃	u/w ɛ̃	XR
-⁵⁵	⁵⁵	XR
-³⁵	³⁵	XR
-³³	³³	XR
-⁵⁴	⁵⁴	XR
-³¹	³¹	XR
+Value	Lexibank	Prosody	Language_ID
+p	p	i	TS
+pʰ	pʰ	i	TS
+t	t	i	TS
+tʰ	tʰ	i	TS
+k	k	i	TS
+kʰ	kʰ	i	TS
+ʔ	ʔ	i	TS
+ʦ	ts	i	TS
+ʦʰ	tsʰ	i	TS
+ʨ	tɕ	i	TS
+ʨʰ	tɕʰ	i	TS
+s	s	i	TS
+z	z	i	TS
+ɕ	ɕ	i	TS
+ʑ	ʑ	i	TS
+x	x	i	TS
+ɣ	ɣ	i	TS
+m	m	i	TS
+w	w	i	TS
+l	l	i	TS
+ȵ	ȵ	i	TS
+j	j	i	TS
+ŋ	ŋ	i	TS
+i	i	n	TS
+ɤ	ɤ	n	TS
+a	a	n	TS
+ɔ	ɔ	n	TS
+u	u	n	TS
+ai	ai	n	TS
+ei	ei	n	TS
+au	au	n	TS
+ou	ou	n	TS
+ĩ	ĩ	n	TS
+ɛ̃	ɛ̃	n	TS
+ã	ã	n	TS
+ɔ̃	ɔ̃	n	TS
+iɛ	i/j ɛ	m n	TS
+ia	i/j a	m n	TS
+iu	i/j u	m n	TS
+iau	i/j au	m n	TS
+iou	i/j ou	m n	TS
+iɛ̃	i/j ɛ̃	m n	TS
+iɔ̃	i/j ɔ̃	m n	TS
+ua	u/w a	m n	TS
+uɔ	u/w ɔ	m n	TS
+uai	u/w ai	m n	TS
+uei	u/w ei	m n	TS
+uɛ̃	u/w ɛ̃	m n	TS
+uã	u/w ã	m n	TS
+⁵⁵	⁵⁵	t	TS
+²⁴	²⁴	t	TS
+³⁵	³⁵	t	TS
+²¹	²¹	t	TS
+⁵¹	⁵¹	t	TS
+⁵³	⁵³	t	TS
+p	p	i	XR
+pʰ	pʰ	i	XR
+t	t	i	XR
+tʰ	tʰ	i	XR
+k	k	i	XR
+kʰ	kʰ	i	XR
+ʦ	ts	i	XR
+ʦʰ	tsʰ	i	XR
+ʨ	tɕ	i	XR
+ʨʰ	tɕʰ	i	XR
+s	s	i	XR
+z	z	i	XR
+ɕ	ɕ	i	XR
+ʑ	ʑ	i	XR
+x	x	i	XR
+ɣ	ɣ	i	XR
+m	m	i	XR
+n	n	i	XR
+ȵ	ȵ	i	XR
+ŋ	ŋ	i	XR
+w	w	i	XR
+l	l	i	XR
+i	i	n	XR
+e	e	n	XR
+ɛ	ɛ	n	XR
+a	a	n	XR
+ɔ	ɔ	n	XR
+o	o	n	XR
+u	u	n	XR
+i	i	n	XR
+ĩ	ĩ	n	XR
+ẽ	ẽ	n	XR
+ɛ̃	ɛ̃	n	XR
+ã	ã	n	XR
+õ	õ	n	XR
+iɛ	i/j ɛ	m n	XR
+ie	i/j e	m n	XR
+ia	i/j a	m n	XR
+iɔ	i/j ɔ	m n	XR
+iu	i/j u	m n	XR
+iɛ̃	i/j ɛ̃	m n	XR
+iã	i/j ã	m n	XR
+ɯe	ɯ/ɰ e	m n	XR
+ɯə	ɯ/ɰ ə	m n	XR
+ɯe	ɯ/ɰ e	m n	XR
+ui	u/w i	m n	XR
+uɛ	u/w ɛ	m n	XR
+ua	u/w a	m n	XR
+uɛ̃	u/w ɛ̃	m n	XR
+⁵⁵	⁵⁵	t	XR
+³⁵	³⁵	t	XR
+³³	³³	t	XR
+⁵⁴	⁵⁴	t	XR
+³¹	³¹	t	XR
+p	p	i	XL
+pʰ	pʰ	i	XL
+b	b	i	XL
+t	t	i	XL
+tʰ	tʰ	i	XL
+d	d	i	XL
+k	kʰ	i	XL
+kʰ	kʰ	i	XL
+g	g	i	XL
+ʔ	ʔ	i	XL
+ts	ts	i	XL
+tsʰ	tsʰ	i	XL
+dz	dz	i	XL
+tɕ	tɕ	i	XL
+tɕʰ	tɕʰ	i	XL
+dz	dz	i	XL
+m	m	i	XL
+n	n	i	XL
+ȵ	ȵ	i	XL
+ŋ	ŋ	i	XL
+w	w	i	XL
+l	l	i	XL
+j	j	i	XL
+i	i	n	XL
+e	e	n	XL
+ə	ə	n	XL
+a	a	n	XL
+o	o	n	XL
+u	u	n	XL
+ei	ei	n	XL
+ai	ai	n	XL
+əu	əu	n	XL
+au	au	n	XL
+ẽ	ẽ	n	XL
+ã	ã	n	XL
+en	e n	n c	XL
+an	a n	n c	XL
+uŋ	u ŋ	n c	XL
+ie	i/j e	m n	XL
+iə	i/j ə	m n	XL
+ia	i/j a	m n	XL
+io	i/j o	m n	XL
+iu	i/j u	m n	XL
+iau	i/j au	m n	XL
+iɛ̃	i/j ɛ̃	m n	XL
+iã	i/j ã	m n	XL
+in	i/j n	m n	XL
+ian	i/j a n	m n c	XL
+iuŋ	i/j u ŋ	m n c	XL
+ɯe	ɯ/ɰ e	m n	XL
+ue	u/w e	m n	XL
+ua	u/w a	m n	XL
+ui	u/w i	m n	XL
+uai	u/w ai	m n	XL
+uɛ̃	u/w ɛ̃	m n	XL
+uã	u/w ã	m n	XL
+un	u n	m n	XL
+uan	u/w a n	m n c	XL
+⁵⁵	⁵⁵	t	XL
+³⁵	³⁵	t	XL
+²¹	²¹	t	XL
+⁵³	⁵³	t	XL
+p	p	i	CB
+pʰ	pʰ	i	CB
+b	b	i	CB
+t	t	i	CB
+tʰ	tʰ	i	CB
+d	d	i	CB
+k	k	i	CB
+kʰ	kʰ	i	CB
+g	g	i	CB
+ts	ts	i	CB
+tsʰ	tsʰ	i	CB
+dz	dz	i	CB
+tɕ	tɕ	i	CB
+tɕʰ	tɕʰ	i	CB
+dʑ	dʑ	i	CB
+f	f	i	CB
+s	s	i	CB
+z	z	i	CB
+ɕ	ɕ	i	CB
+x	x	i	CB
+ɣ	ɣ	i	CB
+ħ	ħ	i	CB
+ʕ	ʕ	i	CB
+m	m	i	CB
+n	n	i	CB
+ɲ	ɲ	i	CB
+ŋ	ŋ	i	CB
+ʔ	ʔ	i	CB
+w	w	i	CB
+l	l	i	CB
+j	j	i	CB
+⁵⁵	⁵⁵	t	CB
+³³	³³	t	CB
+³⁵	³⁵	t	CB
+²¹	²¹	t	CB
+¹³	¹³	t	CB
+i	i	n	CB
+ɨ	ɨ	n	CB
+e	e	n	CB
+a	a	n	CB
+o	o	n	CB
+ɯ	ɯ	n	CB
+u	u	n	CB
+ei	ei	n	CB
+ai	ai	n	CB
+au	au	n	CB
+ɨ̃	ɨ̃	n	CB
+ẽ	ẽ	n	CB
+ã	ã	n	CB
+æ̃	æ̃	n	CB
+ũ	ũ	n	CB
+ie	i/j e	m n	CB
+ia	i/j a	m n	CB
+io	i/j o	m n	CB
+iɯ	i/j ɯ	m n	CB
+iu	i/j u	m n	CB
+iau	i/j au	m n	CB
+iã	i/j ã	m n	CB
+iæ̃	i/j æ̃	m n	CB
+iõ	i/j õ	m n	CB
+ɨe	ɨe	n	CB
+ue	u/w e	m n	CB
+ua	u/w a	m n	CB
+uei	u/w ei	m n	CB
+uai	u/w ai	m n	CB
+uẽ	u/w ẽ	m n	CB
+uã	u/w ã	m n	CB
+ye	y/ɥ e	m n	CB
+yĩ	y/ɥ ĩ	m n	CB
+ỹ	ỹ	n	CB
+yœ̃	y/ɥ œ̃	m n	CB
+p	p	i	CJ
+pʰ	pʰ	i	CJ
+b	b	i	CJ
+t	t	i	CJ
+tʰ	tʰ	i	CJ
+d	d	i	CJ
+k	k	i	CJ
+kʰ	kʰ	i	CJ
+g	g	i	CJ
+ts	ts	i	CJ
+tsʰ	tsʰ	i	CJ
+dz	dz	i	CJ
+tɕ	tɕ	i	CJ
+tɕʰ	tɕʰ	i	CJ
+dʑ	dʑ	i	CJ
+f	f	i	CJ
+s	s	i	CJ
+z	z	i	CJ
+ɕ	ɕ	i	CJ
+x	x	i	CJ
+ɣ	ɣ	i	CJ
+ħ	ħ	i	CJ
+ʕ	ʕ	i	CJ
+m	m	i	CJ
+n	n	i	CJ
+ɲ	ɲ	i	CJ
+ŋ	ŋ	i	CJ
+ʔ	ʔ	i	CJ
+w	w	i	CJ
+l	l	i	CJ
+j	j	i	CJ
+⁵⁵	⁵⁵	t	CJ
+³³	³³	t	CJ
+³⁵	³⁵	t	CJ
+²¹	²¹	t	CJ
+¹³	¹³	t	CJ
+i	i	n	CJ
+ɨ	ɨ	n	CJ
+e	e	n	CJ
+a	a	n	CJ
+o	o	n	CJ
+ɯ	ɯ	n	CJ
+u	u	n	CJ
+ei	ei	n	CJ
+ai	ai	n	CJ
+au	au	n	CJ
+ɨ̃	ɨ̃	n	CJ
+ẽ	ẽ	n	CJ
+ã	ã	n	CJ
+æ̃	æ̃	n	CJ
+ũ	ũ	n	CJ
+ie	i/j e	m n	CJ
+ia	i/j a	m n	CJ
+io	i/j o	m n	CJ
+iɯ	i/j ɯ	m n	CJ
+iu	i/j u	m n	CJ
+iau	i/j au	m n	CJ
+iã	i/j ã	m n	CJ
+iæ̃	i/j æ̃	m n	CJ
+iõ	i/j õ	m n	CJ
+ɨe	ɨe	n	CJ
+ue	u/w e	m n	CJ
+ua	u/w a	m n	CJ
+uei	u/w ei	m n	CJ
+uai	u/w ai	m n	CJ
+uẽ	u/w ẽ	m n	CJ
+uã	u/w ã	m n	CJ
+ye	y/ɥ e	m n	CJ
+yĩ	y/ɥ ĩ	m n	CJ
+ỹ	ỹ	n	CJ
+yœ̃	y/ɥ œ̃	m n	CJ
+p	p	i	FX
+pʰ	pʰ	i	FX
+t	t	i	FX
+tʰ	tʰ	i	FX
+k	k	i	FX
+kʰ	kʰ	i	FX
+ʔ	ʔ	i	FX
+ʦ	ts	i	FX
+ʦʰ	tsʰ	i	FX
+ʨ	tɕ	i	FX
+ʨʰ	tɕʰ	i	FX
+s	s	i	FX
+z	z	i	FX
+ɕ	ɕ	i	FX
+ʑ	ʑ	i	FX
+x	x	i	FX
+ɣ	ɣ	i	FX
+m	m	i	FX
+w	w	i	FX
+l	l	i	FX
+ȵ	ȵ	i	FX
+j	j	i	FX
+ŋ	ŋ	i	FX
+i	i	n	FX
+ɤ	ɤ	n	FX
+a	a	n	FX
+ɔ	ɔ	n	FX
+u	u	n	FX
+ai	ai	n	FX
+ei	ei	n	FX
+au	au	n	FX
+ou	ou	n	FX
+ĩ	ĩ	n	FX
+ɛ̃	ɛ̃	n	FX
+ã	ã	n	FX
+ɔ̃	ɔ̃	n	FX
+iɛ	i/j ɛ	m n	FX
+ia	i/j a	m n	FX
+iu	i/j u	m n	FX
+iau	i/j au	m n	FX
+iou	i/j ou	m n	FX
+iɛ̃	i/j ɛ̃	m n	FX
+iɔ̃	i/j ɔ̃	m n	FX
+ua	u/w a	m n	FX
+uɔ	u/w ɔ	m n	FX
+uai	u/w ai	m n	FX
+uei	u/w ei	m n	FX
+uɛ̃	u/w ɛ̃	m n	FX
+uã	u/w ã	m n	FX
+⁵⁵	⁵⁵	t	FX
+²⁴	²⁴	t	FX
+³⁵	³⁵	t	FX
+²¹	²¹	t	FX
+⁵¹	⁵¹	t	FX
+⁵³	⁵³	t	FX

@@ -3,8 +3,10 @@ import re
 from clldutils.text import strip_brackets
 from collections import defaultdict
 data = csv2list('data.tsv', strip_lines=False)
-D = {0: ['doculect', 'concept', 'concept_in_source', 'chinese', 'value', 'form', 'cogid']}
+D = {0: ['doculect', 'concept', 'concept_in_source', 'chinese', 'value', 'form', 'cog']}
 idx = 1
+form2idx = {}
+proto2idx = {}
 concepts = defaultdict(list)
 for i, row in enumerate(data[1:]):
     print(len(row))
@@ -24,14 +26,35 @@ for i, row in enumerate(data[1:]):
                 else:
                     form = strip_brackets(word)
                 if form:
-                    D[idx] = [lng, egl, gloss, cgl, word, form, cogid]
-                    idx += 1
-                    concepts[cogid, egl, cgl] += [gloss]
+                    if lng == "PBz":
+                        if egl in proto2idx:
+                            D[proto2idx[egl]][-1] += [cogid]
+                            D[proto2idx[egl]][4] += [word]
+                            D[proto2idx[egl]][5] += [form]
+                        else:
+                            D[idx] = [lng, egl, gloss, cgl, [word], [form],
+                                    [cogid]]
+                            proto2idx[egl] = idx
+                            idx += 1
+                    else:
+
+                        if (form, lng, egl) in form2idx:
+                            D[form2idx[form, lng, egl]][-1] += [cogid]
+                        else:
+                            D[idx] = [lng, egl, gloss, cgl, word, form, [cogid]]
+                            form2idx[form, lng, egl] = idx
+                            idx += 1
+                            concepts[egl, cgl] += [gloss]
+
+for idx in D:
+    if isinstance(D[idx][4], list):
+        D[idx][4] = ' / '.join(D[idx][4])
+        D[idx][5] = ' '.join(D[idx][5])
 Wordlist(D).output('tsv', filename='wordlist', ignore='all', prettify=False)
 with open('../etc/concepts.tsv', 'w') as f:
     f.write('\t'.join(['NUMBER', 'ENGLISH', 'CHINESE', 'GLOSSES_IN_SOURCE'])+'\n')
-    for num, egl, cgl in concepts:
-        f.write('\t'.join([num, egl, cgl, ' // '.join(list(
+    for num, (egl, cgl) in enumerate(sorted(concepts, key=lambda x: x[0].lower())):
+        f.write('\t'.join([str(num), egl, cgl, ' // '.join(list(
             set([x for x in concepts[num, egl, cgl] if x])))])+'\n')
                 
         

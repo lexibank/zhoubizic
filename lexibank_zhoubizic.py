@@ -1,13 +1,12 @@
 import attr
 from pathlib import Path
 
-from pylexibank import Concept, Language, Cognate
+from pylexibank import Concept, Language
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
 
 from cldfbench import CLDFSpec
-from csvw import Datatype
 from pyclts import CLTS
 from pycldf.terms import Terms
 
@@ -20,7 +19,7 @@ from unicodedata import normalize
 @attr.s
 class CustomCognate(Concept):
     Morpheme_Index = attr.ib(default=None)
-    
+
 
 @attr.s
 class CustomConcept(Concept):
@@ -30,8 +29,6 @@ class CustomConcept(Concept):
 
 @attr.s
 class CustomLanguage(Language):
-    Latitude = attr.ib(default=None)
-    Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
     Location = attr.ib(default=None)
@@ -49,11 +46,11 @@ class Dataset(BaseDataset):
     def cldf_specs(self):
         return {
             None: BaseDataset.cldf_specs(self),
-            'structure': CLDFSpec(
-                module='StructureDataset',
+            "structure": CLDFSpec(
+                module="StructureDataset",
                 dir=self.cldf_dir,
-                data_fnames={'ParameterTable': 'features.csv'}
-            )
+                data_fnames={"ParameterTable": "features.csv"},
+            ),
         }
 
     def cmd_makecldf(self, args):
@@ -66,12 +63,12 @@ class Dataset(BaseDataset):
             # TODO: add concepts with `add_concepts`
             concepts = {}
             for concept in self.concepts:
-                idx = concept['NUMBER']+ '_'+slug(concept['ENGLISH'])
+                idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
                 writer.add_concept(
                     ID=idx,
-                    Name=concept['ENGLISH'],
+                    Name=concept["ENGLISH"],
                     Chinese_Gloss=concept["CHINESE"],
-                    Number=concept['NUMBER'],
+                    Number=concept["NUMBER"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                 )
@@ -87,69 +84,64 @@ class Dataset(BaseDataset):
                         Form=self.lexemes.get(wl[k, "form"], wl[k, "form"]),
                         Source="Zhou2020",
                     )
-                        
-            language_table = writer.cldf['LanguageTable']
 
-        with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:
+            language_table = writer.cldf["LanguageTable"]
+
+        with self.cldf_writer(args, cldf_spec="structure", clean=False) as writer:
             cltstable = Terms()["cltsReference"].to_column().asdict()
 
             # We share the language table across both CLDF datasets:
             writer.cldf.add_component(language_table)
-            writer.objects['LanguageTable'] = self.languages
+            writer.objects["LanguageTable"] = self.languages
             inventories = self.raw_dir.read_csv(
-                'inventories.tsv', normalize='NFC', delimiter='\t', dicts=True)
+                "inventories.tsv", normalize="NFC", delimiter="\t", dicts=True
+            )
 
             writer.cldf.add_columns(
-                    'ParameterTable',
-                    cltstable,
-                    {'name': 'CLTS_BIPA', 'datatype': 'string'},
-                    {'name': 'CLTS_Name', 'datatype': 'string'},
-                    {
-                        'name': 'Lexibank_BIPA',
-                        'datatype': 'string',
-                    },
-                    {
-                        'name': "Prosody",
-                        "datatype": "string"
-                    }
-                    )
-            writer.cldf.add_columns(
-                    'ValueTable',
-                    {'name': 'Context', 'datatype': 'string'}
-                    )
+                "ParameterTable",
+                cltstable,
+                {"name": "CLTS_BIPA", "datatype": "string"},
+                {"name": "CLTS_Name", "datatype": "string"},
+                {"name": "Lexibank_BIPA", "datatype": "string"},
+                {"name": "Prosody", "datatype": "string"},
+            )
+            writer.cldf.add_columns("ValueTable", {"name": "Context", "datatype": "string"})
 
             clts = CLTS(args.clts.dir)
-            bipa = clts.transcriptionsystem_dict['bipa']
+            bipa = clts.transcriptionsystem_dict["bipa"]
             pids, visited = {}, set()
-            for row in progressbar(inventories, desc='inventories'):
+            for row in progressbar(inventories, desc="inventories"):
                 for s1, s2, p in zip(
-                        row['Value'].split(),
-                        row['Lexibank'].split(),
-                        row['Prosody'].split()
-                        ):
-                    pidx = '-'.join([
-                        str(hex(ord(s)))[2:].rjust(4, '0') for s in
-                        row['Value']])+'_'+p
+                    row["Value"].split(), row["Lexibank"].split(), row["Prosody"].split()
+                ):
+                    pidx = (
+                        "-".join([str(hex(ord(s)))[2:].rjust(4, "0") for s in row["Value"]])
+                        + "_"
+                        + p
+                    )
                     s1 = normalize("NFD", s1)
                     sound = bipa[s2]
-                    sound_name = sound.name if sound.type not in [
-                        'unknown', 'marker'] else ''
+                    sound_name = sound.name if sound.type not in ["unknown", "marker"] else ""
                     if not pidx in visited:
                         visited.add(pidx)
-                        writer.objects['ParameterTable'].append({
-                            'ID': pidx,
-                            'Name': s1,
-                            'Description': sound_name,
-                            'CLTS_BIPA': sound.s,
-                            'CLTS_Name': sound_name,
-                            'Lexibank_BIPA': s2,
-                            'Prosody': p,
-                            })
-                    writer.objects['ValueTable'].append({
-                        'ID': row['Language_ID']+'_'+pidx,
-                        'Language_ID': row['Language_ID'],
-                        'Parameter_ID': pidx,
-                        'Value': s1,
-                        'Context': p,
-                        'Source': ['Zhou2021'],
-                        })
+                        writer.objects["ParameterTable"].append(
+                            {
+                                "ID": pidx,
+                                "Name": s1,
+                                "Description": sound_name,
+                                "CLTS_BIPA": sound.s,
+                                "CLTS_Name": sound_name,
+                                "Lexibank_BIPA": s2,
+                                "Prosody": p,
+                            }
+                        )
+                    writer.objects["ValueTable"].append(
+                        {
+                            "ID": row["Language_ID"] + "_" + pidx,
+                            "Language_ID": row["Language_ID"],
+                            "Parameter_ID": pidx,
+                            "Value": s1,
+                            "Context": p,
+                            "Source": ["Zhou2021"],
+                        }
+                    )

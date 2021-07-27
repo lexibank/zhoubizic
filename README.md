@@ -1,8 +1,16 @@
 # CLDF dataset derived from Zhou's "Proto-Bizic" from 2020
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/zhoubizic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhoubizic/actions?query=workflow%3ACLDF-validation)
 
-> Zhou, Yulou (2020): Proto-Bizic. A study of Tujia historical phonology. Bachelor Thesis. Stanford University.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Zhou, Yulou (2020): Proto-Bizic. A study of Tujia historical phonology. Bachelor Thesis. Stanford University.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -15,6 +23,7 @@ This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin 
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/zhoubizic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhoubizic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -39,3 +48,11 @@ Johann-Mattis List | @LinguList | maintainer | Other
 Zhou, Yulou | | data collector | DataCollector, Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [StructureDataset](https://github.com/cldf/cldf/tree/master/modules/StructureDataset) at [cldf/StructureDataset-metadata.json](cldf/StructureDataset-metadata.json)

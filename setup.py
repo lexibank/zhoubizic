@@ -14,7 +14,7 @@ setup(
     py_modules=["lexibank_zhoubizic"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["zhoubizic=lexibank_allenbai:Dataset"]},
+    entry_points={"lexibank.dataset": ["zhoubizic=lexibank_zhoubizic:Dataset"]},
     install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )

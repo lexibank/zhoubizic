@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/zhoubizic",
             "rdf:type": "prov:Entity",
-            "dc:created": "82cbd4d",
+            "dc:created": "239c4fd",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.4"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",

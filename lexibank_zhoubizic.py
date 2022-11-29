@@ -95,7 +95,6 @@ class Dataset(BaseDataset):
 
             # We share the language table across both CLDF datasets:
             writer.cldf.add_component(language_table)
-            writer.objects['LanguageTable'] = self.languages
             inventories = self.raw_dir.read_csv(
                 'inventories.tsv', normalize='NFC', delimiter='\t', dicts=True)
 

@@ -1,5 +1,7 @@
 # CLDF dataset derived from Zhou's "Proto-Bizic" from 2020
 
+[![CLDF validation](https://github.com/lexibank/zhoubizic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhoubizic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -21,6 +23,7 @@ This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin 
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/zhoubizic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhoubizic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

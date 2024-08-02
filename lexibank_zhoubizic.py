@@ -86,7 +86,7 @@ class Dataset(BaseDataset):
         with self.cldf_writer(args, cldf_spec="structure", clean=False) as writer:
             cltstable = Terms()["cltsReference"].to_column().asdict()
 
-            # We share the language         table across both CLDF datasets:
+            # We share the language table across both CLDF datasets:
             writer.cldf.add_component(language_table)
             inventories = self.raw_dir.read_csv(
                 "inventories.tsv", normalize="NFC", delimiter="\t", dicts=True

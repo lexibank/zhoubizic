@@ -17,7 +17,7 @@ idna==3.7
 iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.23.0
--e git+https://github.com/lexibank/zhoubizic.git@276ba2e84decb64419a8282e40623f56fb9b3745#egg=lexibank_zhoubizic
+-e git+https://github.com/lexibank/zhoubizic.git@cf10c5d1583b2c385b064eecef28dc0cf8b29318#egg=lexibank_zhoubizic
 lingpy==2.6.13
 lxml==5.2.2
 Markdown==3.6

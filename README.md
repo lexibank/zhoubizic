@@ -14,6 +14,9 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Zhou-2020-350](https://concepticon.clld.org/contributions/Zhou-2020-350)
 ## Notes
 
 This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin is still vividly discussed among scholars. We have slightly modified the IPA representation and added morphological segmentation markers to the data as well.
@@ -25,13 +28,13 @@ This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin 
 
 [![CLDF validation](https://github.com/lexibank/zhoubizic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhoubizic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
-![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
+![Concepticon: 88%](https://img.shields.io/badge/Concepticon-88%25-yellowgreen.svg "Concepticon: 88%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 7
-- **Concepts:** 346
+- **Varieties:** 7 (linked to 3 different Glottocodes)
+- **Concepts:** 346 (linked to 301 different Concepticon concept sets)
 - **Lexemes:** 1,966
 - **Sources:** 1
 - **Synonymy:** 1.08
@@ -44,7 +47,7 @@ This dataset comprises 9 varieties of Bai, a Sino-Tibetan language whose origin 
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other 
+Johann-Mattis List | @LinguList | maintainer | Editor
 Zhou, Yulou | | data collector | DataCollector, Author
 
 

@@ -1,19 +1,15 @@
-import attr
 from pathlib import Path
+from unicodedata import normalize
 
+import attr
+import lingpy
+from cldfbench import CLDFSpec
+from clldutils.misc import slug
+from pycldf.terms import Terms
+from pyclts import CLTS
 from pylexibank import Concept, Language
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
-
-
-from cldfbench import CLDFSpec
-from pyclts import CLTS
-from pycldf.terms import Terms
-
-
-import lingpy
-from clldutils.misc import slug
-from unicodedata import normalize
 
 
 @attr.s
@@ -37,6 +33,8 @@ class CustomLanguage(Language):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "zhoubizic"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     language_class = CustomLanguage
 
@@ -54,31 +52,29 @@ class Dataset(BaseDataset):
         }
 
     def cmd_makecldf(self, args):
-
         with self.cldf_writer(args) as writer:
             wl = lingpy.Wordlist(self.raw_dir.joinpath("wordlist.tsv").as_posix())
             writer.add_sources()
-            D = {}
 
-            # TODO: add concepts with `add_concepts`
-            concepts = {}
-            for concept in self.concepts:
-                idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
+            concept_lookup = {}
+            for concept in self.conceptlists[0].concepts.values():
+                idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
+                concept_lookup[concept.english] = idx
                 writer.add_concept(
                     ID=idx,
-                    Name=concept["ENGLISH"],
-                    Chinese_Gloss=concept["CHINESE"],
-                    Number=concept["NUMBER"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Name=concept.english,
+                    Number=concept.number,
+                    Chinese_Gloss=concept.attributes["chinese"],
                 )
-                concepts[concept["ENGLISH"]] = idx
+
             languages = writer.add_languages(lookup_factory="Name_in_Source")
             for k in progressbar(wl, desc="wl-to-cldf"):
                 if wl[k, "value"]:
                     lex = writer.add_form(
                         Language_ID=languages[wl[k, "doculect"]],
-                        Parameter_ID=concepts[wl[k, "concept"]],
+                        Parameter_ID=concept_lookup[wl[k, "concept"]],
                         Value=wl[k, "value"],
                         Cognacy=wl[k, "cog"],
                         Form=self.lexemes.get(wl[k, "form"], wl[k, "form"]),
@@ -90,7 +86,7 @@ class Dataset(BaseDataset):
         with self.cldf_writer(args, cldf_spec="structure", clean=False) as writer:
             cltstable = Terms()["cltsReference"].to_column().asdict()
 
-            # We share the language table across both CLDF datasets:
+            # We share the language         table across both CLDF datasets:
             writer.cldf.add_component(language_table)
             inventories = self.raw_dir.read_csv(
                 "inventories.tsv", normalize="NFC", delimiter="\t", dicts=True
